@@ -1,0 +1,11 @@
+{
+  "id": 235,
+  "title": "Tuesdays with Morrie",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Tuesdays with Morrie\" by \"Mitch Albom\" (رمان معاصر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "861086566523cd0dabc0ec6ddff905a6856f2783ad979e38cbcc5fa1cef58ca5",
+  "thumbnail_sha256": "5e3b9c117663a346b7664eaa13e5c0b5f5dc60c84515f6cb29344c10b4e2fef5",
+  "image": "public/concept-art/book-235.webp",
+  "thumbnail": "public/concept-thumb/book-235.webp"
+}

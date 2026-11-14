@@ -1,0 +1,11 @@
+{
+  "id": 48,
+  "title": "انسان در جستجوی معنا",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"انسان در جستجوی معنا\", author \"ویکتور فرانکل\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "fe7b45b598fb3de5fa4939b7644d7076d706b554a1c41aed4d7e4a63adc87021",
+  "thumbnail_sha256": "25b4da28aac1a59c01ee182a3da3ea57a14f0354361a866086d144a03c528a5a",
+  "image": "public/concept-art/book-048.webp",
+  "thumbnail": "public/concept-thumb/book-048.webp"
+}

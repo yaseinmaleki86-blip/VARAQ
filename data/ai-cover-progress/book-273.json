@@ -1,0 +1,11 @@
+{
+  "id": 273,
+  "title": "Thinking in Bets",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Thinking in Bets\" by Annie Duke. Scene: poker chips and dice beside translucent branching paths, probabilities and thoughtful uncertainty. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "aa909270735a0432d716e9780ba8173dfa76521ba52d2911915d333360ff8439",
+  "thumbnail_sha256": "56758d06b2317b1adde87574a3a69b32112d3ac101ad72aa6ba9c913991c24c1",
+  "image": "public/concept-art/book-273.webp",
+  "thumbnail": "public/concept-thumb/book-273.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 260,
+  "title": "Prince Caspian",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Prince Caspian\" by C. S. Lewis. Scene: ruined stone castle amid an enchanted green forest, ancient horn, golden lion-shaped relief. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "f0819e9a1b249f67629dd1942aaeea9c2092108903f65ac9b577ab731b0fcce6",
+  "thumbnail_sha256": "e8a52d5e768dcaf127260698130ae9944eb96949a3da5911190225a10a564bf6",
+  "image": "public/concept-art/book-260.webp",
+  "thumbnail": "public/concept-thumb/book-260.webp"
+}

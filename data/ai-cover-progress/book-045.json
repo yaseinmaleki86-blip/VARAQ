@@ -1,0 +1,11 @@
+{
+  "id": 45,
+  "title": "قورباغه‌ات را قورت بده",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"قورباغه‌ات را قورت بده\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "cff2ecd286f97c5becf180efbaa576076577e710a65a6951053b5c71cb9e54f7",
+  "thumbnail_sha256": "9babbacfcd59c7ea4115be6293243597d9fc31483d653454ec4470296b28627e",
+  "image": "public/concept-art/book-045.webp",
+  "thumbnail": "public/concept-thumb/book-045.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 265,
+  "title": "The Quick and Easy Way to Effective Speaking",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Quick and Easy Way to Effective Speaking\" by Dale Carnegie. Scene: welcoming auditorium with a simple wooden lectern, microphone and note cards without letters. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "3158164ebbeffa32b49224f7fbdcce945959cb476d238e6b48511873b01ad4ca",
+  "thumbnail_sha256": "65e67c72623f1764ea721001e2e9a55a467e23f12cb86249ec76be7aaa84e612",
+  "image": "public/concept-art/book-265.webp",
+  "thumbnail": "public/concept-thumb/book-265.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 299,
+  "title": "The Picture of Dorian Gray",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Picture of Dorian Gray\" by Oscar Wilde. Scene: a covered Victorian portrait beside an old mirror and a wilting rose, aesthetic beauty and hidden decay. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5bacd2b7bcbbf30af9b0a0162c026b333e9645773e84d9609314dd403b79f470",
+  "thumbnail_sha256": "e4045be8818cd11587e8eb1d7ba68627b5984afd354b855a8038a4a56e7e9fb8",
+  "image": "public/concept-art/book-299.webp",
+  "thumbnail": "public/concept-thumb/book-299.webp"
+}

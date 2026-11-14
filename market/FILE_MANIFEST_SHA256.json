@@ -1,0 +1,211 @@
+{
+  "release": "9.6-local-bridge",
+  "notice": "Checksums detect accidental changes only; not a signature.",
+  "files": [
+    {
+      "path": "AUDIT_MERGE.py",
+      "sha256": "086600dd533f679c074ff93f1f9b7bdd4739bd9023abd9adfcffcbd99e01f777",
+      "bytes": 1700
+    },
+    {
+      "path": "AUTO_MERGE_AND_RUN.py",
+      "sha256": "ae894b3c64f96da7bffb04fee02c0fc118ed2812824a77933d62d96678ff0bf8",
+      "bytes": 3529
+    },
+    {
+      "path": "BACKUP_NOW.py",
+      "sha256": "bfc52602d2cefb91530a07a8b2f687a531f42b8d0874242a071bd9ecbe5ab1d8",
+      "bytes": 903
+    },
+    {
+      "path": "CATALOG_AUDIT.py",
+      "sha256": "b13cf7510bbf1a76ba290c7ac978b89124ae1c5c7ef9980523534ab2a1e7bd55",
+      "bytes": 3151
+    },
+    {
+      "path": "FIRST_RUN.py",
+      "sha256": "a6cc585716b65e72dddfe14868674b54b0fee25445577049ce13c19436136fcf",
+      "bytes": 565
+    },
+    {
+      "path": "INSTALL_AND_RUN.bat",
+      "sha256": "3a5d776d2d62c589808f00fac5fed814d4fea68cd4dfe132b835298f89585a5d",
+      "bytes": 256
+    },
+    {
+      "path": "INSTALL_AND_RUN.sh",
+      "sha256": "c8ca26d9c1f0075f3b003b35eb55a79b8de457cef9bea463d0516c74f3ea12b3",
+      "bytes": 56
+    },
+    {
+      "path": "INTEGRATION_REPORT_V95.json",
+      "sha256": "a8356f6a921f2819bce3ebbab772ed11738949dd60e6bcc7b55e593ee8e53a7a",
+      "bytes": 899
+    },
+    {
+      "path": "INTEGRATION_REPORT_V96.json",
+      "sha256": "967a5c77f3334118ec8cf7e406ccaf49a77f3a61866861be34f4664ff1b8b0d1",
+      "bytes": 1030
+    },
+    {
+      "path": "MERGE_AND_RUN.bat",
+      "sha256": "dad122721b85162c4b8c1d151800b288d3e8347d8dcdf6419e579159d21e44b6",
+      "bytes": 340
+    },
+    {
+      "path": "MERGE_AND_RUN.sh",
+      "sha256": "97c06ebdbf69495051e18d7d76ecb338dea76bec3e600b35a505a8aa802562ac",
+      "bytes": 71
+    },
+    {
+      "path": "MERGE_V86.py",
+      "sha256": "a347a764ad55ba6eabe31d00e01d799ff6a14522a2c46420f67df3a69cb6549c",
+      "bytes": 26052
+    },
+    {
+      "path": "MIGRATE_FROM_V86.py",
+      "sha256": "c762f4caa8b28800affe5cb671b1199e8fbe7e9f2d098abe593f4ba56f2b9c9f",
+      "bytes": 290
+    },
+    {
+      "path": "PRESERVE_V91.py",
+      "sha256": "9c399b5b2fdee27109ae360e130693318244d335260cde20d8d716045d4bba6c",
+      "bytes": 4861
+    },
+    {
+      "path": "README_FA.md",
+      "sha256": "534694bec0b07636bd0045e7552da4b8e1e2e40827d4468769cd999adcc9c2a5",
+      "bytes": 9623
+    },
+    {
+      "path": "README_INTEGRATION_FA.md",
+      "sha256": "a1dabde093b58030e5d081170d0d3ec2b2d1ab60e73ca043f618b6b9e3abebc0",
+      "bytes": 4109
+    },
+    {
+      "path": "RELEASE_QA_FA.md",
+      "sha256": "73bdd5c1aa1dcc7b96600892b51087da0f87a0320d9b5bb927a109a92d787832",
+      "bytes": 3244
+    },
+    {
+      "path": "SMOKE_INTEGRATED.py",
+      "sha256": "cd7fcdb499d526edd382cd8b28822f2de8c4ffc34e75aa0068ebe6a2e525890e",
+      "bytes": 1988
+    },
+    {
+      "path": "START_AND_RUN.py",
+      "sha256": "1429c86458aea082ef635970fccf75716e1707480c2608cb694f072d4658422e",
+      "bytes": 800
+    },
+    {
+      "path": "START_INTEGRATED_LINUX_MAC.sh",
+      "sha256": "fdc87417535cfd105a2c52a932526f561772df38cd37f0b51c79d64fdd1189f1",
+      "bytes": 244
+    },
+    {
+      "path": "START_INTEGRATED_WINDOWS.bat",
+      "sha256": "58ffbcfc62cdce63802b8dcdbff975931ba6a81ac4a62e0f6625f2f296e5cf44",
+      "bytes": 878
+    },
+    {
+      "path": "START_UNIFIED.py",
+      "sha256": "ff743fd9fd4916f5ed3f8f33f761ba1cfda703a230f3c56ccaeeee239fa72854",
+      "bytes": 3772
+    },
+    {
+      "path": "STOP_ALL.bat",
+      "sha256": "9642af558c1379d6cd4fe487b464d1407a0712521dac570e115a6ed00ad7cbc9",
+      "bytes": 131
+    },
+    {
+      "path": "STOP_ALL.py",
+      "sha256": "78f24d1cffd05084c4f71c5f8af97eb44d0b90fc72b0db90b05a5ae0056648ca",
+      "bytes": 548
+    },
+    {
+      "path": "STOP_ALL.sh",
+      "sha256": "24113038c96b1d4c61786f3699eaae7d9bcf484217ec1b1f01a70cdb3f96639a",
+      "bytes": 51
+    },
+    {
+      "path": "STOP_INTEGRATED_LINUX_MAC.sh",
+      "sha256": "0130dccad4943787c2f34b0ab09b79a4e7a22639a9d83b99d0a82b0a799e0102",
+      "bytes": 93
+    },
+    {
+      "path": "STOP_INTEGRATED_WINDOWS.bat",
+      "sha256": "29349ac61c45e93bc51413a2fc054140da7ab4fc9cd0e6716682318d8936b200",
+      "bytes": 171
+    },
+    {
+      "path": "VERIFY_INTEGRATED.py",
+      "sha256": "af691933410bd29d0058c709a0c3b7d84bde911bf8a410803f2f7880d3c4a510",
+      "bytes": 1260
+    },
+    {
+      "path": "app.py",
+      "sha256": "c840fc4f38da49c62f4235c71fa3e476e996cbcff59845243a6e2551f57b644e",
+      "bytes": 103172
+    },
+    {
+      "path": "data/editorial_overrides_v95.json",
+      "sha256": "f61ccc57bfaa80650980e413e313882b6954bbcc410cf0dee380ccdc9fbc74e1",
+      "bytes": 1068
+    },
+    {
+      "path": "data/last_merge_v86_report.json",
+      "sha256": "0024fc2b6a8dabfac96c577354fbbaf7ce82e771d198965773a8249bddf6b26f",
+      "bytes": 1358
+    },
+    {
+      "path": "data/varaq.sqlite3",
+      "sha256": "58b27a2354eec628b76c025879771731404f98cad70604c7d78d6b171d7d2cc6",
+      "bytes": 884736
+    },
+    {
+      "path": "test_adopt_v93.py",
+      "sha256": "8353e22bf9265e778dd0c782c14d6656ebd836ee9d3a5bd055b4ebd2e4c450f0",
+      "bytes": 2761
+    },
+    {
+      "path": "test_merge_v92.py",
+      "sha256": "5978ef62a2ead6dfe870f5ae413c8da280264666d10ef07f6d8b91fe64c3a432",
+      "bytes": 4304
+    },
+    {
+      "path": "test_preserve_v91.py",
+      "sha256": "4c0c67e74cdc36aea7a04649522e6673dd7d3d9bdc29d5a19f09048a9c7937f3",
+      "bytes": 2046
+    },
+    {
+      "path": "test_preserve_v92.py",
+      "sha256": "75b5adab6e50b654477c0926af4c7f276f39de7c0c428701a2ddfffa54ebf89a",
+      "bytes": 2077
+    },
+    {
+      "path": "test_smoke.py",
+      "sha256": "3981d5342cb8d86ea37f85e3fed0a8de2ee3161393d591814c81fb9cd762bed4",
+      "bytes": 6436
+    },
+    {
+      "path": "test_v91.py",
+      "sha256": "401f26e36c8b2dcbef8f54abb18ca463695f8571b2a87da5be23df1f6be30021",
+      "bytes": 3393
+    },
+    {
+      "path": "test_v93.py",
+      "sha256": "029147f04bf144ede8ff043efce26aec9d5ae6bf4566df5f1579778076bc7e51",
+      "bytes": 6502
+    },
+    {
+      "path": "test_v94.py",
+      "sha256": "d070e0edeceba6b495610c894b7fca594dd51d6f583fb6a8f501c01ca1d52355",
+      "bytes": 5845
+    },
+    {
+      "path": "test_v96_bridge.py",
+      "sha256": "e71777f7c999954537df8099f98cc56cbe916bdb5fdf1554f9d7d0251231d43f",
+      "bytes": 3266
+    }
+  ]
+}

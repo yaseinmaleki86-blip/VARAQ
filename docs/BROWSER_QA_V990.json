@@ -1,0 +1,11 @@
+{
+  "passed": null,
+  "status": "not_run_environment_blocked",
+  "reason": "Local Chromium launch was prevented by the execution environment socket restrictions. No browser screenshot or visual viewport pass is claimed.",
+  "completed_alternative_checks": [
+    "600 live HTTP detail/reading pages",
+    "300 work-specific introduction/summary pairs",
+    "300 valid unique full images and matching thumbnails",
+    "visual inspection of contact sheet for 51 newly generated images"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": 210,
+  "title": "So Good They Can’t Ignore You",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"So Good They Can’t Ignore You\" by \"Cal Newport\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "e179fb11ed8c139aa67732bdb8d63d4f21087e69b521294bfc11d4cd70e2e494",
+  "thumbnail_sha256": "ec887119d971024e3cf85bc1ed8296f7b5fc42e3a1d9ecc15a5b153108207f29",
+  "image": "public/concept-art/book-210.webp",
+  "thumbnail": "public/concept-thumb/book-210.webp"
+}

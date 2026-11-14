@@ -1,0 +1,11 @@
+{
+  "id": 14,
+  "title": "کنت مونت کریستو",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"کنت مونت کریستو\", author \"\", category \"رمان و ادبیات جهان\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "ae12454ab961c63b3d701fe793035d168b07179e7e04101f4931dcbe9be69219",
+  "thumbnail_sha256": "ee648bea6f9ee511f7f89a519de030226446b33cdbfc0bb98d34ae7ec86d833d",
+  "image": "public/concept-art/book-014.webp",
+  "thumbnail": "public/concept-thumb/book-014.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 112,
+  "title": "گربه کلاه‌به‌سر",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"گربه کلاه‌به‌سر\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "057269ecf33e51e11c3677e221a5a98e9f127ce42ce45ed89957f5e7f71baaf8",
+  "thumbnail_sha256": "ba469e2743509aff50e49c9f4428f6cda408f2c4f63a8925a4d6e88e61c0e880",
+  "image": "public/concept-art/book-112.webp",
+  "thumbnail": "public/concept-thumb/book-112.webp"
+}

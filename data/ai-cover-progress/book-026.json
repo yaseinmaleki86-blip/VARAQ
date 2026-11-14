@@ -1,0 +1,11 @@
+{
+  "id": 26,
+  "title": "بریت‌ماری اینجا بود",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"بریت‌ماری اینجا بود\", author \"فردریک بکمن\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "c152399434d0af076357e5c761384e04621588d576270b6aa006f29f3c5db4e6",
+  "thumbnail_sha256": "8dce81490bf96522b2ff71013958758da38c70e16a1925501cc1f3e28510db25",
+  "image": "public/concept-art/book-026.webp",
+  "thumbnail": "public/concept-thumb/book-026.webp"
+}

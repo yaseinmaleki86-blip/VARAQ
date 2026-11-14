@@ -1,0 +1,11 @@
+{
+  "id": 66,
+  "title": "از خوب به عالی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"از خوب به عالی\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "153991e5d9b02ab958c3f2d82dd008fc6bdde1b10f55da7db57a1bedce2dd44b",
+  "thumbnail_sha256": "18dc8b6d6df6059fdbdeca7b8b139c329f01c42c7d5b7647338ff0ae2c514a8f",
+  "image": "public/concept-art/book-066.webp",
+  "thumbnail": "public/concept-thumb/book-066.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 222,
+  "title": "Nexus",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Nexus\" by \"Yuval Noah Harari\" (فلسفه و تاریخ). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "ed2553dfb2ee2a498d96069420c1c17f38e28a4ca3bb4d7efcf2399fbbc9386a",
+  "thumbnail_sha256": "0f86ac0cfeb4519cf3877e3b51d1729fa56a8ca410b0a48788ffb2df89daf5c7",
+  "image": "public/concept-art/book-222.webp",
+  "thumbnail": "public/concept-thumb/book-222.webp"
+}

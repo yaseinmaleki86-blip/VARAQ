@@ -1,0 +1,11 @@
+{
+  "id": 27,
+  "title": "مادربزرگ سلام رساند و گفت متأسف است",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"مادربزرگ سلام رساند و گفت متأسف است\", author \"\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "13adaae7d41069d7840c2b326dac75958b10c7375d91e1ed902fa53042d1b548",
+  "thumbnail_sha256": "47492ec96a33023a053091279aed3bdbddf677ae1f3d7e1d9e7b506f41a09381",
+  "image": "public/concept-art/book-027.webp",
+  "thumbnail": "public/concept-thumb/book-027.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 272,
+  "title": "The Man Who Mistook His Wife for a Hat",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Man Who Mistook His Wife for a Hat\" by Oliver Sacks. Scene: neurologist's desk with a black hat, violin and anatomical brain sculpture, human perception. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "514689d51939c0dd67ca8e2a9edd1306e785bb903b8eb9932b0c17b48ba8e1a1",
+  "thumbnail_sha256": "9487b4e99a428ac0691943000e8ac0230a2e9b155d059d427d2bc8465727b0f4",
+  "image": "public/concept-art/book-272.webp",
+  "thumbnail": "public/concept-thumb/book-272.webp"
+}

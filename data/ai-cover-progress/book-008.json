@@ -1,0 +1,11 @@
+{
+  "id": 8,
+  "title": "ابله",
+  "prompt": "Use case: illustration-story. Asset: ONE portrait 5:7 full-bleed original literary artwork for a bookstore. Book title: ابله; author: فئودور داستایفسکی; category: رمان و ادبیات جهان. Create a beautiful specific narrative scene inspired by this book's recognizable setting and themes, with naturalistic characters where appropriate, rich spatial depth, carefully painted textures, cinematic lighting, refined editorial illustration. Strong scene composition recognizable at thumbnail size. No text, no lettering, no watermark, no grid, no mockup. Original independent interpretation, do not reproduce an existing cover.",
+  "sha256": "8582398cb11cdc86a015108beff28c95d6890fb967bd78c2ff180d8d41eed9e2",
+  "thumbnail_sha256": "56a339dfc4fd4b44dfe1b24d652349b43a6bd3f16bbdd24d3276b28c10c90495",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "image": "public/concept-art/book-008.webp",
+  "thumbnail": "public/concept-thumb/book-008.webp"
+}

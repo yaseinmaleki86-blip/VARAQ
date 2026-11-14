@@ -1,0 +1,11 @@
+{
+  "id": 42,
+  "title": "عادت‌های اتمی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"عادت‌های اتمی\", author \"جیمز کلیر\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "93175531818ae328790b67f32b1cc7962c2e35150b600beaadb71d7f3b3538a2",
+  "thumbnail_sha256": "5b0ba0b614203e6598dd2acb3b6ed67406dd4928569fc9c6598d33d739a2e835",
+  "image": "public/concept-art/book-042.webp",
+  "thumbnail": "public/concept-thumb/book-042.webp"
+}

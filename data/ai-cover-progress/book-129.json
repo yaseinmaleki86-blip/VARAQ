@@ -1,0 +1,11 @@
+{
+  "id": 129,
+  "title": "یاران حلقه",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"یاران حلقه\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5c4221299152ce5ff622e31c836289025ce2929f7bea621949948c313bbfb972",
+  "thumbnail_sha256": "6b2fe357477b7a10d1032a5d548ac35b4d6d1b8faaf9e1d572f8df4e319a9a80",
+  "image": "public/concept-art/book-129.webp",
+  "thumbnail": "public/concept-thumb/book-129.webp"
+}

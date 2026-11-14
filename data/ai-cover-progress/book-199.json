@@ -1,0 +1,11 @@
+{
+  "id": 199,
+  "title": "مینیمالیسم دیجیتال",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"مینیمالیسم دیجیتال\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "a43b712822b0b5ed3597bf5bb3f28ab28d998cfdcda1d68f0df15da2fbeae31e",
+  "thumbnail_sha256": "632d5f08580085253b47deef0ccd9414df19ad312b980d760a469d03c473b26a",
+  "image": "public/concept-art/book-199.webp",
+  "thumbnail": "public/concept-thumb/book-199.webp"
+}

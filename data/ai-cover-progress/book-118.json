@@ -1,0 +1,11 @@
+{
+  "id": 118,
+  "title": "پاستیل‌های بنفش",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"پاستیل‌های بنفش\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "1ab1d16ca40acf4a7444acf464fae3781ef4db3f394f19340102d4b14cda27b9",
+  "thumbnail_sha256": "0bf4d9b719cf302bb19cc15b7538d1c17a2c7a12dd91ba223163b2fb9600abf2",
+  "image": "public/concept-art/book-118.webp",
+  "thumbnail": "public/concept-thumb/book-118.webp"
+}

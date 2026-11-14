@@ -1,0 +1,11 @@
+{
+  "id": 89,
+  "title": "۲۱ درس برای قرن ۲۱",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"۲۱ درس برای قرن ۲۱\". Author: \"یووال نوح هراری\". Category: \"فلسفه و تاریخ\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "3af3c7c42ab272e5122369ebbe0c217b0397cad111fd5e7f31bfea7427f00ff4",
+  "thumbnail_sha256": "17972a78b997d0d1b423bf7f6196d81ee15b828cf959e87c896c4317e4dac5e0",
+  "image": "public/concept-art/book-089.webp",
+  "thumbnail": "public/concept-thumb/book-089.webp"
+}

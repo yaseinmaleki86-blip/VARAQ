@@ -1,0 +1,11 @@
+{
+  "id": 177,
+  "title": "مغز داستان شما",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"مغز داستان شما\" by \"\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "b1c923873fe184c9b9106db3f92a8e56d7e82dbc2fe1d8a26036cb8e8323fb8a",
+  "thumbnail_sha256": "6c88968b52925e3ff24f7d4d4a61523292a871e41680ea64f10ddca621d384db",
+  "image": "public/concept-art/book-177.webp",
+  "thumbnail": "public/concept-thumb/book-177.webp"
+}

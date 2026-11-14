@@ -1,0 +1,11 @@
+{
+  "id": 165,
+  "title": "کیهان",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"کیهان\" by \"کارل سیگن\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "6ec00f3cad77acc0add3d7875bbf88b063da0d63c4b098a3d54aa88a54c6c3fa",
+  "thumbnail_sha256": "6cede51cb9bc3848d4c16504fbce28b5c1e8ec9619c02406582c8b6228e83314",
+  "image": "public/concept-art/book-165.webp",
+  "thumbnail": "public/concept-thumb/book-165.webp"
+}

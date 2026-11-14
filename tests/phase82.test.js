@@ -1,0 +1,70 @@
+'use strict';
+const {test}=require('node:test');
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const os=require('node:os');
+const path=require('node:path');
+const {DatabaseSync}=require('node:sqlite');
+const readiness=require('../lib/catalog-readiness-v82');
+const editorial=require('../lib/generated-editorial-review');
+function fixture(){
+ const db=new DatabaseSync(':memory:');
+ db.exec(`CREATE TABLE books(id INTEGER PRIMARY KEY,slug TEXT,title TEXT,author TEXT,publisher TEXT,description TEXT,category TEXT);
+ CREATE TABLE users(id INTEGER PRIMARY KEY);
+ CREATE TABLE stores(id INTEGER PRIMARY KEY,active INTEGER);
+ CREATE TABLE editions(id INTEGER PRIMARY KEY,book_id INTEGER,verified INTEGER);
+ CREATE TABLE edition_sources(edition_id INTEGER,source_url TEXT);
+ CREATE TABLE edition_cover_assets(edition_id INTEGER,filename TEXT,mime TEXT);
+ CREATE TABLE book_covers(book_id INTEGER,filename TEXT,mime TEXT);
+ CREATE TABLE stock_items(id INTEGER PRIMARY KEY,book_id INTEGER,store_id INTEGER,active INTEGER,quantity INTEGER);
+ INSERT INTO books VALUES(1,'book-001','ملت عشق','الیف شافاک','','','رمان'),(2,'book-002','=evil','', '', '', 'ادبیات');
+ INSERT INTO stores VALUES(1,1);
+ INSERT INTO editions VALUES(1,1,1);
+ INSERT INTO edition_sources VALUES(1,'https://example.com/edition');
+ INSERT INTO stock_items VALUES(1,1,1,1,2);`);
+ editorial.migrate(db);
+ const directory=fs.mkdtempSync(path.join(os.tmpdir(),'varaq-82-'));
+ fs.mkdirSync(path.join(directory,'public','concept-art'),{recursive:true});
+ fs.mkdirSync(path.join(directory,'public','concept-thumb'),{recursive:true});
+ // Copy a real WebP source asset; synthetic headers alone must not count as valid imagery.
+ fs.copyFileSync(path.join(__dirname,'..','public','concept-art','book-001.webp'),path.join(directory,'public','concept-art','book-001.webp'));
+ fs.copyFileSync(path.join(__dirname,'..','public','concept-thumb','book-001.webp'),path.join(directory,'public','concept-thumb','book-001.webp'));
+ return {db,directory,catalogue:[{id:1,title:'ملت عشق',description:'کتابی درباره عشق',reader_note:'معرفی',topics:['معنا']},{id:2,title:'=evil',description:'',reader_note:'',topics:[]}]};
+}
+test('8.2 catalog board distinguishes verified local art, absent artwork, unsigned publisher covers and editorial drafts',t=>{
+ const f=fixture();t.after(()=>{f.db.close();fs.rmSync(f.directory,{recursive:true,force:true});});
+ const rows=readiness.scan(f.db,{root:f.directory,dataDir:f.directory,catalogue:f.catalogue});
+ assert.equal(rows.length,2);
+ assert.equal(rows[0].art_ok,true);assert.equal(rows[0].thumb_ok,true);
+ assert.equal(rows[0].local_cover,false);assert.equal(rows[0].generated_intro,true);
+ assert.equal(rows[0].editorial_status,'pending');assert.equal(rows[0].source_editions,1);
+ assert.ok(rows[0].issues.includes('cover'));
+ assert.ok(!rows[0].issues.includes('art'));
+ assert.equal(rows[1].art_ok,false);assert.ok(rows[1].issues.includes('art'));
+ assert.ok(rows[1].issues.includes('intro'));assert.ok(rows[1].issues.includes('author'));
+ const stats=readiness.summary(rows);assert.equal(stats.total,2);assert.equal(stats.withArtwork,1);
+ assert.equal(stats.localCovers,0);assert.equal(stats.withGeneratedIntro,1);
+});
+test('8.2 filters normalize Persian/Arabic characters, bound pages and escape CSV formula cells',t=>{
+ const f=fixture();t.after(()=>{f.db.close();fs.rmSync(f.directory,{recursive:true,force:true});});
+ const rows=readiness.scan(f.db,{root:f.directory,dataDir:f.directory,catalogue:f.catalogue});
+ assert.equal(readiness.select(rows,{q:'ملت عشق'}).total,1);
+ assert.equal(readiness.select(rows,{q:'الیف شافاك'}).total,1);
+ assert.equal(readiness.select(rows,{mode:'art'}).total,1);
+ assert.equal(readiness.select(rows,{mode:'unrecognized'}).mode,'all');
+ assert.equal(readiness.select(rows,{page:999,perPage:1}).page,2);
+ const csv=readiness.csv(rows);
+ assert.match(csv,/"'=evil"/);assert.match(csv,/editorial_status/);
+ assert.doesNotMatch(csv,/private_key|rights_evidence|password_hash/);
+});
+test('8.2 rejects malformed artwork and missing files without mutating stored data',t=>{
+ const f=fixture();t.after(()=>{f.db.close();fs.rmSync(f.directory,{recursive:true,force:true});});
+ const file=path.join(f.directory,'public','concept-thumb','book-001.webp');
+ assert.equal(readiness.validWebp(file),true);
+ fs.appendFileSync(file,'X');
+ assert.equal(readiness.validWebp(file),false);
+ assert.equal(readiness.validWebp(path.join(f.directory,'not-found.webp')),false);
+ const before=f.db.prepare('SELECT COUNT(*) n FROM books').get().n;
+ readiness.scan(f.db,{root:f.directory,dataDir:f.directory,catalogue:f.catalogue});
+ assert.equal(f.db.prepare('SELECT COUNT(*) n FROM books').get().n,before);
+});

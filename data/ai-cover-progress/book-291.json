@@ -1,0 +1,11 @@
+{
+  "id": 291,
+  "title": "The Silmarillion",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Silmarillion\" by J. R. R. Tolkien. Scene: two radiant mythic trees, three jewel-like lights above ancient elven mountains, epic original fantasy scenery. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "f388db587efc04c8e9b59b4192ed1047499315859c7ee879c8ff86681c4de561",
+  "thumbnail_sha256": "ed133d013e6b702fde02d34fed7ac17c31269205e8b2e024e8872250c0cd9ae9",
+  "image": "public/concept-art/book-291.webp",
+  "thumbnail": "public/concept-thumb/book-291.webp"
+}

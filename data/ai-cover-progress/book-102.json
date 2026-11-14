@@ -1,0 +1,11 @@
+{
+  "id": 102,
+  "title": "قصه‌های خوب برای بچه‌های خوب",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"قصه‌های خوب برای بچه‌های خوب\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5b0ad063376158db669ce0fdf442b2cb50186d4cdc9238a193bbfa4366000253",
+  "thumbnail_sha256": "2381490f565eeaace8e8faf4eeb90fdf9b92f48e292b5c13f72da18414511774",
+  "image": "public/concept-art/book-102.webp",
+  "thumbnail": "public/concept-thumb/book-102.webp"
+}

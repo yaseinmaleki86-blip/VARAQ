@@ -1,0 +1,11 @@
+{
+  "id": 180,
+  "title": "هفت درس کوتاه درباره فیزیک",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هفت درس کوتاه درباره فیزیک\" by \"\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "3555f621c4b8d7eee798984d7009ae9c08f7ab818302e72c29e0991ee09de8c5",
+  "thumbnail_sha256": "3e658facef37b716083972e47fc373e0f20eaa669c3c1a6885a08a68f20dbda6",
+  "image": "public/concept-art/book-180.webp",
+  "thumbnail": "public/concept-thumb/book-180.webp"
+}

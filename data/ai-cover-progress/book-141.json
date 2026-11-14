@@ -1,0 +1,11 @@
+{
+  "id": 141,
+  "title": "شاهنامه فردوسی",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"شاهنامه فردوسی\" by \"فردوسی\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "6aa107d5acd729e7c4b88ae672423723ec8e99a346e086791bba65c925a156fb",
+  "thumbnail_sha256": "bf6750079e450f11e5ab28f2d24b45accc3d0127e3fe7b84d14602c8dae97302",
+  "image": "public/concept-art/book-141.webp",
+  "thumbnail": "public/concept-thumb/book-141.webp"
+}

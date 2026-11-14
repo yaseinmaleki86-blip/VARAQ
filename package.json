@@ -1,0 +1,29 @@
+{
+  "name": "varaq-book-market",
+  "version": "8.6.0",
+  "private": true,
+  "description": "1000-book searchable catalogue with original concept covers, Persian editorial draft introductions and safe migration; paid checkout disabled",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "stop": "node stop-all.js",
+    "clean:temp": "node clean-temp.js",
+    "prepare:removal": "node prepare-removal.js",
+    "test": "node --test --test-concurrency=4 tests/*.test.js",
+    "backup": "node backup.js",
+    "quality": "node quality-report.js",
+    "seo:audit": "node tools/seo-audit.js",
+    "preflight": "node preflight.js",
+    "smoke:public": "node release-smoke.js",
+    "verify:release": "node verify-release.js",
+    "rehearse:restore": "node recovery-rehearsal.js",
+    "release:decision": "node release-decision.js",
+    "covers:report": "node tools/cover-catalog-report.js",
+    "editorial:review": "node tools/generated-editorial-report.js",
+    "smoke:mobile": "node tools/mobile-check.js",
+    "smoke:layout": "python tools/mobile-layout-audit.py"
+  },
+  "license": "UNLICENSED"
+}

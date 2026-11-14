@@ -1,0 +1,11 @@
+{
+  "id": 137,
+  "title": "من ربات",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"من ربات\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "acfd7f22db0e0457d94e385c4f92a4000576a1c3a57bc10946c9b029c543c31b",
+  "thumbnail_sha256": "8d11e50fef29f988477841cb8854b69f8dd634ddecbb741b6866df51a962761d",
+  "image": "public/concept-art/book-137.webp",
+  "thumbnail": "public/concept-thumb/book-137.webp"
+}

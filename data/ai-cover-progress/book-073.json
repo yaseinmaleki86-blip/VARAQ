@@ -1,0 +1,11 @@
+{
+  "id": 73,
+  "title": "استراتژی اقیانوس آبی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"استراتژی اقیانوس آبی\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "08da4bb9031076cba3a308bf482e7644a26d00ed885e2d703bf88962405fce01",
+  "thumbnail_sha256": "00743560b6c4fdb0031b6737347df07c746fbdd252198b980a6b1a0904e891b4",
+  "image": "public/concept-art/book-073.webp",
+  "thumbnail": "public/concept-thumb/book-073.webp"
+}

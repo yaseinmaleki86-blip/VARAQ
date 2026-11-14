@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "version": "8.6.0",
+  "total": 1000,
+  "book_count_previous": 200,
+  "new_records": 800,
+  "book_title_policy": "Curated, original-language work names; edition, translator, publisher and ISBN unknown unless separately verified.",
+  "summary_policy": "200 existing editorial introductions retained; 800 original Persian editorial drafts, some thematic rather than plot-specific. Manual factual review required.",
+  "cover_policy": "800 original generated typographic concept designs, not official book jackets or claimed publisher assets.",
+  "payment_status": "disabled",
+  "book_ids": [
+    201,
+    1000
+  ]
+}

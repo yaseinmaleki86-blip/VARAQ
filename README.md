@@ -1,3 +1,35 @@
-# VARAQ
+# VARAQ | ورق
 
-Full release import is running. The complete source will replace this temporary README after integrity verification.
+نسخه ۹.۹.۰ — سامانه معرفی و فروش چندفروشگاهی کتاب.
+
+## محتوای این نسخه
+
+- بانک ۱۰۰۰ عنوان کتاب
+- ۳۰۰ تصویر اختصاصی به همراه نسخه سبک کارت‌ها
+- ۳۰۰ معرفی و ۳۰۰ خلاصه کوتاه اختصاصی
+- مجموعه آماده با نشانی `/books-300`
+- پنل مدیریت و فروشندگان؛ پرداخت آنلاین فعلاً غیرفعال است
+
+تصاویر، برداشت اختصاصی ورق از آثارند و جلد رسمی ناشر نیستند.
+
+## اجرا
+
+Node.js 24 پیشنهاد می‌شود. در ویندوز `START_WINDOWS.bat` را اجرا کنید؛ یا در ریشه پروژه:
+
+```bash
+npm start
+```
+
+سایت در `http://127.0.0.1:3030` اجرا می‌شود. راهنمای کامل: [README_FA.md](README_FA.md).
+
+مرور تصاویر و متن‌های ۳۰۰ کتاب بدون سرور: [صفحه مرور](docs/REVIEW_300_EXCLUSIVE_BOOKS_FA.html).
+
+## بررسی
+
+آزمون‌های مرتبط با این مرحله:
+
+```bash
+node --test tests/phase989-ai-cover-progress.test.js tests/phase990-exclusive-300.test.js
+```
+
+نمایش معرفی و خلاصه در ۶۰۰ صفحه HTTP بررسی شده است. گزارش‌ها در `docs/TEST_RESULTS_V990.txt` و `data/TARGET_300_COMPLETION_V990.json` قرار دارند. بررسی بصری مرورگر در محیط ساخت مسدود بود.

@@ -1,0 +1,11 @@
+{
+  "id": 4,
+  "title": "صد سال تنهایی",
+  "prompt": "Use case: illustration-story. Asset: ONE portrait 5:7 full-bleed original literary artwork for a bookstore. Book title: صد سال تنهایی; author: گابریل گارسیا مارکز; category: رمان و ادبیات جهان. Create a beautiful specific narrative scene inspired by this book's recognizable setting and themes, with naturalistic characters where appropriate, rich spatial depth, carefully painted textures, cinematic lighting, refined editorial illustration. Strong scene composition recognizable at thumbnail size. No text, no lettering, no watermark, no grid, no mockup. Original independent interpretation, do not reproduce an existing cover.",
+  "sha256": "eccc26d7326cc4dfcf1b9d0955f723975cadaac4d2cfdea2f96a7e59a9f5d63f",
+  "thumbnail_sha256": "e95df54dfb425d8b7539e1bf37467bf21f10127bfc526c42add34b3b790d24c3",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "image": "public/concept-art/book-004.webp",
+  "thumbnail": "public/concept-thumb/book-004.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 125,
+  "title": "هری پاتر و محفل ققنوس",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هری پاتر و محفل ققنوس\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "b0a49bb722af6f0c5863bec2c73de3c0e783da35d830713298247bcc680f24c5",
+  "thumbnail_sha256": "7625b824e157f98fec719d3ca7aecabbaa9ec56bece59702e7a7e614e487b542",
+  "image": "public/concept-art/book-125.webp",
+  "thumbnail": "public/concept-thumb/book-125.webp"
+}

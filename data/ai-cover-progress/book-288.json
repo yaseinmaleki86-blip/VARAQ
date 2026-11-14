@@ -1,0 +1,11 @@
+{
+  "id": 288,
+  "title": "Exile and the Kingdom",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Exile and the Kingdom\" by Albert Camus. Scene: a solitary doorway between a desert and a distant city, six small stones, quiet literary estrangement. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "24272c1991ca484cad1520a7181d9d7f0ea268e9ef0c8d1fe8b43d8409b2af08",
+  "thumbnail_sha256": "7498afa864594686bee4cf5f22c1bedac00e4596bbe63b19d72b689c0ca03009",
+  "image": "public/concept-art/book-288.webp",
+  "thumbnail": "public/concept-thumb/book-288.webp"
+}

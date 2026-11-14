@@ -1,0 +1,11 @@
+{
+  "id": 298,
+  "title": "How to Become a Straight-A Student",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"How to Become a Straight-A Student\" by Cal Newport. Scene: bright college library study desk, tidy notes without words, colored time blocks and a small clock. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7b83fbc2fae20087adb608a0ac281ebb0d20eb74490010d098d3783f5494632f",
+  "thumbnail_sha256": "641c62b0fded63466ba37a9b46a3a08bd5ed428767b5a90fae3f04d372b59ccd",
+  "image": "public/concept-art/book-298.webp",
+  "thumbnail": "public/concept-thumb/book-298.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 187,
+  "title": "مردان مریخی زنان ونوسی",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"مردان مریخی زنان ونوسی\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "620608d973e22b5de274d9187b9cdef9291c2705f1f46077178804a8c2cf976d",
+  "thumbnail_sha256": "020fb5e06ee970c23c1e4a2f34ee5edaed280d2b41bb2c310771d75e8c039316",
+  "image": "public/concept-art/book-187.webp",
+  "thumbnail": "public/concept-thumb/book-187.webp"
+}

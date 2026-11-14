@@ -1,0 +1,11 @@
+{
+  "id": 50,
+  "title": "نمی‌توانی به من آسیب بزنی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"نمی‌توانی به من آسیب بزنی\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5cc702d0400b9ff5f3ccc02d8aba9df8098d5d4cb9ad1d5b1bcb9fd2bbd0381e",
+  "thumbnail_sha256": "6de9d4ad7fa3dd37853f3a2f6c82d6d0b4e80586257eafed324f1f5072b08091",
+  "image": "public/concept-art/book-050.webp",
+  "thumbnail": "public/concept-thumb/book-050.webp"
+}

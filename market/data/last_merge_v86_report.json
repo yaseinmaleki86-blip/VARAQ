@@ -1,0 +1,49 @@
+{
+  "version": "9.5",
+  "source_files": [
+    {
+      "source": "data/books.json + data/generated_catalog_v86.json",
+      "valid": 1000,
+      "rows": 1000,
+      "authoritative": true
+    }
+  ],
+  "source_rows": 1000,
+  "unique_books": 1000,
+  "covers_recognized": 1000,
+  "summaries_recognized": 1000,
+  "distinct_cover_files": 1000,
+  "distinct_summaries": 1000,
+  "uncompressed_cover_bytes": 23529286,
+  "complete_book_records": 1000,
+  "incomplete_count": 0,
+  "incomplete_sample": [],
+  "source_sha256": "55fcbda4b71332a553dbd9f33892b83bee4c64fad3b3a1abdabfe9d241b90bc9",
+  "target_shop_id": 1,
+  "expected_books": 1000,
+  "books_sample": [
+    "ملت عشق",
+    "کیمیاگر",
+    "شازده کوچولو",
+    "صد سال تنهایی",
+    "جزء از کل",
+    "جنایت و مکافات",
+    "برادران کارامازوف",
+    "ابله",
+    "قمارباز",
+    "شب‌های روشن",
+    "بینوایان",
+    "گوژپشت نتردام"
+  ],
+  "status": "applied",
+  "backup_database": null,
+  "backup_sha256": null,
+  "inserted": 1000,
+  "enriched": 0,
+  "unchanged": 0,
+  "new_cover_files": 0,
+  "final_shop_book_count": 1000,
+  "applied_at": "2026-11-06T01:09:04",
+  "bundled_preimport": true,
+  "scope": "Only catalogue titles, draft introductions and concept images; no v8.6 users/orders/payment state migrated"
+}

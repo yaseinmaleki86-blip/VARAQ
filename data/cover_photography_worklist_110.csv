@@ -1,0 +1,111 @@
+﻿book_id,title,isbn,publisher,translator,expected_filename,photo_status,required_permission
+1,ملت عشق,9789643119195,ققنوس,ارسلان فصیحی,9789643119195.jpg,not_supplied,written_authorization_if_needed
+2,کیمیاگر,9789646404465,ثالث,حسین نعیمی,9789646404465.jpg,not_supplied,written_authorization_if_needed
+3,شازده کوچولو,9786224891099,پنتر,المیرا دادمهر,9786224891099.jpg,not_supplied,written_authorization_if_needed
+4,صد سال تنهایی,9789640013830,امیرکبیر,بهمن فرزانه,9789640013830.jpg,not_supplied,written_authorization_if_needed
+4,صد سال تنهایی,9789647196222,آریابان,کیومرث پارسای,9789647196222.jpg,not_supplied,written_authorization_if_needed
+5,جزء از کل,9786002295002,چشمه,پیمان خاکسار,9786002295002.jpg,not_supplied,written_authorization_if_needed
+6,جنایت و مکافات,9786002530455,پارسه,پرویز شهدی,9786002530455.jpg,not_supplied,written_authorization_if_needed
+6,جنایت و مکافات,9786006027708,پارمیس,مریم امیری و آزاده پیراسته,9786006027708.jpg,not_supplied,written_authorization_if_needed
+6,جنایت و مکافات,9789642132201,مرکز,احد علیقلیان,9789642132201.jpg,not_supplied,written_authorization_if_needed
+6,جنایت و مکافات,9789643517397,نگاه,اصغر رستگار,9789643517397.jpg,not_supplied,written_authorization_if_needed
+7,برادران کارامازوف,9789646205079,ناهید,صالح حسینی,9789646205079.jpg,not_supplied,written_authorization_if_needed
+9,قمارباز,9786002291820,چشمه,سروش حبیبی,9786002291820.jpg,not_supplied,written_authorization_if_needed
+10,شب‌های روشن,9789642090839,ماهی,سروش حبیبی,9789642090839.jpg,not_supplied,written_authorization_if_needed
+10,شب‌های روشن,9789642091928,ماهی,سروش حبیبی,9789642091928.jpg,not_supplied,written_authorization_if_needed
+11,بینوایان,9786004560184,هرمس,محمدرضا پارسایار,9786004560184.jpg,not_supplied,written_authorization_if_needed
+11,بینوایان,9789643693800,افق,محسن سلیمانی,9789643693800.jpg,not_supplied,written_authorization_if_needed
+12,گوژپشت نتردام,9786226847209,شاهدخت پاییز,جواد محیی,9786226847209.jpg,not_supplied,written_authorization_if_needed
+12,گوژپشت نتردام,9789648007718,پر,جواد محیی,9789648007718.jpg,not_supplied,written_authorization_if_needed
+13,سه تفنگدار,9789640015940,امیرکبیر,محمدطاهر قاجار,9789640015940.jpg,not_supplied,written_authorization_if_needed
+13,سه تفنگدار,9789647100816,هرمس,محمدطاهر میرزااسکندری,9789647100816.jpg,not_supplied,written_authorization_if_needed
+14,کنت مونت کریستو,9789647100823,هرمس,محمدطاهرمیرزاقاجار,9789647100823.jpg,not_supplied,written_authorization_if_needed
+15,غرور و تعصب,9786002531667,پارسه,پروین ادیب,9786002531667.jpg,not_supplied,written_authorization_if_needed
+15,غرور و تعصب,9786007727690,کاریز,فرزانه حاجیلوییان,9786007727690.jpg,not_supplied,written_authorization_if_needed
+15,غرور و تعصب,9789643128432,نی,رضا رضایی,9789643128432.jpg,not_supplied,written_authorization_if_needed
+16,بلندی‌های بادگیر,9789641851813,نی,رضا رضایی,9789641851813.jpg,not_supplied,written_authorization_if_needed
+17,جین ایر,9789649410326,سروستان,زهره بکوبی,9789649410326.jpg,not_supplied,written_authorization_if_needed
+18,آنا کارنینا,9786226654722,نیلوفر,سروش حبیبی,9786226654722.jpg,not_supplied,written_authorization_if_needed
+19,جنگ و صلح,9789644480256,نیلوفر,سروش حبیبی,9789644480256.jpg,not_supplied,written_authorization_if_needed
+19,جنگ و صلح,9789644484148,نیلوفر,سروش حبیبی,9789644484148.jpg,not_supplied,written_authorization_if_needed
+21,بادبادک‌باز,9789641915423,مروارید,زیبا گنجی و پریسا سلیمان‌زاده,9789641915423.jpg,not_supplied,written_authorization_if_needed
+22,هزار خورشید تابان,9786006585468,راه معاصر,بهناز پیاده,9786006585468.jpg,not_supplied,written_authorization_if_needed
+22,هزار خورشید تابان,9789643803247,ثالث,مهدی غبرائی,9789643803247.jpg,not_supplied,written_authorization_if_needed
+22,هزار خورشید تابان,9789648838879,مروارید,زیبا گنجی، پریسا سلیمان‌زاده,9789648838879.jpg,not_supplied,written_authorization_if_needed
+24,کتابخانه نیمه‌شب,9786004614610,کتاب کوله‌پشتی,محمدصالح نورانی‌زاده,9786004614610.jpg,not_supplied,written_authorization_if_needed
+24,کتابخانه نیمه‌شب,9786226847674,شاهدخت پاییز,معصومه ضمیر,9786226847674.jpg,not_supplied,written_authorization_if_needed
+25,مردی به نام اوه,9786007141779,نون,الناز فرحناکیان,9786007141779.jpg,not_supplied,written_authorization_if_needed
+25,مردی به نام اوه,9786008740490,نون,الناز فرحناکیان,9786008740490.jpg,not_supplied,written_authorization_if_needed
+25,مردی به نام اوه,9786008870609,نظاره,جواد شاهدی,9786008870609.jpg,not_supplied,written_authorization_if_needed
+26,بریت‌ماری اینجا بود,9786008211907,کتاب کوله‌پشتی,حسین تهرانی,9786008211907.jpg,not_supplied,written_authorization_if_needed
+26,بریت‌ماری اینجا بود,9786008740520,نون,آذین سرداری,9786008740520.jpg,not_supplied,written_authorization_if_needed
+27,مادربزرگ سلام رساند و گفت متأسف است,9786007141892,نون,نیلوفر خوش‌زبان,9786007141892.jpg,not_supplied,written_authorization_if_needed
+29,من پیش از تو,9786004863339,اختر,نازنین جباریان‌صابر,9786004863339.jpg,not_supplied,written_authorization_if_needed
+29,من پیش از تو,9786006605425,آموت,مریم مفتاحی,9786006605425.jpg,not_supplied,written_authorization_if_needed
+29,من پیش از تو,9786008399872,آتیسا,فرزام حبیبی‌اصفهانی,9786008399872.jpg,not_supplied,written_authorization_if_needed
+30,پس از تو,9786003840188,آموت,مریم مفتاحی,9786003840188.jpg,not_supplied,written_authorization_if_needed
+30,پس از تو,9786006849867,نسیم قلم,ملیحه وفایی,9786006849867.jpg,not_supplied,written_authorization_if_needed
+30,پس از تو,9786008937005,شاپیگان کتاب,فاطمه امینی,9786008937005.jpg,not_supplied,written_authorization_if_needed
+32,دختری که رهایش کردی,9786001632228,عقیل,المیرا امیری,9786001632228.jpg,not_supplied,written_authorization_if_needed
+32,دختری که رهایش کردی,9786007845820,میلکان,کتایون اسماعیلی,9786007845820.jpg,not_supplied,written_authorization_if_needed
+32,دختری که رهایش کردی,9789644531309,مجید,سونیا سینگ,9789644531309.jpg,not_supplied,written_authorization_if_needed
+33,چراغ‌ها را من خاموش می‌کنم,9789643056568,مرکز,,9789643056568.jpg,not_supplied,written_authorization_if_needed
+34,پاییز فصل آخر سال است,9786002294821,چشمه,,9786002294821.jpg,not_supplied,written_authorization_if_needed
+36,چشم‌هایش,9789646736597,نگاه,,9789646736597.jpg,not_supplied,written_authorization_if_needed
+37,سووشون,9789644870057,خوارزمی,,9789644870057.jpg,not_supplied,written_authorization_if_needed
+39,دالان بهشت,9789643112134,ققنوس,,9789643112134.jpg,not_supplied,written_authorization_if_needed
+40,سمفونی مردگان,9789643113445,ققنوس,,9789643113445.jpg,not_supplied,written_authorization_if_needed
+41,اثر مرکب,9786008367833,نگاران قلم,مینا کریمی,9786008367833.jpg,not_supplied,written_authorization_if_needed
+41,اثر مرکب,9786009982073,رازآور,حمیدرضا زین‌الدین,9786009982073.jpg,not_supplied,written_authorization_if_needed
+41,اثر مرکب,9789642366842,نسل نواندیش,اکبر عباسی و شاهین بیات,9789642366842.jpg,not_supplied,written_authorization_if_needed
+42,عادت‌های اتمی,9786008738701,نوین,هادی بهمنی,9786008738701.jpg,not_supplied,written_authorization_if_needed
+43,قدرت عادت,9786008738091,نوین توسعه,مصطفی طرسکی و معصومه ثابت‌قدم,9786008738091.jpg,not_supplied,written_authorization_if_needed
+45,قورباغه‌ات را قورت بده,9786008913085,نگاه نوین,مهدی نکوئی,9786008913085.jpg,not_supplied,written_authorization_if_needed
+45,قورباغه‌ات را قورت بده,9789647398473,صمد,شیوا شفیعی,9789647398473.jpg,not_supplied,written_authorization_if_needed
+46,چهار اثر فلورانس اسکاول شین,9789643283377,پیکان,گیتی خوشدل,9789643283377.jpg,not_supplied,written_authorization_if_needed
+47,قدرت حال,9786226821377,ارمغان,لیلا بنی‌صفر,9786226821377.jpg,not_supplied,written_authorization_if_needed
+47,قدرت حال,9789649078946,سمام,محمدرضا علیمی,9789649078946.jpg,not_supplied,written_authorization_if_needed
+48,انسان در جستجوی معنا,9786003400948,لیوسا,نهضت صالحیان و مهین میلانی,9786003400948.jpg,not_supplied,written_authorization_if_needed
+52,هفت عادت مردمان مؤثر,9789649146683,هامون,محمدرضا آل‌یاسین,9789649146683.jpg,not_supplied,written_authorization_if_needed
+53,چه کسی پنیر مرا جابه‌جا کرد؟,9786229985441,آثار برات,سیما بدراوغلی‌تبریزی,9786229985441.jpg,not_supplied,written_authorization_if_needed
+53,چه کسی پنیر مرا جابه‌جا کرد؟,9789645634283,لیوسا,عطیه رفیعی,9789645634283.jpg,not_supplied,written_authorization_if_needed
+55,جادوی فکر بزرگ,9786222892593,آتیسا,محمد صادقی,9786222892593.jpg,not_supplied,written_authorization_if_needed
+56,چهار میثاق,9786227153095,رازآور,حمیدرضا زین‌الدین,9786227153095.jpg,not_supplied,written_authorization_if_needed
+57,تئوری انتخاب,9786008866480,زرین کلک,گلناز سهرابی,9786008866480.jpg,not_supplied,written_authorization_if_needed
+57,تئوری انتخاب,9786226744317,آسو,مهناز اژدری,9786226744317.jpg,not_supplied,written_authorization_if_needed
+58,زندگی خود را دوباره بیافرینید,9786008392170,شمشاد,ساره حسینی‌عطار,9786008392170.jpg,not_supplied,written_authorization_if_needed
+58,زندگی خود را دوباره بیافرینید,9786226573429,میلکان,رضا اکبری,9786226573429.jpg,not_supplied,written_authorization_if_needed
+61,پدر پولدار پدر بی‌پول,9789649366807,آوین,مامک بهادرزاده,9789649366807.jpg,not_supplied,written_authorization_if_needed
+62,روان‌شناسی پول,9786001184819,ذهن‌آویز,ویدا کرمی,9786001184819.jpg,not_supplied,written_authorization_if_needed
+62,روان‌شناسی پول,9786222207908,نسل نواندیش,فاطمه باغستانی,9786222207908.jpg,not_supplied,written_authorization_if_needed
+63,ثروتمندترین مرد بابل,9786007720530,ریواس,مهناز مهری,9786007720530.jpg,not_supplied,written_authorization_if_needed
+63,ثروتمندترین مرد بابل,9789646276178,راه‌بین,مهدی مجردزاده کرمانی,9789646276178.jpg,not_supplied,written_authorization_if_needed
+78,کار عمیق,9786225860353,رابو,میثم صمدی,9786225860353.jpg,not_supplied,written_authorization_if_needed
+81,دنیای سوفی,9786007399873,آوای مهدیس,محمدرضا کمالی,9786007399873.jpg,not_supplied,written_authorization_if_needed
+81,دنیای سوفی,9786229698044,سبو,آرزو علیزاده,9786229698044.jpg,not_supplied,written_authorization_if_needed
+81,دنیای سوفی,9789642575985,جامی,مهدی سمسار,9789642575985.jpg,not_supplied,written_authorization_if_needed
+83,چنین گفت زرتشت,9786227992069,آزرمیدخت,آرش هوشنگی‌فر,9786227992069.jpg,not_supplied,written_authorization_if_needed
+83,چنین گفت زرتشت,9789643290986,آگه,داریوش آشوری,9789643290986.jpg,not_supplied,written_authorization_if_needed
+87,انسان خردمند,9786008547037,نشر نو,نیک گرگین,9786008547037.jpg,not_supplied,written_authorization_if_needed
+101,قصه‌های مجید,9789645643889,معین,,9789645643889.jpg,not_supplied,written_authorization_if_needed
+104,ماهی سیاه کوچولو,9786000102920,کانون پرورش فکری کودکان و نوجوانان,,9786000102920.jpg,not_supplied,written_authorization_if_needed
+104,ماهی سیاه کوچولو,9786005191820,نظر,,9786005191820.jpg,not_supplied,written_authorization_if_needed
+113,ماتیلدا,9786227902198,افق,پروین علی‌پور,9786227902198.jpg,not_supplied,written_authorization_if_needed
+113,ماتیلدا,9789643693619,افق,پروین علی‌پور,9789643693619.jpg,not_supplied,written_authorization_if_needed
+114,چارلی و کارخانه شکلات‌سازی,9786006414676,گل‌آذین,مهناز ایلدرمی,9786006414676.jpg,not_supplied,written_authorization_if_needed
+119,شگفتی,9786005675368,قاصدک صبا,نیلوفر داد,9786005675368.jpg,not_supplied,written_authorization_if_needed
+119,شگفتی,9789643699826,افق,پروین علی‌پور,9789643699826.jpg,not_supplied,written_authorization_if_needed
+121,هری پاتر و سنگ جادو,9789645757029,کتابسرای تندیس,سعید کبریایی,9789645757029.jpg,not_supplied,written_authorization_if_needed
+121,هری پاتر و سنگ جادو,9789647689205,عقیل,فاطمه علی‌پور,9789647689205.jpg,not_supplied,written_authorization_if_needed
+141,شاهنامه فردوسی,9789642593095,سایه نیما,,9789642593095.jpg,not_supplied,written_authorization_if_needed
+141,شاهنامه فردوسی,9789643411855,قطره,,9789643411855.jpg,not_supplied,written_authorization_if_needed
+153,هشت کتاب,9786006124100,رادکان,,9786006124100.jpg,not_supplied,written_authorization_if_needed
+153,هشت کتاب,9789649007908,طهوری,,9789649007908.jpg,not_supplied,written_authorization_if_needed
+174,تفکر سریع و کند,9786006585888,راه معاصر,ماندانا افتخار,9786006585888.jpg,not_supplied,written_authorization_if_needed
+174,تفکر سریع و کند,9786226840934,نوین توسعه,فاطمه امیدی,9786226840934.jpg,not_supplied,written_authorization_if_needed
+195,هنر شفاف اندیشیدن,9786002295224,چشمه,عادل فردوسی‌پور، بهزاد توکلی‌نیشابوری، علی شهروزستوده,9786002295224.jpg,not_supplied,written_authorization_if_needed
+195,هنر شفاف اندیشیدن,9786226395472,نیک‌فرجام,پیمان اصلانی,9786226395472.jpg,not_supplied,written_authorization_if_needed
+198,چهار هزار هفته,9786222543686,میلکان,کیمیا فضایی,9786222543686.jpg,not_supplied,written_authorization_if_needed
+198,چهار هزار هفته,9786225213135,نوین توسعه,میثم همدمی,9786225213135.jpg,not_supplied,written_authorization_if_needed
+199,مینیمالیسم دیجیتال,9786226573467,میلکان,سمانه پرهیزکاری,9786226573467.jpg,not_supplied,written_authorization_if_needed
+199,مینیمالیسم دیجیتال,9786226983082,خوب,زهرا حسینیان,9786226983082.jpg,not_supplied,written_authorization_if_needed

@@ -1,0 +1,11 @@
+{
+  "id": 20,
+  "title": "مادام بوواری",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"مادام بوواری\", author \"\", category \"رمان و ادبیات جهان\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7d2847f388dc535c5007e3a88d1bf921efe427777db159b49f3aad3439f2f99b",
+  "thumbnail_sha256": "e3968710b4046ecf023af2b3c5b6414e98023e5ea0021c461de72967da1c553a",
+  "image": "public/concept-art/book-020.webp",
+  "thumbnail": "public/concept-thumb/book-020.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 13,
+  "title": "سه تفنگدار",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"سه تفنگدار\", author \"\", category \"رمان و ادبیات جهان\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "e83cab0df689a7b3d5bbb5a8b86d042d162496d6e2bd5eb45b251f254dff3d02",
+  "thumbnail_sha256": "ecc9ea7c256056855873c44045004109b9dae92387469afc82d99673608ca913",
+  "image": "public/concept-art/book-013.webp",
+  "thumbnail": "public/concept-thumb/book-013.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 101,
+  "title": "قصه‌های مجید",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"قصه‌های مجید\". Author: \"هوشنگ مرادی کرمانی\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "8139f2cdf4612199e72388b22eaea50a7a9e07547216a40548cac504fcc2057b",
+  "thumbnail_sha256": "2f5b65205f616978ebb338c898b574c76bd516eaece6b4c4e5550b59164e98cf",
+  "image": "public/concept-art/book-101.webp",
+  "thumbnail": "public/concept-thumb/book-101.webp"
+}

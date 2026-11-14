@@ -1,0 +1,11 @@
+{
+  "id": 154,
+  "title": "تولدی دیگر",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"تولدی دیگر\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "445f23baa6d61bbda83eccc983fda7f7fb41186557bf82090700fba6d33a40ac",
+  "thumbnail_sha256": "9505467569f5b53e82745aeb553931ddf900d76562793044f479a6a3a057046b",
+  "image": "public/concept-art/book-154.webp",
+  "thumbnail": "public/concept-thumb/book-154.webp"
+}

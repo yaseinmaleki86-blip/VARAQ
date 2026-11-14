@@ -1,0 +1,11 @@
+{
+  "id": 237,
+  "title": "Digital Fortress",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Digital Fortress\" by \"Dan Brown\" (جنایی و معمایی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "73f52158af05d86477a2a45d926c38cb0daca7c86c7b7ea754fb385adc2b37bd",
+  "thumbnail_sha256": "e681ef5a48aaf0e1af2d89ee90181eaa7f7908d44777fe8a7132208bde199794",
+  "image": "public/concept-art/book-237.webp",
+  "thumbnail": "public/concept-thumb/book-237.webp"
+}

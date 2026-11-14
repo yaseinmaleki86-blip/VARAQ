@@ -1,0 +1,11 @@
+{
+  "id": 60,
+  "title": "شفای زندگی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"شفای زندگی\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "8ebb6369af1f4805a952c3ce0ad924d29a4f522528c3f09627075fb2ca269a7b",
+  "thumbnail_sha256": "8ee5c643600a14fa979a896064161fb0a5f9264a6eec0cf1ad5d481a3d7edcb9",
+  "image": "public/concept-art/book-060.webp",
+  "thumbnail": "public/concept-thumb/book-060.webp"
+}

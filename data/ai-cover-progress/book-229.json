@@ -1,0 +1,11 @@
+{
+  "id": 229,
+  "title": "The 4-Hour Body",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The 4-Hour Body\" by \"Tim Ferriss\" (کسب و کار و اقتصاد). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "16c304046e26d3e18dd6ea0266d3088e16bffe61b2556bba5c112ea15413674b",
+  "thumbnail_sha256": "162833d9f4c059046f34733232ed1ce288c38e8303148b85d70b11bd93148182",
+  "image": "public/concept-art/book-229.webp",
+  "thumbnail": "public/concept-thumb/book-229.webp"
+}

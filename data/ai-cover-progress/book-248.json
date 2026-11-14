@@ -1,0 +1,11 @@
+{
+  "id": 248,
+  "title": "Tell No One",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Tell No One\" by \"Harlan Coben\" (جنایی و معمایی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "d9ae29853f720af2996b200d4264263a143efa5dbf7989cc4a4d0e8ade20d423",
+  "thumbnail_sha256": "89198cea7b4feacb8fec1d3c82662b777134a19290a84429818d3583e3053102",
+  "image": "public/concept-art/book-248.webp",
+  "thumbnail": "public/concept-thumb/book-248.webp"
+}

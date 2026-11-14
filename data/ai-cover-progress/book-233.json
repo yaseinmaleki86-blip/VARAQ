@@ -1,0 +1,11 @@
+{
+  "id": 233,
+  "title": "The Plague",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The Plague\" by \"Albert Camus\" (فلسفه و تاریخ). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "ff90b84823988792bf914488df201b12c1b4231a3545d17cdd8da9b235e6f694",
+  "thumbnail_sha256": "977afd84469de9418ec32080c67443e0640b018ec1020a90d7f827827dff1a14",
+  "image": "public/concept-art/book-233.webp",
+  "thumbnail": "public/concept-thumb/book-233.webp"
+}

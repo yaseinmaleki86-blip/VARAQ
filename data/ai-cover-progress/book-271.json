@@ -1,0 +1,11 @@
+{
+  "id": 271,
+  "title": "The Titan’s Curse",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Titan’s Curse\" by Rick Riordan. Scene: winter mountain beneath a bright hunter constellation, bronze bow and ancient Greek temple. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "a1e0f3a4606f2df7a454488c1d7a4527dd8e5aeeff3645a3c740c32c87c4bbb7",
+  "thumbnail_sha256": "9161117feea0c5502c4aa8aeabfa2e94f353f380fc269daf5f3abdadb4905e04",
+  "image": "public/concept-art/book-271.webp",
+  "thumbnail": "public/concept-thumb/book-271.webp"
+}

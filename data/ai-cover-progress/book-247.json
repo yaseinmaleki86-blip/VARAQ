@@ -1,0 +1,11 @@
+{
+  "id": 247,
+  "title": "Fahrenheit 451",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Fahrenheit 451\" by \"Ray Bradbury\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "eabe2f791c19a7e9fb202e54eda805b029ddbfe2dd2a0277e64db250948b0e48",
+  "thumbnail_sha256": "3c490454236cb956dcc3dfbf38524c1f70c8dbf6b1213601f4717492052816fe",
+  "image": "public/concept-art/book-247.webp",
+  "thumbnail": "public/concept-thumb/book-247.webp"
+}

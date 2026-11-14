@@ -1,0 +1,11 @@
+{
+  "id": 209,
+  "title": "Carrie",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Carrie\" by \"Stephen King\" (ترسناک و تعلیق). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7a46f8418ba3bd3860b72778d8b4e08a3c19a98772b817566f82fb9da7856a52",
+  "thumbnail_sha256": "edd9905532acd2d169e534bd3282af31453737fee34141dc8318d6fc64fdc481",
+  "image": "public/concept-art/book-209.webp",
+  "thumbnail": "public/concept-thumb/book-209.webp"
+}

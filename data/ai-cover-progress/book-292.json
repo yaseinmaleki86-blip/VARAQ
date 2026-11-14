@@ -1,0 +1,11 @@
+{
+  "id": 292,
+  "title": "The Sign of the Four",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Sign of the Four\" by Arthur Conan Doyle. Scene: Victorian London riverside fog, a jewelled casket and an unmarked folded map beside a magnifying glass. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "11810c944f08c713b370cabed6ec7dcf75fec1add03bc158f13ba1da19858910",
+  "thumbnail_sha256": "1fe38b30ce967c5c2d60d8d9da0c2cd40fd4ebd04aa54d34040999c38fe3f5d9",
+  "image": "public/concept-art/book-292.webp",
+  "thumbnail": "public/concept-thumb/book-292.webp"
+}

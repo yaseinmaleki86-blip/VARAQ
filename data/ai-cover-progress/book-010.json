@@ -1,0 +1,11 @@
+{
+  "id": 10,
+  "title": "شب‌های روشن",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"شب‌های روشن\", author \"فئودور داستایفسکی\", category \"رمان و ادبیات جهان\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "d12850d774c8ad16f662424d1be63c6a6ef7b2e458ec874cb34f97737baee100",
+  "thumbnail_sha256": "6b075631827930964abc0b6e22f94b54e6091e8a0ddfb4fb619d406d6f26ccd4",
+  "image": "public/concept-art/book-010.webp",
+  "thumbnail": "public/concept-thumb/book-010.webp"
+}

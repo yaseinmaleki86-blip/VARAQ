@@ -1,0 +1,11 @@
+{
+  "id": 274,
+  "title": "Influence",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Influence\" by Robert B. Cialdini. Scene: expanding ripples connecting small wooden figures and subtle magnetism, ethical social psychology. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "f826fd80661673d0edfcbefa11770ef559677b1552f9df2e1c1c8d911e04b259",
+  "thumbnail_sha256": "b60a057454130db2c508a8939acab75ca901fb416c90812b666f695c75b3a188",
+  "image": "public/concept-art/book-274.webp",
+  "thumbnail": "public/concept-thumb/book-274.webp"
+}

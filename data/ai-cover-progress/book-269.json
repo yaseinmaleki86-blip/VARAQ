@@ -1,0 +1,11 @@
+{
+  "id": 269,
+  "title": "Stranger in a Strange Land",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Stranger in a Strange Land\" by Robert A. Heinlein. Scene: red Martian landscape reflected in a glass vessel beside an unfamiliar blue planet, encounter of cultures. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "a0ad59068bac09aa1c006f31980128f669d3f74a91d4f57eb130e9b78c642a8e",
+  "thumbnail_sha256": "b1784baae4cb9d8205c493d024ec006e988f533d9c2eab3bfdb8806ef4738337",
+  "image": "public/concept-art/book-269.webp",
+  "thumbnail": "public/concept-thumb/book-269.webp"
+}

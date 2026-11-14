@@ -1,0 +1,11 @@
+{
+  "id": 3,
+  "title": "شازده کوچولو",
+  "prompt": "Use case: illustration-story. Asset: ONE portrait 5:7 full-bleed original literary artwork for a bookstore. Book title: شازده کوچولو; author: آنتوان دو سنت‌اگزوپری; category: رمان و ادبیات جهان. Create a beautiful specific narrative scene inspired by this book's recognizable setting and themes, with naturalistic characters where appropriate, rich spatial depth, carefully painted textures, cinematic lighting, refined editorial illustration. Strong scene composition recognizable at thumbnail size. No text, no lettering, no watermark, no grid, no mockup. Original independent interpretation, do not reproduce an existing cover.",
+  "sha256": "3aa353fcdef934ce8ccab48a60cc802761a4d116e49c25feb9d4b13a026a3139",
+  "thumbnail_sha256": "5fd5c53684a4d7ef63443bf7dea44b945e442d480faf371b8dfe5b75ff808bf7",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "image": "public/concept-art/book-003.webp",
+  "thumbnail": "public/concept-thumb/book-003.webp"
+}

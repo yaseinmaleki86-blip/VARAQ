@@ -1,0 +1,11 @@
+{
+  "id": 234,
+  "title": "Middlemarch",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Middlemarch\" by \"George Eliot\" (رمان و ادبیات جهان). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "b0e2edc50a5a0109b1184acc94e95d99380cd466ca9a822896b68058a4da7d02",
+  "thumbnail_sha256": "23b5efdd0180702a685a8216b7cb6797d1164bd5eabdbbeead2909ce1687327f",
+  "image": "public/concept-art/book-234.webp",
+  "thumbnail": "public/concept-thumb/book-234.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 221,
+  "title": "Steal Like an Artist",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Steal Like an Artist\" by \"Austin Kleon\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "0f8381e4f29822e52701cf4547614a9fc49e6d08524a1a492482910a6c6b7c65",
+  "thumbnail_sha256": "d7427e36f79296fa0913638f7a510bb0159fe86d1028042456d1f3128fa9ba6b",
+  "image": "public/concept-art/book-221.webp",
+  "thumbnail": "public/concept-thumb/book-221.webp"
+}

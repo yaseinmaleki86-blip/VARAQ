@@ -1,0 +1,11 @@
+{
+  "id": 25,
+  "title": "مردی به نام اوه",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"مردی به نام اوه\", author \"فردریک بکمن\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5fed15c986b2e767da9d63719a751debaab20da10b085842d914ab3733e375e6",
+  "thumbnail_sha256": "07f925c4254c36c8ed2ca1ea1953fa52dcce40803d3717631206de5e1f5989a9",
+  "image": "public/concept-art/book-025.webp",
+  "thumbnail": "public/concept-thumb/book-025.webp"
+}

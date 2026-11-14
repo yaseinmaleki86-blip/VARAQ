@@ -1,0 +1,11 @@
+{
+  "id": 276,
+  "title": "Slow Productivity",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Slow Productivity\" by Cal Newport. Scene: sunlit uncluttered work desk with one finished notebook, plants and a view of changing seasons. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "a33d8e238c05dd5282585c0fbaff13f39cf606b5ad1b70ef1f7397940f0bc51e",
+  "thumbnail_sha256": "3a9c266e66081dd407986d3f59d365f6591d2d3b6b5a76bf6419355c77ac9b54",
+  "image": "public/concept-art/book-276.webp",
+  "thumbnail": "public/concept-thumb/book-276.webp"
+}

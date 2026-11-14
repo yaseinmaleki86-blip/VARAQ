@@ -1,0 +1,11 @@
+{
+  "id": 19,
+  "title": "جنگ و صلح",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"جنگ و صلح\", author \"لئو تولستوی\", category \"رمان و ادبیات جهان\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "d63a38718c44ab8fd763596fb763d5d779b605ed133fdd0ddfcc4df33c1da01b",
+  "thumbnail_sha256": "d547d51a0e4a777363d42bdb99474a173d9b0b4ce623bbe12a6c7d3d89bc105b",
+  "image": "public/concept-art/book-019.webp",
+  "thumbnail": "public/concept-thumb/book-019.webp"
+}

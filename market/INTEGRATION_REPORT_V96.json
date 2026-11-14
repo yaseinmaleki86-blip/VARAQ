@@ -1,0 +1,29 @@
+{
+  "bundle": "VARAQ-v9.6-local-same-origin",
+  "legacy_node_version": "8.6.0",
+  "retail_core_version": "9.4+bridge9.6",
+  "bridge": {
+    "origin": "http://127.0.0.1:3030",
+    "market_path": "/market/",
+    "provider": "local Node reverse proxy with short-lived HMAC assertion",
+    "roles": ["Node owner -> retail admin", "Node seller(manager) -> retail seller"],
+    "customers": "retain native market accounts",
+    "order_database_unified": false,
+    "catalog_database_unified": false
+  },
+  "content_from_v95": {
+    "books": 1000,
+    "concept_illustrations": 1000,
+    "webp_thumbnails": 1000,
+    "newly_generated_covers": 0
+  },
+  "tests": {
+    "same_origin_auth_integration": "18 passed",
+    "bridge_security_and_store_isolation": "7 assertions passed",
+    "python_regression_suites": "4 passed",
+    "node_selected_subtests": "11 passed",
+    "full_legacy_suite": "not run in this session",
+    "live_payment_gateway": "not tested and disabled"
+  },
+  "status": "local development only — public sales NO-GO"
+}

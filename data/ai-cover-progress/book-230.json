@@ -1,0 +1,11 @@
+{
+  "id": 230,
+  "title": "Mindset",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Mindset\" by \"Carol S. Dweck\" (روانشناسی و رشد فردی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "d887dc876be6596fbe73f95a74a4f470edfde93cd51a4c0b98b400b04b71a660",
+  "thumbnail_sha256": "5fce31190edc5f754156276e931a530d7b3cf8880d4ea72397d76525aba8e554",
+  "image": "public/concept-art/book-230.webp",
+  "thumbnail": "public/concept-thumb/book-230.webp"
+}

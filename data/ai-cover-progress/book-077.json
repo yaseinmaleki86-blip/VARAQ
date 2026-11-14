@@ -1,0 +1,11 @@
+{
+  "id": 77,
+  "title": "سختی کارهای سخت",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"سختی کارهای سخت\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "8b048c87d6ad549fcce38ea6711013c6194d4addf6e2c754baa862d8bd03227f",
+  "thumbnail_sha256": "de6532f71cac20e82ee0f629ba968ed6a6d3edb8a08c22539481f23f71905cbd",
+  "image": "public/concept-art/book-077.webp",
+  "thumbnail": "public/concept-thumb/book-077.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 150,
+  "title": "خسرو و شیرین",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"خسرو و شیرین\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "48dcf97d1ffc29c10a83a58054d5935beec721310c2d8f5879e48eb3a8c1fe7c",
+  "thumbnail_sha256": "24f22263f10e472dbae7ca17498287a4134390501c19f8213c93df2540105b6e",
+  "image": "public/concept-art/book-150.webp",
+  "thumbnail": "public/concept-thumb/book-150.webp"
+}

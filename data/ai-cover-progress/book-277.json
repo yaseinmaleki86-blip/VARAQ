@@ -1,0 +1,11 @@
+{
+  "id": 277,
+  "title": "A Happy Death",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"A Happy Death\" by Albert Camus. Scene: bright Algerian coast, a quiet room, travel suitcase and slow Mediterranean sunlight. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "8b16c3f0cc94126980221aa7e28fece9ce713362f8f9e9e0cf7aea9be996c57a",
+  "thumbnail_sha256": "4a610ddbb5adc8978598de575304ff154aacd93c75c38b6b6e9fc2f361af377e",
+  "image": "public/concept-art/book-277.webp",
+  "thumbnail": "public/concept-thumb/book-277.webp"
+}

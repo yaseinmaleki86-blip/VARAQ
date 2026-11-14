@@ -1,0 +1,11 @@
+{
+  "id": 97,
+  "title": "چرا ملت‌ها شکست می‌خورند",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"چرا ملت‌ها شکست می‌خورند\". Author: \"دارون عجم‌اوغلو و جیمز رابینسون\". Category: \"فلسفه و تاریخ\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "adba12830d241f95c8eb0ddb1e6f10c77c86a1854fe92ee7fa924cbebabc5db8",
+  "thumbnail_sha256": "708eabc8ba6ba27d355659a5b02b0d570ef31dc5f954452012d7a558c05e8005",
+  "image": "public/concept-art/book-097.webp",
+  "thumbnail": "public/concept-thumb/book-097.webp"
+}

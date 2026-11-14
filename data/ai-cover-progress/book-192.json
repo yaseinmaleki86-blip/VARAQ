@@ -1,0 +1,11 @@
+{
+  "id": 192,
+  "title": "کودک خانواده انسان",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"کودک خانواده انسان\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "9f1282e8eb8de4f6ddd16116ec1aab31416f863c1ee5883dc6d05b39cde17c9d",
+  "thumbnail_sha256": "066861fdf19caf91e19ea352340632dc888226720f394e25a7d958670cc829ef",
+  "image": "public/concept-art/book-192.webp",
+  "thumbnail": "public/concept-thumb/book-192.webp"
+}

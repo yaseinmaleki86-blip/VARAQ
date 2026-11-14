@@ -1,0 +1,11 @@
+{
+  "id": 98,
+  "title": "راه باریک آزادی",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"راه باریک آزادی\". Author: \"\". Category: \"فلسفه و تاریخ\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "74e2df8fe8685621f8c3d0eb98a20d236836ec78d6e14f2fe0be6f5ab2bb5981",
+  "thumbnail_sha256": "1afe73bfaf072196c9c43fdb878c80250aa0b60b019831b4d9fec1128129564f",
+  "image": "public/concept-art/book-098.webp",
+  "thumbnail": "public/concept-thumb/book-098.webp"
+}

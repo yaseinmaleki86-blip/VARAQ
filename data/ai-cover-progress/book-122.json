@@ -1,0 +1,11 @@
+{
+  "id": 122,
+  "title": "هری پاتر و تالار اسرار",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"هری پاتر و تالار اسرار\". Author: \"\". Category: \"فانتزی و علمی‌تخیلی\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "fdacd29b7ef28f0b878e75262d72dfbce19b9b8963507c949bdfd98761e83c89",
+  "thumbnail_sha256": "da0ab1693b76be4478360d3e1ba0bd2e87832992d2709144cf4085174379373d",
+  "image": "public/concept-art/book-122.webp",
+  "thumbnail": "public/concept-thumb/book-122.webp"
+}

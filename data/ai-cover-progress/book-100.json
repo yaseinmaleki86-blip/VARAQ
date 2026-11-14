@@ -1,0 +1,11 @@
+{
+  "id": 100,
+  "title": "افسانه سیزیف",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"افسانه سیزیف\". Author: \"\". Category: \"فلسفه و تاریخ\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "c7c14576a8fba6041056770c870ba92bf3f166aa4dc2b2ae91eed040e4d465bf",
+  "thumbnail_sha256": "f685cea66f55acf76f0f2c010c1dfc96af6443ec1e8032d6cdf994473a792e0c",
+  "image": "public/concept-art/book-100.webp",
+  "thumbnail": "public/concept-thumb/book-100.webp"
+}

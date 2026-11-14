@@ -1,0 +1,11 @@
+{
+  "id": 88,
+  "title": "انسان خداگونه",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"انسان خداگونه\". Author: \"یووال نوح هراری\". Category: \"فلسفه و تاریخ\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "0814d3483b433e898333a98767d7d60971875518bd53331c4169c3ce408f5113",
+  "thumbnail_sha256": "c0f1ad6a74beadf75dc4ab7d509c6dda04a48b37a15e5ffcbb252e57a75cb7bd",
+  "image": "public/concept-art/book-088.webp",
+  "thumbnail": "public/concept-thumb/book-088.webp"
+}

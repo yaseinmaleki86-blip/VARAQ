@@ -1,0 +1,11 @@
+{
+  "id": 30,
+  "title": "پس از تو",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"پس از تو\", author \"\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "c81b0e34a6d28390c58ef8186e29765092921e85b0115b55173c476500afec83",
+  "thumbnail_sha256": "d0d9a8d31f12bd51387268c8a9c279a95a4536947b5c4a46948ae812b5c4eeda",
+  "image": "public/concept-art/book-030.webp",
+  "thumbnail": "public/concept-thumb/book-030.webp"
+}

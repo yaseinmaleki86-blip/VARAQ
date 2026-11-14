@@ -1,0 +1,11 @@
+{
+  "id": 116,
+  "title": "جادوگرها",
+  "prompt": "One original portrait 5:7 playful magical still-life in an old cottage: a tiny purple glass potion bottle, curled fern leaves, copper cauldron, a curious little brown mouse beside a closed antique book, warm golden candlelight, whimsical painted story illustration. General-audience, no human figures, no scary imagery, no text, no lettering, no watermark, no book mockup.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "69422bfd5626bd0cf3dddcda0a12cd9bb603931f6e35a22d98d8bcb155b7f779",
+  "thumbnail_sha256": "8c9f30885a2194e3fef72063e0ba8fb28cbdf4a844ddab6eca3e4ddf4d1eae92",
+  "image": "public/concept-art/book-116.webp",
+  "thumbnail": "public/concept-thumb/book-116.webp"
+}

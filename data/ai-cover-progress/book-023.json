@@ -1,0 +1,11 @@
+{
+  "id": 23,
+  "title": "و کوهستان طنین انداخت",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"و کوهستان طنین انداخت\", author \"خالد حسینی\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "df2bd22a4a316f4c4ce73aaad4ca060fe3aac84e5c452f820d19bd524893fdb8",
+  "thumbnail_sha256": "cf7e1e40dee4e75ff0fc8420761b9898a2109373c317a102cdcae43dc0dc8fff",
+  "image": "public/concept-art/book-023.webp",
+  "thumbnail": "public/concept-thumb/book-023.webp"
+}

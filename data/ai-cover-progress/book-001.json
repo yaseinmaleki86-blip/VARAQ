@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "title": "ملت عشق",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "prompt": "Original portrait narrative illustration: Shams and Rumi in medieval Konya courtyard, turquoise arch, autumn leaves, spiritual love, painterly cinematic realism, no text.",
+  "sha256": "82e7c15530a548c49a5f71ee41a7fed44ddd8c6735b8fe4668bd9ed56741cf3e",
+  "thumbnail_sha256": "a4b4b87be0af3af740e3ce07c707e36060b98c1d0d7aa5d6439a916df1d8854b",
+  "image": "public/concept-art/book-001.webp",
+  "thumbnail": "public/concept-thumb/book-001.webp"
+}

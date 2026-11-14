@@ -1,0 +1,11 @@
+{
+  "id": 134,
+  "title": "طوفان شمشیرها",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"طوفان شمشیرها\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "d04486fd6863ef05e1b197644465fe8822c5d5f8ca9a985d95221a0a3c9efa3d",
+  "thumbnail_sha256": "697e0c63b468badbca166e54fc2f4badbc31e565158a595caf9d0d73be751f43",
+  "image": "public/concept-art/book-134.webp",
+  "thumbnail": "public/concept-thumb/book-134.webp"
+}

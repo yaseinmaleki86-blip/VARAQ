@@ -1,0 +1,11 @@
+{
+  "id": 203,
+  "title": "Foundation and Empire",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Foundation and Empire\" by \"Isaac Asimov\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "068a4bb54334c7e05f36cdfe88e4dd9b4912c8303b18d07bcb264ca16e91d80f",
+  "thumbnail_sha256": "bac0849e698c6d42641d8fad4c18443eebf5a036cd667ab0c551832cf46807cc",
+  "image": "public/concept-art/book-203.webp",
+  "thumbnail": "public/concept-thumb/book-203.webp"
+}

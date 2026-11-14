@@ -1,0 +1,11 @@
+{
+  "id": 228,
+  "title": "Pale Blue Dot",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Pale Blue Dot\" by \"Carl Sagan\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "580359cfbb6a38600a20fa1b56654e0e97225ec9fdf8df6425b2094e124300d0",
+  "thumbnail_sha256": "8f5ea476163a8048313fdc9d6c563a008dee62c59485db2e6323021c7d84a488",
+  "image": "public/concept-art/book-228.webp",
+  "thumbnail": "public/concept-thumb/book-228.webp"
+}

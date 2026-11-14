@@ -1,0 +1,11 @@
+{
+  "id": 121,
+  "title": "هری پاتر و سنگ جادو",
+  "prompt": "One original portrait 5:7 atmospheric illustration: a magnificent imaginary stone castle with tall towers beside a tranquil lake beneath a starry violet sky, a warm illuminated library window, a vintage brass lantern and closed burgundy book in the foreground. Elegant detailed painterly fantasy landscape. No people, no writing, no logos, no violence, no book mockup. For a general-audience bookstore.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "6290db892c20e29132ca534f7fc7d68e89107ab824cc093cd785e70892382955",
+  "thumbnail_sha256": "f60e01f1f316d223aca44ef21d90acdcaa92f2eae176cbe3d6396509508b46b4",
+  "image": "public/concept-art/book-121.webp",
+  "thumbnail": "public/concept-thumb/book-121.webp"
+}

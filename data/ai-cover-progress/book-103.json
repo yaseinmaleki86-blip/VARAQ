@@ -1,0 +1,11 @@
+{
+  "id": 103,
+  "title": "قصه‌های من و بابام",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"قصه‌های من و بابام\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "734e02d5b742db8df6675891e1d00fa0d699a15d9bfcb28cdee397c915078b2b",
+  "thumbnail_sha256": "b7093c3d1654d31f35ba41bf5b4e475aa4c261888ef8763e7d1d19d6b1b9d47d",
+  "image": "public/concept-art/book-103.webp",
+  "thumbnail": "public/concept-thumb/book-103.webp"
+}

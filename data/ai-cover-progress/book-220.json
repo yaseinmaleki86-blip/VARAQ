@@ -1,0 +1,11 @@
+{
+  "id": 220,
+  "title": "Salem’s Lot",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Salem’s Lot\" by \"Stephen King\" (ترسناک و تعلیق). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "cd2325ee61a3f0c4db27c89ce29c6c5ff2cbf3e6150c55685ea7160fae367064",
+  "thumbnail_sha256": "e2d0c94830a14f802ec7fda7dcb0e66f86048635d0d93e43aaba22d1ddb02e16",
+  "image": "public/concept-art/book-220.webp",
+  "thumbnail": "public/concept-thumb/book-220.webp"
+}

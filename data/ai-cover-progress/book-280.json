@@ -1,0 +1,11 @@
+{
+  "id": 280,
+  "title": "Dune Messiah",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Dune Messiah\" by Frank Herbert. Scene: a solitary imperial throne above immense desert dunes under twin moons, burden of prophetic power. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "88705d98c3e3a9a26b0fd334922d7b71cb6a74ba8e1aaa1a84d53eb8fb2362b5",
+  "thumbnail_sha256": "acbe8c4fdb5dfc9def46ab010e1037e25bd0d17052d829c8813f9da71ef470d9",
+  "image": "public/concept-art/book-280.webp",
+  "thumbnail": "public/concept-thumb/book-280.webp"
+}

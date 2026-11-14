@@ -1,0 +1,11 @@
+{
+  "id": 74,
+  "title": "با چرا شروع کنید",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"با چرا شروع کنید\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "2fa4bde2a3e85bb201642125a604bc24da2056219d2d550494c8fb1a92ff866f",
+  "thumbnail_sha256": "9c5d0d4278ef2af49492b5ba76f5df2fca75b823201a71244df511d316430032",
+  "image": "public/concept-art/book-074.webp",
+  "thumbnail": "public/concept-thumb/book-074.webp"
+}

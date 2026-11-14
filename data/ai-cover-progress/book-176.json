@@ -1,0 +1,11 @@
+{
+  "id": 176,
+  "title": "واقعیت",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"واقعیت\" by \"\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "ee57aaf13a2b839aa33fe8d6943620ea77187271a2d29fe3e15565f228c3ee6a",
+  "thumbnail_sha256": "8e5aa27b47325131febb9dbad8bbbf80441dfbb0a684286b2d18837a4dc04e77",
+  "image": "public/concept-art/book-176.webp",
+  "thumbnail": "public/concept-thumb/book-176.webp"
+}

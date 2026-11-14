@@ -1,0 +1,14 @@
+✔ 9.8.9: readiness scan accepts high-resolution portrait art and keeps thumbnail dimensions strict (8.114351ms)
+✔ 9.8.9: receipt title and sealed bytes must both match (43.669918ms)
+✔ 9.8.9: new art is served on book details and catalogue with fresh cache key (1024.252108ms)
+✔ 9.9.0: 300 distinct introduction/summary pairs bound to the actual work (1.471132ms)
+✔ 9.9.0: all 300 generated image receipts match valid unique full images and thumbnails (272.598374ms)
+✔ 9.9.0: all 300 detail and reading pages expose their own introduction and summary (8009.037184ms)
+ℹ tests 6
+ℹ suites 0
+ℹ pass 6
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 8384.64527

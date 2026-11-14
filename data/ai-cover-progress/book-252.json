@@ -1,0 +1,11 @@
+{
+  "id": 252,
+  "title": "The Obstacle Is the Way",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Obstacle Is the Way\" by Ryan Holiday. Scene: ancient stone staircase bending around a huge boulder, sunrise, a calm stoic atmosphere. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "81883e6342143383b6a4ac9dabcb5a7d1ca2f1092cd9b383d87498a3c3fbc4ab",
+  "thumbnail_sha256": "628052dd1a3d3acf7c2dddae2e8f9f42176f6c7ed3df990d0ee6aec799521af6",
+  "image": "public/concept-art/book-252.webp",
+  "thumbnail": "public/concept-thumb/book-252.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 244,
+  "title": "Sapiens: A Graphic History",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Sapiens: A Graphic History\" by \"Yuval Noah Harari\" (فلسفه و تاریخ). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "c04ede3facd4406fe515b6288ec3ce4ce8eaeee1f5e1c1d04b72e66395237109",
+  "thumbnail_sha256": "f09978b3782d7867b797b7377832d49b2c08a0f4301e0547a2bc2ee9cb978549",
+  "image": "public/concept-art/book-244.webp",
+  "thumbnail": "public/concept-thumb/book-244.webp"
+}

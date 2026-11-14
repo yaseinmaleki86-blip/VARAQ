@@ -1,0 +1,11 @@
+{
+  "id": 108,
+  "title": "خرس قهوه‌ای خرس قهوه‌ای چی می‌بینی؟",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"خرس قهوه‌ای خرس قهوه‌ای چی می‌بینی؟\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "873b73eed6b00ba8465415c637d0377d4d15c10423c341c461562fef1e2ca979",
+  "thumbnail_sha256": "bae6b14011008a099d866e49519e343c281421c8310951195b557cffb530fb90",
+  "image": "public/concept-art/book-108.webp",
+  "thumbnail": "public/concept-thumb/book-108.webp"
+}

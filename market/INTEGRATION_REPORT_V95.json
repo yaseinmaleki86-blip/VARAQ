@@ -1,0 +1,22 @@
+{
+  "release": "VARAQ 9.5 - complete physical package and canonical catalogue import",
+  "original_source_zip_sha256": "55fcbda4b71332a553dbd9f33892b83bee4c64fad3b3a1abdabfe9d241b90bc9",
+  "original_zip_bytes": 32336542,
+  "original_entries": 2392,
+  "legacy_files_preserved": 2381,
+  "source_cover_art_count": 1000,
+  "source_thumbnail_count": 1000,
+  "retail_catalogue_books": 1000,
+  "imported_summaries": 1000,
+  "distinct_summaries_after_editorial_corrections": 1000,
+  "active_admin_accounts_shipped": 0,
+  "prices_and_stock": "zero; merchant must supply real values",
+  "integration_status": "catalogue_and_media_shared; backend accounts orders sessions still separate",
+  "verified": {
+    "original_manifest": "pass",
+    "preimport_catalogue": "pass",
+    "http": "pending",
+    "python_core": "3 test suites passed",
+    "legacy_full_regression": "timed out after 139 passing tests"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": "9.8.7",
+  "new_cover_count": 1,
+  "new_cover_ids": [
+    24
+  ],
+  "story_illustrated_ids": [
+    21,
+    22,
+    23,
+    24
+  ],
+  "artistic_approval_pending": 1000,
+  "original_image": [
+    1024,
+    1536
+  ],
+  "cover": [
+    1000,
+    1400
+  ],
+  "thumbnail": [
+    240,
+    336
+  ],
+  "new_cover_sha256": "8e8ce8d0178ac2209e7717b871502df14794c0712e46e2a6a145fda1922caa83",
+  "new_thumbnail_sha256": "46a88e2efd63541a9c88be3489389d01f7a790b5bcbb74088dec83b015bcb258",
+  "not_publisher_cover": true,
+  "retained_catalog_count": 1000,
+  "retained_cover_count": 1000,
+  "retained_thumb_count": 1000,
+  "note": "No assertion that older thematic/scenic covers are fully approved, other than technical asset presence."
+}

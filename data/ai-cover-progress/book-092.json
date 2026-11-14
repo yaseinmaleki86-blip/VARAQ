@@ -1,0 +1,11 @@
+{
+  "id": 92,
+  "title": "تاریخچه تقریباً همه چیز",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"تاریخچه تقریباً همه چیز\". Author: \"\". Category: \"فلسفه و تاریخ\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "09660020f24346de3eda674dc4f92e73d1b033397103bcc9563737098244994f",
+  "thumbnail_sha256": "6f4368131c1def1aedc3a271c816b8c6d27cd978f3f074f016c6cf718986e678",
+  "image": "public/concept-art/book-092.webp",
+  "thumbnail": "public/concept-thumb/book-092.webp"
+}

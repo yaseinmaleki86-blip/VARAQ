@@ -1,0 +1,11 @@
+{
+  "id": 40,
+  "title": "سمفونی مردگان",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"سمفونی مردگان\", author \"عباس معروفی\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "51b78cc8c184a323831a995d5252d8b17b1cfafbfc42114795184572fdee29ce",
+  "thumbnail_sha256": "b8576bb34fb4b30fa5c17157d85da84c095af229515bf9776641f921ed02c48f",
+  "image": "public/concept-art/book-040.webp",
+  "thumbnail": "public/concept-thumb/book-040.webp"
+}

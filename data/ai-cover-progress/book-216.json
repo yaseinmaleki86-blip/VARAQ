@@ -1,0 +1,11 @@
+{
+  "id": 216,
+  "title": "The Sea of Monsters",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The Sea of Monsters\" by \"Rick Riordan\" (کودک و نوجوان). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "10afdf212852dcb50b09e269ca0c7ffdc1f65e76acc5efa22f747057a76ef7ff",
+  "thumbnail_sha256": "b7aa6934aecf577e22fa2aba4ba916136eaa71bfbc6caa43cb19fb675899542d",
+  "image": "public/concept-art/book-216.webp",
+  "thumbnail": "public/concept-thumb/book-216.webp"
+}

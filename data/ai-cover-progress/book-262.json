@@ -1,0 +1,11 @@
+{
+  "id": 262,
+  "title": "Same as Ever",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Same as Ever\" by Morgan Housel. Scene: antique hourglass and a sturdy tree beside the reflection of a modern city, enduring human patterns. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "3fb2b43c2ae5d769751d89b40850a8581fcf7fc481ddb70bc138c0ad2e48653b",
+  "thumbnail_sha256": "1a91f01539c7cad41c3ecb1ef6ec095c79f7d2493087e77455f65fd6aaaa2e10",
+  "image": "public/concept-art/book-262.webp",
+  "thumbnail": "public/concept-thumb/book-262.webp"
+}

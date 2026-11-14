@@ -1,0 +1,11 @@
+{
+  "id": 282,
+  "title": "Fantastic Mr Fox",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Fantastic Mr Fox\" by Roald Dahl. Scene: clever red fox emerging from a hillside burrow near orchards and distant farmhouses, charming storybook art. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "72942701568ce0047adcfa0b1102a346a6f73361d2491698367614d417742205",
+  "thumbnail_sha256": "2d4fcbb6250e77dbd0189c517795cf55fb7aa10c859ceaeee54eb4e021f4d4f8",
+  "image": "public/concept-art/book-282.webp",
+  "thumbnail": "public/concept-thumb/book-282.webp"
+}

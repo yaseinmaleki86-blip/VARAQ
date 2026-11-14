@@ -1,0 +1,11 @@
+{
+  "id": 53,
+  "title": "چه کسی پنیر مرا جابه‌جا کرد؟",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"چه کسی پنیر مرا جابه‌جا کرد؟\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "cc372213a6b2b1fe761f29dcafc068700e661d1312a50e36279f91f1345550a0",
+  "thumbnail_sha256": "81809f0f156d54ef8f00d87e283dbb91f9ada5c435a28bbee7f4d58b69745205",
+  "image": "public/concept-art/book-053.webp",
+  "thumbnail": "public/concept-thumb/book-053.webp"
+}

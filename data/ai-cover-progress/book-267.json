@@ -1,0 +1,11 @@
+{
+  "id": 267,
+  "title": "The Age of Innocence",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Age of Innocence\" by Edith Wharton. Scene: 1870s New York opera house, velvet balcony, white gloves and a pale rose. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "78d4b66518040f87d29c55162a14bcb0e615301c3bb6111222b603c7c958c14e",
+  "thumbnail_sha256": "fa51c503cf67e505ca20e63104e75842b017831547992389b67019bb3bcdb437",
+  "image": "public/concept-art/book-267.webp",
+  "thumbnail": "public/concept-thumb/book-267.webp"
+}

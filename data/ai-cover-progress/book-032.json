@@ -1,0 +1,11 @@
+{
+  "id": 32,
+  "title": "دختری که رهایش کردی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"دختری که رهایش کردی\", author \"\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "fea6b240b9f42d8dbefab3ffb8120fff98e320538084510adf0f9e02cb252786",
+  "thumbnail_sha256": "8e77dea1402fec43b4b9df3471277025f4ba22cf343e7937d6a24d8b30e9cb4e",
+  "image": "public/concept-art/book-032.webp",
+  "thumbnail": "public/concept-thumb/book-032.webp"
+}

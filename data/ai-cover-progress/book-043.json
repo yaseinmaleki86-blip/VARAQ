@@ -1,0 +1,11 @@
+{
+  "id": 43,
+  "title": "قدرت عادت",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"قدرت عادت\", author \"چارلز داهیگ\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "fa34c488e0bd310cea3a12946dad2637de4e2f8311b098247b8c6ecb05a945d4",
+  "thumbnail_sha256": "77d53dbf9175e9a86db8d3dda478ed541d343a7b62d50b74ab6127d92bfd72d0",
+  "image": "public/concept-art/book-043.webp",
+  "thumbnail": "public/concept-thumb/book-043.webp"
+}

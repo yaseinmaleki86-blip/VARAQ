@@ -1,0 +1,11 @@
+{
+  "id": 286,
+  "title": "Christine",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Christine\" by Stephen King. Scene: a glossy red 1958 American classic car in a dark garage, rain and eerie reflected headlights. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "d68c15bd269d3f44865994e72ae1d3c1facfa28b98ff514cb0e1ba0a391ad307",
+  "thumbnail_sha256": "3ede3b056d7ee31cbd4fbf9bf69e4f81c0cbe69a95bdc558eb102726a6d73312",
+  "image": "public/concept-art/book-286.webp",
+  "thumbnail": "public/concept-thumb/book-286.webp"
+}

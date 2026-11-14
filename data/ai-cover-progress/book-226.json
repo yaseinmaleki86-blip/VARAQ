@@ -1,0 +1,11 @@
+{
+  "id": 226,
+  "title": "A Time to Kill",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"A Time to Kill\" by \"John Grisham\" (جنایی و معمایی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "f56105b2ad36f29538b2341ee9b1f40553c6fd9ee1e6e4a3cf7aeb47faac8741",
+  "thumbnail_sha256": "db9c789a1faef49aa0f41787fbbb6cded332e55c718083ceeacf0ab495e2fa45",
+  "image": "public/concept-art/book-226.webp",
+  "thumbnail": "public/concept-thumb/book-226.webp"
+}

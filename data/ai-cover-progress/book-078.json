@@ -1,0 +1,11 @@
+{
+  "id": 78,
+  "title": "کار عمیق",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"کار عمیق\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "15bf2edcc0857282232f5a6b9375b843926bfacd43318adb76b301e22ea92bea",
+  "thumbnail_sha256": "a8f10ddc1e63c0815662d94ffcbe4a61a8ceb623532ea5cd768c0f61e625d21d",
+  "image": "public/concept-art/book-078.webp",
+  "thumbnail": "public/concept-thumb/book-078.webp"
+}

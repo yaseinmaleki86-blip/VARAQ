@@ -1,0 +1,11 @@
+{
+  "id": 223,
+  "title": "Oliver Twist",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Oliver Twist\" by \"Charles Dickens\" (رمان و ادبیات جهان). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5a3ff51f242987b911e253cf67b17d2871f6c1bfe595828d745e5d47d588abe9",
+  "thumbnail_sha256": "2da27c5c02bd9bda0bf5b65c996cfb7080ba75e894b32f153591a83842990a46",
+  "image": "public/concept-art/book-223.webp",
+  "thumbnail": "public/concept-thumb/book-223.webp"
+}

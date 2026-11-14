@@ -1,0 +1,11 @@
+{
+  "id": 22,
+  "title": "هزار خورشید تابان",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"هزار خورشید تابان\", author \"خالد حسینی\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "1397069008b9ff7ac3ac45daa4f870697255a123df9b30dc1a00ba9a48a7e13f",
+  "thumbnail_sha256": "f27871d8ba72c78c621bed4cc7aa6e86e99e28054314eccf1be4025b7280121a",
+  "image": "public/concept-art/book-022.webp",
+  "thumbnail": "public/concept-thumb/book-022.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 47,
+  "title": "قدرت حال",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"قدرت حال\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "bb19b787c4db9af41835e676934ccd9fb82f878d729b50a2258267dc122e0a1c",
+  "thumbnail_sha256": "dee52cd61db2504de5c22f37b7d76911a823dfe29a85c48288a61d2968ccfd26",
+  "image": "public/concept-art/book-047.webp",
+  "thumbnail": "public/concept-thumb/book-047.webp"
+}

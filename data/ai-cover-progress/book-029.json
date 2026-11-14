@@ -1,0 +1,11 @@
+{
+  "id": 29,
+  "title": "من پیش از تو",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"من پیش از تو\", author \"\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "0729a1967839675d0a297a0227ff8ed8b7814dc736ff86c20c45a86eb6e6427c",
+  "thumbnail_sha256": "9a76e9fc3513a7194b4aeb1321d5015ceaf83c275cb64ac4c16cc653e47330e3",
+  "image": "public/concept-art/book-029.webp",
+  "thumbnail": "public/concept-thumb/book-029.webp"
+}

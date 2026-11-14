@@ -1,0 +1,11 @@
+{
+  "id": 160,
+  "title": "کلیدر",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"کلیدر\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "0f4a23e0a695aca5fa42c289a707c706ab29ef303e160f7255eb8e239ceb4693",
+  "thumbnail_sha256": "a00814266dc4b3f1857683a59ddcdfa4320d1820e090120ed5e1ad6aff05ca52",
+  "image": "public/concept-art/book-160.webp",
+  "thumbnail": "public/concept-thumb/book-160.webp"
+}

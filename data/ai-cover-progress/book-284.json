@@ -1,0 +1,11 @@
+{
+  "id": 284,
+  "title": "The Infinite Game",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Infinite Game\" by Simon Sinek. Scene: a winding path of light connecting many bridges and generations of trees, long-term cooperation. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "f06dcd2e8ada34865d96e005461ebe76a1bee1481bee88c80139db5ac642b7ad",
+  "thumbnail_sha256": "e0829bb978943c17d42db0643bbb15199ab6587f2876c76d2179e7d47fc36a4c",
+  "image": "public/concept-art/book-284.webp",
+  "thumbnail": "public/concept-thumb/book-284.webp"
+}

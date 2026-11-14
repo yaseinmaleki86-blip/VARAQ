@@ -1,0 +1,19 @@
+{
+  "release": "9.9.0",
+  "target_books": 300,
+  "completed_images": 300,
+  "completed_introductions": 300,
+  "completed_summaries": 300,
+  "target_complete": true,
+  "remaining_in_current_target": 0,
+  "catalogue_total": 1000,
+  "future_catalogue_outside_current_target": 700,
+  "public_collection": "/books-300",
+  "text_scope": "original short editorial introductions and summaries; not book excerpts",
+  "scope_notes": [
+    91,
+    185,
+    193,
+    244
+  ]
+}

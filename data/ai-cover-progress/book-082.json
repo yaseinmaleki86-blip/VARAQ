@@ -1,0 +1,11 @@
+{
+  "id": 82,
+  "title": "تسلی‌بخشی‌های فلسفه",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"تسلی‌بخشی‌های فلسفه\", author \"\", category \"فلسفه و تاریخ\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "f57b7a447fe3f68ed09b693b952389a8f6baaa7348a4b8daebe1c405a1363821",
+  "thumbnail_sha256": "2919b75be1006ee05b5aef7a22f8845cad2e83afa21b3262c7131241dd9fb961",
+  "image": "public/concept-art/book-082.webp",
+  "thumbnail": "public/concept-thumb/book-082.webp"
+}

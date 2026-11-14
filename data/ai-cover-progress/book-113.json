@@ -1,0 +1,11 @@
+{
+  "id": 113,
+  "title": "ماتیلدا",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"ماتیلدا\". Author: \"رولد دال\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5446719a2c2e1be413d056ec0fcde9bd5b3feee033986761b733ab238df9dd22",
+  "thumbnail_sha256": "d8e567da53e545515bbb5a90e551fa31764300c9af4eda8e25ae374ac3b4f0fc",
+  "image": "public/concept-art/book-113.webp",
+  "thumbnail": "public/concept-thumb/book-113.webp"
+}

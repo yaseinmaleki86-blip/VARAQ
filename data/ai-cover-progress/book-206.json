@@ -1,0 +1,11 @@
+{
+  "id": 206,
+  "title": "The Better Angels of Our Nature",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The Better Angels of Our Nature\" by \"Steven Pinker\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "ee47e26beeee8b311916f21fa06b27e4d7a3ff1deffaf356e116dc39f9e520fe",
+  "thumbnail_sha256": "8fc76c3aa01d6987207754c72d3bb9bf07a3cc931002581b2e09ec203b3ee37d",
+  "image": "public/concept-art/book-206.webp",
+  "thumbnail": "public/concept-thumb/book-206.webp"
+}

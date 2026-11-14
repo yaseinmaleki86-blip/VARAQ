@@ -1,0 +1,11 @@
+{
+  "id": 49,
+  "title": "هنر ظریف بی‌خیالی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"هنر ظریف بی‌خیالی\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "399ae1173d2ca9835b3c35eda3a504f83a5df01e824dae8748a990b2651ea5f5",
+  "thumbnail_sha256": "5b822aa6134513c01ad99d414b8d19292af70a22990855c668f9ca8c3e991bcd",
+  "image": "public/concept-art/book-049.webp",
+  "thumbnail": "public/concept-thumb/book-049.webp"
+}

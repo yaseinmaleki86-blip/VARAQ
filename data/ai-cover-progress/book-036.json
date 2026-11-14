@@ -1,0 +1,11 @@
+{
+  "id": 36,
+  "title": "چشم‌هایش",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"چشم‌هایش\", author \"بزرگ علوی\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "3cb21d68e7bed9a1a254e01da476d1ad0d58c0e7263968591fa2aea258263406",
+  "thumbnail_sha256": "47222ca600cb612d73107a003075c092ddd23be3ac2588b86e37a95389739943",
+  "image": "public/concept-art/book-036.webp",
+  "thumbnail": "public/concept-thumb/book-036.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 72,
+  "title": "این است بازاریابی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"این است بازاریابی\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "586e5e2eb9cef21da8b58722fcb8a79e64423c561fd2d04dbd05b8707411f3fc",
+  "thumbnail_sha256": "959cf373e7ba32b63d6f4a1a05a27eaefe72fefd219099c20a91b566134005a5",
+  "image": "public/concept-art/book-072.webp",
+  "thumbnail": "public/concept-thumb/book-072.webp"
+}

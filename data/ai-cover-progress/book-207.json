@@ -1,0 +1,11 @@
+{
+  "id": 207,
+  "title": "Give and Take",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Give and Take\" by \"Adam Grant\" (کسب و کار و اقتصاد). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5c194d5fd2fbdedb3809c8086aa0156aa6be4155e3555f75af82fe6edcad91bb",
+  "thumbnail_sha256": "98d59b63dfce88cb9adebcb69a2fe4f49824ac066d4a45b2c9146e72eb3ec3b8",
+  "image": "public/concept-art/book-207.webp",
+  "thumbnail": "public/concept-thumb/book-207.webp"
+}

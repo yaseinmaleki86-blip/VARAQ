@@ -1,0 +1,11 @@
+{
+  "id": 241,
+  "title": "The Happiness Project",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The Happiness Project\" by \"Gretchen Rubin\" (روانشناسی و رشد فردی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "acaaed37370b47d3893d83658dea2d660b5bf0116a5c7be228ddd53976884a20",
+  "thumbnail_sha256": "b415e26a0a465853ddcad7ff0297058bc3da3c4baa39d9f1e96ed2a0885dcb22",
+  "image": "public/concept-art/book-241.webp",
+  "thumbnail": "public/concept-thumb/book-241.webp"
+}

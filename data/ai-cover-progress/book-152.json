@@ -1,0 +1,11 @@
+{
+  "id": 152,
+  "title": "دیوان پروین اعتصامی",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"دیوان پروین اعتصامی\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7d3563543fdb9dbf7a3a91b42b6ce601a2dcc07bdfed9fe1b1b205ed16061938",
+  "thumbnail_sha256": "32bb35e79fffb83210d416c97608f0bf0f7aae43e7d69561b1b3ecf00f7beb6e",
+  "image": "public/concept-art/book-152.webp",
+  "thumbnail": "public/concept-thumb/book-152.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 238,
+  "title": "Five on a Treasure Island",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Five on a Treasure Island\" by \"Enid Blyton\" (کودک و نوجوان). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5887c3ce8c0d3e9c2c4dcb112f26ed4f9b0f3b4b53f94f1cd8a622290aac4c96",
+  "thumbnail_sha256": "5eefccc2e2dc7ee7156f2e43e81a395363856941de1e261726b60358f4e98014",
+  "image": "public/concept-art/book-238.webp",
+  "thumbnail": "public/concept-thumb/book-238.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 115,
+  "title": "جیمز و هلوی غول‌پیکر",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"جیمز و هلوی غول‌پیکر\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "f804fa7c385b04a5621484fc4efa157d2124a200e43ef2d0983b3b6eb36f6d23",
+  "thumbnail_sha256": "a86d78cdc7e1ce4276095cb36ce71e54c142cca4691bc97dfb1bbfe8d7635b0d",
+  "image": "public/concept-art/book-115.webp",
+  "thumbnail": "public/concept-thumb/book-115.webp"
+}

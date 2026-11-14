@@ -1,0 +1,11 @@
+{
+  "id": 126,
+  "title": "هری پاتر و شاهزاده دورگه",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هری پاتر و شاهزاده دورگه\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "999faee983032b6f6d9235a652d8c5ae418a4654a0eb261120e4b67a132e037c",
+  "thumbnail_sha256": "94a3bfb872b3893266b19318a53c1554610af0196301b115eaeadaa25dc8f3e3",
+  "image": "public/concept-art/book-126.webp",
+  "thumbnail": "public/concept-thumb/book-126.webp"
+}

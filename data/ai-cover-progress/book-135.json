@@ -1,0 +1,11 @@
+{
+  "id": 135,
+  "title": "تلماسه",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"تلماسه\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "a9f9b40d59e29d4dcc5dea59cc88a3a5c6ee04c026b83f7c9d79e59c79ea5790",
+  "thumbnail_sha256": "3acdb81b85a547e32289a0332233977fb708cdb836958440dedb2f69212de444",
+  "image": "public/concept-art/book-135.webp",
+  "thumbnail": "public/concept-thumb/book-135.webp"
+}

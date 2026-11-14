@@ -1,0 +1,11 @@
+{
+  "id": 191,
+  "title": "فرزندپروری باکفایت",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"فرزندپروری باکفایت\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "8890ac3fc4793ae246dd94623db08e84ecc723e2d5acfc127e86b55130fc15b3",
+  "thumbnail_sha256": "1185b62300c7cd46feec471be916272a8a28db8e78caf497a9354cf99640868f",
+  "image": "public/concept-art/book-191.webp",
+  "thumbnail": "public/concept-thumb/book-191.webp"
+}

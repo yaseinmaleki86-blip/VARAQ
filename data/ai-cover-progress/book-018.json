@@ -1,0 +1,11 @@
+{
+  "id": 18,
+  "title": "آنا کارنینا",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"آنا کارنینا\", author \"لئو تولستوی\", category \"رمان و ادبیات جهان\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "b8d912fac488301c3fa1f3dcbdfbdd4afb06e406623af7c383110f69e19e77a5",
+  "thumbnail_sha256": "245a7f45e8d05829c9e12e94370d00394e3ceaf458542671c70c5f37a921c19a",
+  "image": "public/concept-art/book-018.webp",
+  "thumbnail": "public/concept-thumb/book-018.webp"
+}

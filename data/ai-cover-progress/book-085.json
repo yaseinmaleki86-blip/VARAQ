@@ -1,0 +1,11 @@
+{
+  "id": 85,
+  "title": "جمهوری افلاطون",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"جمهوری افلاطون\", author \"\", category \"فلسفه و تاریخ\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "a5dfb6443985f748d2449dacb11f393dd508eae7039d4149ce3caa252ba7da30",
+  "thumbnail_sha256": "1affcea7cff1b60050ee395df7725bd094d5dfa8be63e92cb84a9b71ae5f9e79",
+  "image": "public/concept-art/book-085.webp",
+  "thumbnail": "public/concept-thumb/book-085.webp"
+}

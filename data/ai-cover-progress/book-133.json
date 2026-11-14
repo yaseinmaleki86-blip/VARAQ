@@ -1,0 +1,11 @@
+{
+  "id": 133,
+  "title": "نبرد پادشاهان",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"نبرد پادشاهان\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "c270f19b7c69b838c62761d9b132eb6e6efed489aeb2567d55f6edc3916a564d",
+  "thumbnail_sha256": "e3d523707a54c61b65b20f19bac082efb0013c10bd9a8810f2d51050ecf70fa1",
+  "image": "public/concept-art/book-133.webp",
+  "thumbnail": "public/concept-thumb/book-133.webp"
+}

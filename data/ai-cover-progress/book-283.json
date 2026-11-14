@@ -1,0 +1,11 @@
+{
+  "id": 283,
+  "title": "Complications",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Complications\" by Atul Gawande. Scene: empty operating theatre with clean surgical gloves and a stethoscope, humane medical reflection, no patients or blood. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "cb7ec94c5225c5fad7f1a21b5812fcca5a713a56078cb55f5aa2b4209d634494",
+  "thumbnail_sha256": "d670c13c02aebc5ca54d70a38dfbf8e20596e9799699f964ac7c87c15faa98a1",
+  "image": "public/concept-art/book-283.webp",
+  "thumbnail": "public/concept-thumb/book-283.webp"
+}

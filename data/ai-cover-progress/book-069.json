@@ -1,0 +1,11 @@
+{
+  "id": 69,
+  "title": "بازاریابی چریکی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"بازاریابی چریکی\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "53a21f02f4f1ed216053b71c44c44f82feba7b1280023d2df240b1a2e8e44531",
+  "thumbnail_sha256": "d50980311851ee6556cfc894a27ab244ef23611c3385f5edc2be9f4522024fb9",
+  "image": "public/concept-art/book-069.webp",
+  "thumbnail": "public/concept-thumb/book-069.webp"
+}

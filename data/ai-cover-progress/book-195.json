@@ -1,0 +1,11 @@
+{
+  "id": 195,
+  "title": "هنر شفاف اندیشیدن",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هنر شفاف اندیشیدن\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "58f42d18b73d2e5022c0996e0b73dfd63a38b9e7de9f56939e936ae386b12715",
+  "thumbnail_sha256": "b4abf8710d7284e0bf6b6c3a4cc35b0568fca674a35bf9c990a8d975c7e6a5f2",
+  "image": "public/concept-art/book-195.webp",
+  "thumbnail": "public/concept-thumb/book-195.webp"
+}

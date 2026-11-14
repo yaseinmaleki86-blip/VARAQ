@@ -1,0 +1,11 @@
+{
+  "id": 109,
+  "title": "کرم ابریشم خیلی گرسنه",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"کرم ابریشم خیلی گرسنه\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "4b376f3a1fcc744d57cf12688d2e4da805c39f211016074613128c3511532e57",
+  "thumbnail_sha256": "9ce9d87e3213753f5d17109d0e4b5e23527d2eb506646e5b90cff71371621dd3",
+  "image": "public/concept-art/book-109.webp",
+  "thumbnail": "public/concept-thumb/book-109.webp"
+}

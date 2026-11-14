@@ -1,0 +1,11 @@
+{
+  "id": 266,
+  "title": "The Rebel",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Rebel\" by Albert Camus. Scene: a sapling breaking through ancient cracked stone beside an open philosophy book, dignity and resistance. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "3e350e3d6eabefa63b5e678373490942dd3286bee90a5e6745affe855211a993",
+  "thumbnail_sha256": "ab3edf02894b7d67ec5b2897d3f8231afcad1515ea8c89b48d60db77737a95de",
+  "image": "public/concept-art/book-266.webp",
+  "thumbnail": "public/concept-thumb/book-266.webp"
+}

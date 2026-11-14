@@ -1,0 +1,11 @@
+{
+  "id": 159,
+  "title": "مدیر مدرسه",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"مدیر مدرسه\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "63514eddcdf1d0a01cb9d06b4139479396e0935f67a73810f82fa731b4ac3d16",
+  "thumbnail_sha256": "9eb4fcc5a37c715194c10eb5be21d7f0f0e8cab0394d844a06957373154817c1",
+  "image": "public/concept-art/book-159.webp",
+  "thumbnail": "public/concept-thumb/book-159.webp"
+}

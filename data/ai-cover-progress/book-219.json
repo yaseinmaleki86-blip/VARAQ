@@ -1,0 +1,11 @@
+{
+  "id": 219,
+  "title": "The Gifts of Imperfection",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The Gifts of Imperfection\" by \"Brené Brown\" (روانشناسی و رشد فردی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "75ac68cb77f9276840cd27413e3b96ee340c975c698edad988b87218a29db0cd",
+  "thumbnail_sha256": "54cec96623ee0824c109c4396e792836950bb904fd9cfd0222b8cf79cc5e1d2d",
+  "image": "public/concept-art/book-219.webp",
+  "thumbnail": "public/concept-thumb/book-219.webp"
+}

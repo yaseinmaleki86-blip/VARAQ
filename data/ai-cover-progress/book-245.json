@@ -1,0 +1,11 @@
+{
+  "id": 245,
+  "title": "Tess of the d’Urbervilles",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Tess of the d’Urbervilles\" by \"Thomas Hardy\" (رمان و ادبیات جهان). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "d21e5577a56582e3c00e1bccd346bd99b8dde859b4f154c2dcbd88368a01383d",
+  "thumbnail_sha256": "59bcf47de275801ceaac5c1b19b6914f289052ef5b86367edc6880dd0cb804e8",
+  "image": "public/concept-art/book-245.webp",
+  "thumbnail": "public/concept-thumb/book-245.webp"
+}

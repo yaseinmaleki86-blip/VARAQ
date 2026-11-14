@@ -1,0 +1,11 @@
+{
+  "id": 204,
+  "title": "The Mysterious Affair at Styles",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The Mysterious Affair at Styles\" by \"Agatha Christie\" (جنایی و معمایی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "1aa7c1b6ed0aa8f889b452af1d726e8e3547a2ffef1c6f68978e4454937b3ea9",
+  "thumbnail_sha256": "793889fa9b9429fd0b90ad56407688c109de862cbb44d9f47bdee95ba0afe970",
+  "image": "public/concept-art/book-204.webp",
+  "thumbnail": "public/concept-thumb/book-204.webp"
+}

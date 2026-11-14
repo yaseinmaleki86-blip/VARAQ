@@ -1,0 +1,11 @@
+{
+  "id": 2,
+  "title": "کیمیاگر",
+  "prompt": "Use case: illustration-story. Asset: ONE portrait 5:7 full-bleed original literary artwork for a bookstore. Book title: کیمیاگر; author: پائولو کوئیلو; category: رمان و ادبیات جهان. Create a beautiful specific narrative scene inspired by this book's recognizable setting and themes, with naturalistic characters where appropriate, rich spatial depth, carefully painted textures, cinematic lighting, refined editorial illustration. Strong scene composition recognizable at thumbnail size. No text, no lettering, no watermark, no grid, no mockup. Original independent interpretation, do not reproduce an existing cover.",
+  "sha256": "152f754b3f2716a5df3e2f51c351c38d4d09491c999c3d898f1f05213b333ec5",
+  "thumbnail_sha256": "6e8d26a5ab0f7402e6a4d1ba9088cd22db920e589c25978f4c80b6b721e65bd8",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "image": "public/concept-art/book-002.webp",
+  "thumbnail": "public/concept-thumb/book-002.webp"
+}

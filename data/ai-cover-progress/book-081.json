@@ -1,0 +1,11 @@
+{
+  "id": 81,
+  "title": "دنیای سوفی",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"دنیای سوفی\", author \"یوستین گوردر\", category \"فلسفه و تاریخ\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "61d21be2daef756643f424cfc670522db8681cc13372c5ef9a85198b376ffa95",
+  "thumbnail_sha256": "a63dc34b77b328c0e9f5852671d4518c5c41b2a38bf0afb7c8bdc7ba121d8714",
+  "image": "public/concept-art/book-081.webp",
+  "thumbnail": "public/concept-thumb/book-081.webp"
+}

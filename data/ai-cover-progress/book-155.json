@@ -1,0 +1,11 @@
+{
+  "id": 155,
+  "title": "هوای تازه",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هوای تازه\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7f2c64826b414bbb6e7107182b272087a76d4034bfae6ac741adfaf960c5fe0e",
+  "thumbnail_sha256": "d308faadfa304fae1dc3f90550884cc23b07aa18b839e9573c58a7fd5cb527b7",
+  "image": "public/concept-art/book-155.webp",
+  "thumbnail": "public/concept-thumb/book-155.webp"
+}

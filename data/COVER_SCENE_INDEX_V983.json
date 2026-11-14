@@ -1,0 +1,7842 @@
+[
+  {
+    "id": 21,
+    "title": "بادبادک‌باز",
+    "category": "رمان معاصر",
+    "motif": "kite",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 22,
+    "title": "هزار خورشید تابان",
+    "category": "رمان معاصر",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 23,
+    "title": "و کوهستان طنین انداخت",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 24,
+    "title": "کتابخانه نیمه‌شب",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 25,
+    "title": "مردی به نام اوه",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 26,
+    "title": "بریت‌ماری اینجا بود",
+    "category": "رمان معاصر",
+    "motif": "forest",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 27,
+    "title": "مادربزرگ سلام رساند و گفت متأسف است",
+    "category": "رمان معاصر",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 28,
+    "title": "زندگی در پیش رو",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 29,
+    "title": "من پیش از تو",
+    "category": "رمان معاصر",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 30,
+    "title": "پس از تو",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 31,
+    "title": "باز هم من",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 32,
+    "title": "دختری که رهایش کردی",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 33,
+    "title": "چراغ‌ها را من خاموش می‌کنم",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 34,
+    "title": "پاییز فصل آخر سال است",
+    "category": "رمان معاصر",
+    "motif": "autumn",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 35,
+    "title": "قهوه سرد آقای نویسنده",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 36,
+    "title": "چشم‌هایش",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 37,
+    "title": "سووشون",
+    "category": "رمان معاصر",
+    "motif": "noir",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 38,
+    "title": "بامداد خمار",
+    "category": "رمان معاصر",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 39,
+    "title": "دالان بهشت",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 40,
+    "title": "سمفونی مردگان",
+    "category": "رمان معاصر",
+    "motif": "music",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 41,
+    "title": "اثر مرکب",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 42,
+    "title": "عادت‌های اتمی",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "growth",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 43,
+    "title": "قدرت عادت",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "growth",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 44,
+    "title": "باشگاه پنج صبحی‌ها",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 45,
+    "title": "قورباغه‌ات را قورت بده",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 46,
+    "title": "چهار اثر فلورانس اسکاول شین",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 47,
+    "title": "قدرت حال",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 48,
+    "title": "انسان در جستجوی معنا",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 49,
+    "title": "هنر ظریف بی‌خیالی",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 50,
+    "title": "نمی‌توانی به من آسیب بزنی",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 51,
+    "title": "خرده‌عادت‌ها",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "growth",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 52,
+    "title": "هفت عادت مردمان مؤثر",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "growth",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 53,
+    "title": "چه کسی پنیر مرا جابه‌جا کرد؟",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 54,
+    "title": "قدرت فکر مثبت",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 55,
+    "title": "جادوی فکر بزرگ",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 56,
+    "title": "چهار میثاق",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 57,
+    "title": "تئوری انتخاب",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "garden",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 58,
+    "title": "زندگی خود را دوباره بیافرینید",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 59,
+    "title": "جرئت داشته باش",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "noir",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 60,
+    "title": "شفای زندگی",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 61,
+    "title": "پدر پولدار پدر بی‌پول",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 62,
+    "title": "روان‌شناسی پول",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 63,
+    "title": "ثروتمندترین مرد بابل",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 64,
+    "title": "بیندیشید و ثروتمند شوید",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 65,
+    "title": "اسرار ذهن میلیونر",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 66,
+    "title": "از خوب به عالی",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 67,
+    "title": "صفر به یک",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 68,
+    "title": "استارتاپ ناب",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "lab",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 69,
+    "title": "بازاریابی چریکی",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 70,
+    "title": "گاو بنفش",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 71,
+    "title": "بازاریابی اجازه‌ای",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 72,
+    "title": "این است بازاریابی",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 73,
+    "title": "استراتژی اقیانوس آبی",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 74,
+    "title": "با چرا شروع کنید",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 75,
+    "title": "رهبران آخر غذا می‌خورند",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "coffee",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 76,
+    "title": "کفش‌باز",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 77,
+    "title": "سختی کارهای سخت",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 78,
+    "title": "کار عمیق",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 79,
+    "title": "هفته کاری چهار ساعته",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 80,
+    "title": "مدیر یک دقیقه‌ای",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 81,
+    "title": "دنیای سوفی",
+    "category": "فلسفه و تاریخ",
+    "motif": "sea",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 82,
+    "title": "تسلی‌بخشی‌های فلسفه",
+    "category": "فلسفه و تاریخ",
+    "motif": "temple",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 83,
+    "title": "چنین گفت زرتشت",
+    "category": "فلسفه و تاریخ",
+    "motif": "forest",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 84,
+    "title": "فراسوی نیک و بد",
+    "category": "فلسفه و تاریخ",
+    "motif": "temple",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 85,
+    "title": "جمهوری افلاطون",
+    "category": "فلسفه و تاریخ",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 86,
+    "title": "تأملات",
+    "category": "فلسفه و تاریخ",
+    "motif": "brain",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 87,
+    "title": "انسان خردمند",
+    "category": "فلسفه و تاریخ",
+    "motif": "temple",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 88,
+    "title": "انسان خداگونه",
+    "category": "فلسفه و تاریخ",
+    "motif": "temple",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 89,
+    "title": "۲۱ درس برای قرن ۲۱",
+    "category": "فلسفه و تاریخ",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 90,
+    "title": "اسلحه میکروب و فولاد",
+    "category": "فلسفه و تاریخ",
+    "motif": "lab",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 91,
+    "title": "تاریخ مختصر جهان",
+    "category": "فلسفه و تاریخ",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 92,
+    "title": "تاریخچه تقریباً همه چیز",
+    "category": "فلسفه و تاریخ",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 93,
+    "title": "تاریخ بیهقی",
+    "category": "فلسفه و تاریخ",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 94,
+    "title": "دو قرن سکوت",
+    "category": "فلسفه و تاریخ",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 95,
+    "title": "ایران بین دو انقلاب",
+    "category": "فلسفه و تاریخ",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 96,
+    "title": "جامعه‌شناسی نخبه‌کشی",
+    "category": "فلسفه و تاریخ",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 97,
+    "title": "چرا ملت‌ها شکست می‌خورند",
+    "category": "فلسفه و تاریخ",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 98,
+    "title": "راه باریک آزادی",
+    "category": "فلسفه و تاریخ",
+    "motif": "bird",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 99,
+    "title": "شرق بهشت",
+    "category": "فلسفه و تاریخ",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 100,
+    "title": "افسانه سیزیف",
+    "category": "فلسفه و تاریخ",
+    "motif": "temple",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 101,
+    "title": "قصه‌های مجید",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 102,
+    "title": "قصه‌های خوب برای بچه‌های خوب",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 103,
+    "title": "قصه‌های من و بابام",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 104,
+    "title": "ماهی سیاه کوچولو",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 105,
+    "title": "مهمان‌های ناخوانده",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 106,
+    "title": "حسنی نگو یه دسته گل",
+    "category": "کودک و نوجوان",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 107,
+    "title": "کدو قلقله‌زن",
+    "category": "کودک و نوجوان",
+    "motif": "mountain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 108,
+    "title": "خرس قهوه‌ای خرس قهوه‌ای چی می‌بینی؟",
+    "category": "کودک و نوجوان",
+    "motif": "coffee",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 109,
+    "title": "کرم ابریشم خیلی گرسنه",
+    "category": "کودک و نوجوان",
+    "motif": "rain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 110,
+    "title": "جایی که وحشی‌ها هستند",
+    "category": "کودک و نوجوان",
+    "motif": "train",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 111,
+    "title": "درخت بخشنده",
+    "category": "کودک و نوجوان",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 112,
+    "title": "گربه کلاه‌به‌سر",
+    "category": "کودک و نوجوان",
+    "motif": "rain",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 113,
+    "title": "ماتیلدا",
+    "category": "کودک و نوجوان",
+    "motif": "brain",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 114,
+    "title": "چارلی و کارخانه شکلات‌سازی",
+    "category": "کودک و نوجوان",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 115,
+    "title": "جیمز و هلوی غول‌پیکر",
+    "category": "کودک و نوجوان",
+    "motif": "train",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 116,
+    "title": "جادوگرها",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 117,
+    "title": "غول بزرگ مهربان",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 118,
+    "title": "پاستیل‌های بنفش",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 119,
+    "title": "شگفتی",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 120,
+    "title": "قصه‌های امیرعلی",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 121,
+    "title": "هری پاتر و سنگ جادو",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "noir",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 122,
+    "title": "هری پاتر و تالار اسرار",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "noir",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 123,
+    "title": "هری پاتر و زندانی آزکابان",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 124,
+    "title": "هری پاتر و جام آتش",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 125,
+    "title": "هری پاتر و محفل ققنوس",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "rain",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 126,
+    "title": "هری پاتر و شاهزاده دورگه",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 127,
+    "title": "هری پاتر و یادگاران مرگ",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 128,
+    "title": "هابیت",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "train",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 129,
+    "title": "یاران حلقه",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "train",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 130,
+    "title": "دو برج",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "rain",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 131,
+    "title": "بازگشت پادشاه",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 132,
+    "title": "بازی تاج و تخت",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 133,
+    "title": "نبرد پادشاهان",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 134,
+    "title": "طوفان شمشیرها",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "rain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 135,
+    "title": "تلماسه",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "desert",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 136,
+    "title": "بنیاد",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 137,
+    "title": "من ربات",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "noir",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 138,
+    "title": "راهنمای مسافران مجانی کهکشان",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 139,
+    "title": "پرسی جکسون و دزد آذرخش",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 140,
+    "title": "بازی‌های گرسنگی",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "rain",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 141,
+    "title": "شاهنامه فردوسی",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 142,
+    "title": "دیوان حافظ",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 143,
+    "title": "بوستان سعدی",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 144,
+    "title": "گلستان سعدی",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 145,
+    "title": "مثنوی معنوی",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 146,
+    "title": "دیوان شمس",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "music",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 147,
+    "title": "رباعیات خیام",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 148,
+    "title": "منطق‌الطیر",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "train",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 149,
+    "title": "هفت پیکر",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "castle",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 150,
+    "title": "خسرو و شیرین",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 151,
+    "title": "لیلی و مجنون",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 152,
+    "title": "دیوان پروین اعتصامی",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 153,
+    "title": "هشت کتاب",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 154,
+    "title": "تولدی دیگر",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "forest",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 155,
+    "title": "هوای تازه",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 156,
+    "title": "زمستان",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "sky",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 157,
+    "title": "گزینه اشعار قیصر امین‌پور",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 158,
+    "title": "یکی بود یکی نبود",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "castle",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 159,
+    "title": "مدیر مدرسه",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 160,
+    "title": "کلیدر",
+    "category": "ادبیات فارسی و شعر",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 161,
+    "title": "تاریخچه زمان",
+    "category": "علم و فناوری",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 162,
+    "title": "طرح بزرگ",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 163,
+    "title": "جهان در پوست گردو",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 164,
+    "title": "پاسخ‌های کوتاه به پرسش‌های بزرگ",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 165,
+    "title": "کیهان",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 166,
+    "title": "جهان‌های موازی",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 167,
+    "title": "فیزیک ناممکن‌ها",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 168,
+    "title": "آینده ذهن",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 169,
+    "title": "ژن خودخواه",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 170,
+    "title": "منشأ انواع",
+    "category": "علم و فناوری",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 171,
+    "title": "حیات چیست؟",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 172,
+    "title": "شش قطعه آسان",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 173,
+    "title": "ساختار انقلاب‌های علمی",
+    "category": "علم و فناوری",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 174,
+    "title": "تفکر سریع و کند",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 175,
+    "title": "نویز",
+    "category": "علم و فناوری",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 176,
+    "title": "واقعیت",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 177,
+    "title": "مغز داستان شما",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 178,
+    "title": "زندگی پنهان درختان",
+    "category": "علم و فناوری",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 179,
+    "title": "بدن راهنمای ساکنان",
+    "category": "علم و فناوری",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 180,
+    "title": "هفت درس کوتاه درباره فیزیک",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 181,
+    "title": "آیین دوست‌یابی",
+    "category": "مهارت و سبک زندگی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 182,
+    "title": "آیین سخنرانی",
+    "category": "مهارت و سبک زندگی",
+    "motif": "sports",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 183,
+    "title": "هرگز سازش نکنید",
+    "category": "مهارت و سبک زندگی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 184,
+    "title": "چگونه با هر کسی صحبت کنیم",
+    "category": "مهارت و سبک زندگی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 185,
+    "title": "زبان بدن",
+    "category": "مهارت و سبک زندگی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 186,
+    "title": "پنج زبان عشق",
+    "category": "مهارت و سبک زندگی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 187,
+    "title": "مردان مریخی زنان ونوسی",
+    "category": "مهارت و سبک زندگی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 188,
+    "title": "محکم در آغوشم بگیر",
+    "category": "مهارت و سبک زندگی",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 189,
+    "title": "هوش هیجانی",
+    "category": "مهارت و سبک زندگی",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 190,
+    "title": "هوش اجتماعی",
+    "category": "مهارت و سبک زندگی",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 191,
+    "title": "فرزندپروری باکفایت",
+    "category": "مهارت و سبک زندگی",
+    "motif": "child",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 192,
+    "title": "کودک خانواده انسان",
+    "category": "مهارت و سبک زندگی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 193,
+    "title": "مغز کودک من",
+    "category": "مهارت و سبک زندگی",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 194,
+    "title": "تربیت بدون فریاد",
+    "category": "مهارت و سبک زندگی",
+    "motif": "sports",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 195,
+    "title": "هنر شفاف اندیشیدن",
+    "category": "مهارت و سبک زندگی",
+    "motif": "sports",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 196,
+    "title": "هنر خوب زندگی کردن",
+    "category": "مهارت و سبک زندگی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 197,
+    "title": "اصل‌گرایی",
+    "category": "مهارت و سبک زندگی",
+    "motif": "forest",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 198,
+    "title": "چهار هزار هفته",
+    "category": "مهارت و سبک زندگی",
+    "motif": "clock",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 199,
+    "title": "مینیمالیسم دیجیتال",
+    "category": "مهارت و سبک زندگی",
+    "motif": "sky",
+    "motif_source": "synopsis",
+    "original_concept_cover": true
+  },
+  {
+    "id": 200,
+    "title": "یک چیز",
+    "category": "مهارت و سبک زندگی",
+    "motif": "sports",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 201,
+    "title": "Beloved",
+    "category": "رمان و ادبیات جهان",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 202,
+    "title": "My Sister’s Keeper",
+    "category": "رمان معاصر",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 203,
+    "title": "Foundation and Empire",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 204,
+    "title": "The Mysterious Affair at Styles",
+    "category": "جنایی و معمایی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 205,
+    "title": "The Lion, the Witch and the Wardrobe",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 206,
+    "title": "The Better Angels of Our Nature",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 207,
+    "title": "Give and Take",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 208,
+    "title": "The Tipping Point",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 209,
+    "title": "Carrie",
+    "category": "ترسناک و تعلیق",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 210,
+    "title": "So Good They Can’t Ignore You",
+    "category": "مهارت و سبک زندگی",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 211,
+    "title": "The Stranger",
+    "category": "فلسفه و تاریخ",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 212,
+    "title": "Sense and Sensibility",
+    "category": "رمان و ادبیات جهان",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 213,
+    "title": "The Last Letter from Your Lover",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 214,
+    "title": "Childhood’s End",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 215,
+    "title": "A Study in Scarlet",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 216,
+    "title": "The Sea of Monsters",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 217,
+    "title": "The Blind Watchmaker",
+    "category": "علم و فناوری",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 218,
+    "title": "Drive",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 219,
+    "title": "The Gifts of Imperfection",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 220,
+    "title": "Salem’s Lot",
+    "category": "ترسناک و تعلیق",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 221,
+    "title": "Steal Like an Artist",
+    "category": "مهارت و سبک زندگی",
+    "motif": "coffee",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 222,
+    "title": "Nexus",
+    "category": "فلسفه و تاریخ",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 223,
+    "title": "Oliver Twist",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 224,
+    "title": "Beartown",
+    "category": "رمان معاصر",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 225,
+    "title": "Do Androids Dream of Electric Sheep?",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 226,
+    "title": "A Time to Kill",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 227,
+    "title": "The Twits",
+    "category": "کودک و نوجوان",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 228,
+    "title": "Pale Blue Dot",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 229,
+    "title": "The 4-Hour Body",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 230,
+    "title": "Mindset",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 231,
+    "title": "The Shining",
+    "category": "ترسناک و تعلیق",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 232,
+    "title": "How to Stop Worrying and Start Living",
+    "category": "مهارت و سبک زندگی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 233,
+    "title": "The Plague",
+    "category": "فلسفه و تاریخ",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 234,
+    "title": "Middlemarch",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 235,
+    "title": "Tuesdays with Morrie",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 236,
+    "title": "The Left Hand of Darkness",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 237,
+    "title": "Digital Fortress",
+    "category": "جنایی و معمایی",
+    "motif": "tech",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 238,
+    "title": "Five on a Treasure Island",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 239,
+    "title": "Black Holes and Baby Universes",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 240,
+    "title": "Fooled by Randomness",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 241,
+    "title": "The Happiness Project",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 242,
+    "title": "The Stand",
+    "category": "ترسناک و تعلیق",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 243,
+    "title": "A World Without Email",
+    "category": "مهارت و سبک زندگی",
+    "motif": "sports",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 244,
+    "title": "Sapiens: A Graphic History",
+    "category": "فلسفه و تاریخ",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 245,
+    "title": "Tess of the d’Urbervilles",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 246,
+    "title": "The Humans",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 247,
+    "title": "Fahrenheit 451",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 248,
+    "title": "Tell No One",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 249,
+    "title": "Eleanor & Park",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 250,
+    "title": "The Elegant Universe",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 251,
+    "title": "Moneyball",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 252,
+    "title": "The Obstacle Is the Way",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 253,
+    "title": "The Dead Zone",
+    "category": "ترسناک و تعلیق",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 254,
+    "title": "Show Your Work!",
+    "category": "مهارت و سبک زندگی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 255,
+    "title": "The Fall",
+    "category": "فلسفه و تاریخ",
+    "motif": "autumn",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 256,
+    "title": "The Portrait of a Lady",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 257,
+    "title": "Norwegian Wood",
+    "category": "رمان معاصر",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 258,
+    "title": "Kindred",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 259,
+    "title": "Sharp Objects",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 260,
+    "title": "Prince Caspian",
+    "category": "کودک و نوجوان",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 261,
+    "title": "Astrophysics for People in a Hurry",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 262,
+    "title": "Same as Ever",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 263,
+    "title": "Grit",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 264,
+    "title": "Firestarter",
+    "category": "ترسناک و تعلیق",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 265,
+    "title": "The Quick and Easy Way to Effective Speaking",
+    "category": "مهارت و سبک زندگی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 266,
+    "title": "The Rebel",
+    "category": "فلسفه و تاریخ",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 267,
+    "title": "The Age of Innocence",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 268,
+    "title": "The Remains of the Day",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 269,
+    "title": "Stranger in a Strange Land",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 270,
+    "title": "The Girl on the Train",
+    "category": "جنایی و معمایی",
+    "motif": "train",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 271,
+    "title": "The Titan’s Curse",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 272,
+    "title": "The Man Who Mistook His Wife for a Hat",
+    "category": "علم و فناوری",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 273,
+    "title": "Thinking in Bets",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 274,
+    "title": "Influence",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 275,
+    "title": "Cujo",
+    "category": "ترسناک و تعلیق",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 276,
+    "title": "Slow Productivity",
+    "category": "مهارت و سبک زندگی",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 277,
+    "title": "A Happy Death",
+    "category": "فلسفه و تاریخ",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 278,
+    "title": "Mrs Dalloway",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 279,
+    "title": "The Handmaid’s Tale",
+    "category": "رمان معاصر",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 280,
+    "title": "Dune Messiah",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "desert",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 281,
+    "title": "The Murder of Roger Ackroyd",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 282,
+    "title": "Fantastic Mr Fox",
+    "category": "کودک و نوجوان",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 283,
+    "title": "Complications",
+    "category": "علم و فناوری",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 284,
+    "title": "The Infinite Game",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "sports",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 285,
+    "title": "Focus",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "growth",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 286,
+    "title": "Christine",
+    "category": "ترسناک و تعلیق",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 287,
+    "title": "Keep Going",
+    "category": "مهارت و سبک زندگی",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 288,
+    "title": "Exile and the Kingdom",
+    "category": "فلسفه و تاریخ",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 289,
+    "title": "Dubliners",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 290,
+    "title": "White Teeth",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 291,
+    "title": "The Silmarillion",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 292,
+    "title": "The Sign of the Four",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 293,
+    "title": "Five Go Adventuring Again",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 294,
+    "title": "The Emperor of All Maladies",
+    "category": "علم و فناوری",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 295,
+    "title": "Tribes",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 296,
+    "title": "The Art of Seduction",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 297,
+    "title": "Pet Sematary",
+    "category": "ترسناک و تعلیق",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 298,
+    "title": "How to Become a Straight-A Student",
+    "category": "مهارت و سبک زندگی",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 299,
+    "title": "The Picture of Dorian Gray",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 300,
+    "title": "Half of a Yellow Sun",
+    "category": "رمان معاصر",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 301,
+    "title": "American Gods",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 302,
+    "title": "The Firm",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 303,
+    "title": "Fangirl",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 304,
+    "title": "At Home",
+    "category": "علم و فناوری",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 305,
+    "title": "Built to Last",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 306,
+    "title": "The Will to Meaning",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 307,
+    "title": "It",
+    "category": "ترسناک و تعلیق",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 308,
+    "title": "Newspaper Blackout",
+    "category": "مهارت و سبک زندگی",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 309,
+    "title": "Nineteen Eighty-Four",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 310,
+    "title": "It Ends with Us",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 311,
+    "title": "The Colour of Magic",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 312,
+    "title": "Deception Point",
+    "category": "جنایی و معمایی",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 313,
+    "title": "The Voyage of the Dawn Treader",
+    "category": "کودک و نوجوان",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 314,
+    "title": "Stiff",
+    "category": "علم و فناوری",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 315,
+    "title": "The Innovator’s Dilemma",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "sports",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 316,
+    "title": "The Body Keeps the Score",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 317,
+    "title": "Misery",
+    "category": "ترسناک و تعلیق",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 318,
+    "title": "Brave New World",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 319,
+    "title": "The Notebook",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 320,
+    "title": "Elantris",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 321,
+    "title": "Gone for Good",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 322,
+    "title": "The Battle of the Labyrinth",
+    "category": "کودک و نوجوان",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 323,
+    "title": "Enlightenment Now",
+    "category": "علم و فناوری",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 324,
+    "title": "The Startup Way",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 325,
+    "title": "Outliers",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 326,
+    "title": "The Dark Half",
+    "category": "ترسناک و تعلیق",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 327,
+    "title": "The Call of the Wild",
+    "category": "رمان و ادبیات جهان",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 328,
+    "title": "The Road",
+    "category": "رمان معاصر",
+    "motif": "train",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 329,
+    "title": "The Eye of the World",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 330,
+    "title": "Dark Places",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 331,
+    "title": "The Enormous Crocodile",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 332,
+    "title": "Climbing Mount Improbable",
+    "category": "علم و فناوری",
+    "motif": "mountain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 333,
+    "title": "The Effective Executive",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 334,
+    "title": "Daring Greatly",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 335,
+    "title": "Needful Things",
+    "category": "ترسناک و تعلیق",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 336,
+    "title": "The Old Man and the Sea",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 337,
+    "title": "White Noise",
+    "category": "رمان معاصر",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 338,
+    "title": "Assassin’s Apprentice",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 339,
+    "title": "Into the Water",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 340,
+    "title": "Five Run Away Together",
+    "category": "کودک و نوجوان",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 341,
+    "title": "The Demon-Haunted World",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 342,
+    "title": "Originals",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 343,
+    "title": "Happier at Home",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 344,
+    "title": "Dolores Claiborne",
+    "category": "ترسناک و تعلیق",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 345,
+    "title": "The Great Gatsby",
+    "category": "رمان و ادبیات جهان",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 346,
+    "title": "The Island of Missing Trees",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 347,
+    "title": "The Blade Itself",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 348,
+    "title": "Murder on the Orient Express",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 349,
+    "title": "Carry On",
+    "category": "کودک و نوجوان",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 350,
+    "title": "The Fabric of the Cosmos",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 351,
+    "title": "To Sell Is Human",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 352,
+    "title": "Ego Is the Enemy",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 353,
+    "title": "Gerald’s Game",
+    "category": "ترسناک و تعلیق",
+    "motif": "sports",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 354,
+    "title": "The Grapes of Wrath",
+    "category": "رمان و ادبیات جهان",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 355,
+    "title": "Nineteen Minutes",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 356,
+    "title": "The Fifth Season",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 357,
+    "title": "The Adventures of Sherlock Holmes",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 358,
+    "title": "The Silver Chair",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 359,
+    "title": "Death by Black Hole",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 360,
+    "title": "The 4-Hour Chef",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 361,
+    "title": "Pre-Suasion",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 362,
+    "title": "Insomnia",
+    "category": "ترسناک و تعلیق",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 363,
+    "title": "The Sound and the Fury",
+    "category": "رمان و ادبیات جهان",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 364,
+    "title": "The Giver of Stars",
+    "category": "رمان معاصر",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 365,
+    "title": "Throne of Glass",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 366,
+    "title": "The Pelican Brief",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 367,
+    "title": "The Last Olympian",
+    "category": "کودک و نوجوان",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 368,
+    "title": "Awakenings",
+    "category": "علم و فناوری",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 369,
+    "title": "The Black Swan",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 370,
+    "title": "Working with Emotional Intelligence",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 371,
+    "title": "Rose Madder",
+    "category": "ترسناک و تعلیق",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 372,
+    "title": "Slaughterhouse-Five",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 373,
+    "title": "Us Against You",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 374,
+    "title": "Jurassic Park",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 375,
+    "title": "Angels & Demons",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 376,
+    "title": "George’s Marvellous Medicine",
+    "category": "کودک و نوجوان",
+    "motif": "lab",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 377,
+    "title": "Better",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 378,
+    "title": "The Big Short",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "sports",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 379,
+    "title": "The 33 Strategies of War",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 380,
+    "title": "The Green Mile",
+    "category": "ترسناک و تعلیق",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 381,
+    "title": "The Unbearable Lightness of Being",
+    "category": "رمان و ادبیات جهان",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 382,
+    "title": "The Five People You Meet in Heaven",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 383,
+    "title": "Second Foundation",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 384,
+    "title": "No Second Chance",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 385,
+    "title": "Five Go to Smuggler’s Top",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 386,
+    "title": "The Gene: An Intimate History",
+    "category": "علم و فناوری",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 387,
+    "title": "The Art of Spending Money",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 388,
+    "title": "The Unheard Cry for Meaning",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 389,
+    "title": "Desperation",
+    "category": "ترسناک و تعلیق",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 390,
+    "title": "The Trial",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 391,
+    "title": "How to Stop Time",
+    "category": "رمان معاصر",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 392,
+    "title": "Rendezvous with Rama",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 393,
+    "title": "Gone Girl",
+    "category": "جنایی و معمایی",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 394,
+    "title": "Wayward Son",
+    "category": "کودک و نوجوان",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 395,
+    "title": "The Life and Times of the Thunderbolt Kid",
+    "category": "علم و فناوری",
+    "motif": "rain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 396,
+    "title": "Quit",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 397,
+    "title": "Blink",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 398,
+    "title": "Bag of Bones",
+    "category": "ترسناک و تعلیق",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 399,
+    "title": "Siddhartha",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 400,
+    "title": "Kafka on the Shore",
+    "category": "رمان معاصر",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 401,
+    "title": "The Man in the High Castle",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 402,
+    "title": "A Slow Fire Burning",
+    "category": "جنایی و معمایی",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 403,
+    "title": "The Horse and His Boy",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 404,
+    "title": "Spook",
+    "category": "علم و فناوری",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 405,
+    "title": "Find Your Why",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 406,
+    "title": "Rising Strong",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 407,
+    "title": "The Girl Who Loved Tom Gordon",
+    "category": "ترسناک و تعلیق",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 408,
+    "title": "The Name of the Rose",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 409,
+    "title": "Never Let Me Go",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 410,
+    "title": "The Dispossessed",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 411,
+    "title": "Death on the Nile",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 412,
+    "title": "The Lost Hero",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 413,
+    "title": "Rationality",
+    "category": "علم و فناوری",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 414,
+    "title": "Linchpin",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 415,
+    "title": "Better Than Before",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 416,
+    "title": "Dreamcatcher",
+    "category": "ترسناک و تعلیق",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 417,
+    "title": "Invisible Cities",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 418,
+    "title": "The Testaments",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 419,
+    "title": "The Martian Chronicles",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 420,
+    "title": "The Memoirs of Sherlock Holmes",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 421,
+    "title": "The Giraffe and the Pelly and Me",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 422,
+    "title": "The Greatest Show on Earth",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 423,
+    "title": "Great by Choice",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 424,
+    "title": "Stillness Is the Key",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 425,
+    "title": "From a Buick 8",
+    "category": "ترسناک و تعلیق",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 426,
+    "title": "Love in the Time of Cholera",
+    "category": "رمان و ادبیات جهان",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 427,
+    "title": "On Beauty",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 428,
+    "title": "Parable of the Sower",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 429,
+    "title": "The Client",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 430,
+    "title": "Five Go Off in a Caravan",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 431,
+    "title": "Contact",
+    "category": "علم و فناوری",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 432,
+    "title": "The Innovator’s Solution",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 433,
+    "title": "Primal Leadership",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 434,
+    "title": "Cell",
+    "category": "ترسناک و تعلیق",
+    "motif": "lab",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 435,
+    "title": "The House of the Spirits",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 436,
+    "title": "Americanah",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 437,
+    "title": "Starship Troopers",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 438,
+    "title": "The Da Vinci Code",
+    "category": "جنایی و معمایی",
+    "motif": "tech",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 439,
+    "title": "Any Way the Wind Blows",
+    "category": "کودک و نوجوان",
+    "motif": "sports",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 440,
+    "title": "The Hidden Reality",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 441,
+    "title": "The Practice of Management",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 442,
+    "title": "The 50th Law",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 443,
+    "title": "Lisey’s Story",
+    "category": "ترسناک و تعلیق",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 444,
+    "title": "Blindness",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 445,
+    "title": "It Starts with Us",
+    "category": "رمان معاصر",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 446,
+    "title": "Children of Dune",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "desert",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 447,
+    "title": "Just One Look",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 448,
+    "title": "The Magician’s Nephew",
+    "category": "کودک و نوجوان",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 449,
+    "title": "Letters from an Astrophysicist",
+    "category": "علم و فناوری",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 450,
+    "title": "Option B",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 451,
+    "title": "Yes to Life: In Spite of Everything",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 452,
+    "title": "My Name Is Red",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 453,
+    "title": "A Walk to Remember",
+    "category": "رمان معاصر",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 454,
+    "title": "Unfinished Tales",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 455,
+    "title": "The Grownup",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 456,
+    "title": "The Son of Neptune",
+    "category": "کودک و نوجوان",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 457,
+    "title": "An Anthropologist on Mars",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 458,
+    "title": "When",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 459,
+    "title": "What the Dog Saw",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 460,
+    "title": "Brida",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 461,
+    "title": "No Country for Old Men",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 462,
+    "title": "Neverwhere",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 463,
+    "title": "The Blue Hour",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 464,
+    "title": "Danny the Champion of the World",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 465,
+    "title": "The Checklist Manifesto",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 466,
+    "title": "Tools of Titans",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 467,
+    "title": "Braving the Wilderness",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 468,
+    "title": "The Bluest Eye",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 469,
+    "title": "Underworld",
+    "category": "رمان معاصر",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 470,
+    "title": "The Light Fantastic",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 471,
+    "title": "And Then There Were None",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 472,
+    "title": "Five on Kirrin Island Again",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 473,
+    "title": "The Song of the Cell",
+    "category": "علم و فناوری",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 474,
+    "title": "Antifragile",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 475,
+    "title": "The Four Tendencies",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 476,
+    "title": "Mansfield Park",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 477,
+    "title": "10 Minutes 38 Seconds in This Strange World",
+    "category": "رمان معاصر",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 478,
+    "title": "Warbreaker",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 479,
+    "title": "The Hound of the Baskervilles",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 480,
+    "title": "Attachments",
+    "category": "کودک و نوجوان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 481,
+    "title": "Notes from a Small Island",
+    "category": "علم و فناوری",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 482,
+    "title": "Flash Boys",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 483,
+    "title": "Discipline Is Destiny",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 484,
+    "title": "Great Expectations",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 485,
+    "title": "The Pact",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 486,
+    "title": "The Great Hunt",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 487,
+    "title": "The Chamber",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 488,
+    "title": "The Last Battle",
+    "category": "کودک و نوجوان",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 489,
+    "title": "Bonk",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 490,
+    "title": "How to Decide",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 491,
+    "title": "Mastery",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 492,
+    "title": "The Mill on the Floss",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 493,
+    "title": "The Horse Dancer",
+    "category": "رمان معاصر",
+    "motif": "music",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 494,
+    "title": "Royal Assassin",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 495,
+    "title": "Inferno",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 496,
+    "title": "The Mark of Athena",
+    "category": "کودک و نوجوان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 497,
+    "title": "The Language Instinct",
+    "category": "علم و فناوری",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 498,
+    "title": "Together Is Better",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 499,
+    "title": "David and Goliath",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 500,
+    "title": "Far from the Madding Crowd",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 501,
+    "title": "The Winners",
+    "category": "رمان معاصر",
+    "motif": "sports",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 502,
+    "title": "Before They Are Hanged",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 503,
+    "title": "The Innocent",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 504,
+    "title": "The Magic Finger",
+    "category": "کودک و نوجوان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 505,
+    "title": "The Ancestor’s Tale",
+    "category": "علم و فناوری",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 506,
+    "title": "All Marketers Are Liars",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 507,
+    "title": "Dare to Lead",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 508,
+    "title": "The Turn of the Screw",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 509,
+    "title": "For One More Day",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 510,
+    "title": "The Obelisk Gate",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 511,
+    "title": "The ABC Murders",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 512,
+    "title": "Five Go Off to Camp",
+    "category": "کودک و نوجوان",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 513,
+    "title": "The Dragons of Eden",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 514,
+    "title": "How the Mighty Fall",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "autumn",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 515,
+    "title": "Outer Order, Inner Calm",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 516,
+    "title": "The House of Mirth",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 517,
+    "title": "The Radleys",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 518,
+    "title": "Crown of Midnight",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 519,
+    "title": "The Return of Sherlock Holmes",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 520,
+    "title": "Landline",
+    "category": "کودک و نوجوان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 521,
+    "title": "Until the End of Time",
+    "category": "علم و فناوری",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 522,
+    "title": "How Will You Measure Your Life?",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 523,
+    "title": "Courage Is Calling",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 524,
+    "title": "To the Lighthouse",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 525,
+    "title": "1Q84",
+    "category": "رمان معاصر",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 526,
+    "title": "The Lost World",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 527,
+    "title": "The Rainmaker",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 528,
+    "title": "The Screwtape Letters",
+    "category": "کودک و نوجوان",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 529,
+    "title": "Starry Messenger",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 530,
+    "title": "Management: Tasks, Responsibilities, Practices",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "sports",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 531,
+    "title": "The Laws of Human Nature",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 532,
+    "title": "A Portrait of the Artist as a Young Man",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 533,
+    "title": "Klara and the Sun",
+    "category": "رمان معاصر",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 534,
+    "title": "Foundation’s Edge",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 535,
+    "title": "Origin",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 536,
+    "title": "The House of Hades",
+    "category": "کودک و نوجوان",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 537,
+    "title": "Musicophilia",
+    "category": "علم و فناوری",
+    "motif": "music",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 538,
+    "title": "Think Again",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 539,
+    "title": "Talking to Strangers",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 540,
+    "title": "The Importance of Being Earnest",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 541,
+    "title": "Alias Grace",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 542,
+    "title": "The Fountains of Paradise",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 543,
+    "title": "The Woods",
+    "category": "جنایی و معمایی",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 544,
+    "title": "The Minpins",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 545,
+    "title": "Being Mortal",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 546,
+    "title": "A Whole New Mind",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 547,
+    "title": "Atlas of the Heart",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 548,
+    "title": "Animal Farm",
+    "category": "رمان و ادبیات جهان",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 549,
+    "title": "NW",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 550,
+    "title": "Ubik",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 551,
+    "title": "The Body in the Library",
+    "category": "جنایی و معمایی",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 552,
+    "title": "Five Get into Trouble",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 553,
+    "title": "In a Sunburned Country",
+    "category": "علم و فناوری",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 554,
+    "title": "Tribe of Mentors",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 555,
+    "title": "Life in Five Senses",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 556,
+    "title": "Island",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 557,
+    "title": "Purple Hibiscus",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 558,
+    "title": "A Wizard of Earthsea",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 559,
+    "title": "The Valley of Fear",
+    "category": "جنایی و معمایی",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 560,
+    "title": "Slow Dance",
+    "category": "کودک و نوجوان",
+    "motif": "music",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 561,
+    "title": "Packing for Mars",
+    "category": "علم و فناوری",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 562,
+    "title": "Skin in the Game",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "sports",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 563,
+    "title": "The Daily Stoic",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 564,
+    "title": "White Fang",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 565,
+    "title": "Verity",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 566,
+    "title": "The Illustrated Man",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 567,
+    "title": "The Runaway Jury",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 568,
+    "title": "Mere Christianity",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 569,
+    "title": "How the Mind Works",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 570,
+    "title": "Liar’s Poker",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 571,
+    "title": "The Daily Laws",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 572,
+    "title": "The Sun Also Rises",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 573,
+    "title": "Message in a Bottle",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 574,
+    "title": "Parable of the Talents",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 575,
+    "title": "Hold Tight",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 576,
+    "title": "The Blood of Olympus",
+    "category": "کودک و نوجوان",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 577,
+    "title": "The Extended Phenotype",
+    "category": "علم و فناوری",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 578,
+    "title": "The Dip",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 579,
+    "title": "The Bomber Mafia",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 580,
+    "title": "Tender Is the Night",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 581,
+    "title": "Blood Meridian",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 582,
+    "title": "The Moon Is a Harsh Mistress",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 583,
+    "title": "A Murder Is Announced",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 584,
+    "title": "Esio Trot",
+    "category": "کودک و نوجوان",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 585,
+    "title": "Broca’s Brain",
+    "category": "علم و فناوری",
+    "motif": "rain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 586,
+    "title": "BE 2.0",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 587,
+    "title": "I Thought It Was Just Me",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 588,
+    "title": "Of Mice and Men",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 589,
+    "title": "Libra",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 590,
+    "title": "God Emperor of Dune",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "desert",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 591,
+    "title": "His Last Bow",
+    "category": "جنایی و معمایی",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 592,
+    "title": "Five Fall into Adventure",
+    "category": "کودک و نوجوان",
+    "motif": "autumn",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 593,
+    "title": "Icarus at the Edge of Time",
+    "category": "علم و فناوری",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 594,
+    "title": "Competing Against Luck",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "sports",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 595,
+    "title": "Perennial Seller",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 596,
+    "title": "As I Lay Dying",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 597,
+    "title": "The Bastard of Istanbul",
+    "category": "رمان معاصر",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 598,
+    "title": "The Children of Húrin",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 599,
+    "title": "The Partner",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 600,
+    "title": "The Great Divorce",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 601,
+    "title": "The Pluto Files",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 602,
+    "title": "Innovation and Entrepreneurship",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 603,
+    "title": "Revenge of the Tipping Point",
+    "category": "روانشناسی و رشد فردی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 604,
+    "title": "Cat’s Cradle",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 605,
+    "title": "Plain Truth",
+    "category": "رمان معاصر",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 606,
+    "title": "Stardust",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 607,
+    "title": "Long Lost",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 608,
+    "title": "The Red Pyramid",
+    "category": "کودک و نوجوان",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 609,
+    "title": "Hallucinations",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 610,
+    "title": "Hidden Potential",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 611,
+    "title": "The Book of Laughter and Forgetting",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 612,
+    "title": "The One Plus One",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 613,
+    "title": "Equal Rites",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 614,
+    "title": "Five Little Pigs",
+    "category": "جنایی و معمایی",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 615,
+    "title": "The Vicar of Nibbleswicke",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 616,
+    "title": "The Road to Little Dribbling",
+    "category": "علم و فناوری",
+    "motif": "train",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 617,
+    "title": "The Power of Regret",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 618,
+    "title": "The Castle",
+    "category": "رمان و ادبیات جهان",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 619,
+    "title": "Anxious People",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 620,
+    "title": "The Final Empire",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 621,
+    "title": "The Case-Book of Sherlock Holmes",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 622,
+    "title": "Five on a Hike Together",
+    "category": "کودک و نوجوان",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 623,
+    "title": "Gulp",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 624,
+    "title": "The Bed of Procrustes",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 625,
+    "title": "Steppenwolf",
+    "category": "رمان و ادبیات جهان",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 626,
+    "title": "Have a Little Faith",
+    "category": "رمان معاصر",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 627,
+    "title": "The Dragon Reborn",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 628,
+    "title": "The Street Lawyer",
+    "category": "جنایی و معمایی",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 629,
+    "title": "Till We Have Faces",
+    "category": "کودک و نوجوان",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 630,
+    "title": "The Blank Slate",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 631,
+    "title": "The Undoing Project",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 632,
+    "title": "Foucault’s Pendulum",
+    "category": "رمان و ادبیات جهان",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 633,
+    "title": "The Comfort Book",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 634,
+    "title": "Assassin’s Quest",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 635,
+    "title": "Caught",
+    "category": "جنایی و معمایی",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 636,
+    "title": "The Throne of Fire",
+    "category": "کودک و نوجوان",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 637,
+    "title": "The God Delusion",
+    "category": "علم و فناوری",
+    "motif": "temple",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 638,
+    "title": "The Practice",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 639,
+    "title": "If on a winter’s night a traveler",
+    "category": "رمان و ادبیات جهان",
+    "motif": "train",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 640,
+    "title": "The Wind-Up Bird Chronicle",
+    "category": "رمان معاصر",
+    "motif": "bird",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 641,
+    "title": "Last Argument of Kings",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 642,
+    "title": "The Hollow",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 643,
+    "title": "Boy: Tales of Childhood",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 644,
+    "title": "Billions and Billions",
+    "category": "علم و فناوری",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 645,
+    "title": "The Essential Drucker",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "tech",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 646,
+    "title": "Chronicle of a Death Foretold",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 647,
+    "title": "An Artist of the Floating World",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 648,
+    "title": "The Stone Sky",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 649,
+    "title": "The Lost World",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 650,
+    "title": "The Magic Faraway Tree",
+    "category": "کودک و نوجوان",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 651,
+    "title": "The Mind’s Eye",
+    "category": "علم و فناوری",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 652,
+    "title": "Free Agent Nation",
+    "category": "کسب و کار و اقتصاد",
+    "motif": "growth",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 653,
+    "title": "Eva Luna",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 654,
+    "title": "The Blind Assassin",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 655,
+    "title": "Heir of Fire",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 656,
+    "title": "The Testament",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 657,
+    "title": "Out of the Silent Planet",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 658,
+    "title": "Grunt",
+    "category": "علم و فناوری",
+    "motif": "lab",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 659,
+    "title": "Seeing",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 660,
+    "title": "Swing Time",
+    "category": "رمان معاصر",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 661,
+    "title": "The Andromeda Strain",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "train",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 662,
+    "title": "Live Wire",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 663,
+    "title": "The Serpent’s Shadow",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 664,
+    "title": "The Stuff of Thought",
+    "category": "علم و فناوری",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 665,
+    "title": "Snow",
+    "category": "رمان و ادبیات جهان",
+    "motif": "mountain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 666,
+    "title": "The Thing Around Your Neck",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 667,
+    "title": "Foundation and Earth",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 668,
+    "title": "Crooked House",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 669,
+    "title": "Going Solo",
+    "category": "کودک و نوجوان",
+    "motif": "child",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 670,
+    "title": "Unweaving the Rainbow",
+    "category": "علم و فناوری",
+    "motif": "rain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 671,
+    "title": "Veronika Decides to Die",
+    "category": "رمان و ادبیات جهان",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 672,
+    "title": "Ugly Love",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 673,
+    "title": "2001: A Space Odyssey",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 674,
+    "title": "The Poison Belt",
+    "category": "جنایی و معمایی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 675,
+    "title": "The Enchanted Wood",
+    "category": "کودک و نوجوان",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 676,
+    "title": "Shadows of Forgotten Ancestors",
+    "category": "علم و فناوری",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 677,
+    "title": "Sula",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 678,
+    "title": "Dear John",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 679,
+    "title": "A Scanner Darkly",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 680,
+    "title": "The Brethren",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 681,
+    "title": "Perelandra",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 682,
+    "title": "On the Move",
+    "category": "علم و فناوری",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 683,
+    "title": "Emma",
+    "category": "رمان و ادبیات جهان",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 684,
+    "title": "All the Pretty Horses",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 685,
+    "title": "The Tombs of Atuan",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 686,
+    "title": "Stay Close",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 687,
+    "title": "The Sword of Summer",
+    "category": "کودک و نوجوان",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 688,
+    "title": "Fuzz",
+    "category": "علم و فناوری",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 689,
+    "title": "David Copperfield",
+    "category": "رمان و ادبیات جهان",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 690,
+    "title": "Mao II",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 691,
+    "title": "Something Wicked This Way Comes",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 692,
+    "title": "Evil Under the Sun",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 693,
+    "title": "The Folk of the Faraway Tree",
+    "category": "کودک و نوجوان",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 694,
+    "title": "Gratitude",
+    "category": "علم و فناوری",
+    "motif": "brain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 695,
+    "title": "Silas Marner",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 696,
+    "title": "The Architect’s Apprentice",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 697,
+    "title": "Dawn",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 698,
+    "title": "The White Company",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 699,
+    "title": "That Hideous Strength",
+    "category": "کودک و نوجوان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 700,
+    "title": "Migraine",
+    "category": "علم و فناوری",
+    "motif": "rain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 701,
+    "title": "The Mayor of Casterbridge",
+    "category": "رمان و ادبیات جهان",
+    "motif": "mountain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 702,
+    "title": "Salem Falls",
+    "category": "رمان معاصر",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 703,
+    "title": "Time Enough for Love",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 704,
+    "title": "A Painted House",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 705,
+    "title": "The Ambassadors",
+    "category": "رمان و ادبیات جهان",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 706,
+    "title": "The Ship of Brides",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 707,
+    "title": "Heretics of Dune",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "desert",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 708,
+    "title": "Six Years",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 709,
+    "title": "Ethan Frome",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 710,
+    "title": "And Every Morning the Way Home Gets Longer and Longer",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 711,
+    "title": "Beren and Lúthien",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 712,
+    "title": "Peril at End House",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 713,
+    "title": "Orlando",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 714,
+    "title": "The Time Keeper",
+    "category": "رمان معاصر",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 715,
+    "title": "Coraline",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 716,
+    "title": "Sir Nigel",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 717,
+    "title": "Ulysses",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 718,
+    "title": "Reasons to Stay Alive",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 719,
+    "title": "Mort",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 720,
+    "title": "The Summons",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 721,
+    "title": "The Happy Prince and Other Tales",
+    "category": "رمان و ادبیات جهان",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 722,
+    "title": "A Wild Sheep Chase",
+    "category": "رمان معاصر",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 723,
+    "title": "The Well of Ascension",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 724,
+    "title": "Missing You",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 725,
+    "title": "Homage to Catalonia",
+    "category": "رمان و ادبیات جهان",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 726,
+    "title": "A Pale View of Hills",
+    "category": "رمان معاصر",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 727,
+    "title": "The Shadow Rising",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 728,
+    "title": "The Secret Adversary",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 729,
+    "title": "Point Counter Point",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 730,
+    "title": "Cat’s Eye",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 731,
+    "title": "Ship of Magic",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 732,
+    "title": "The Tragedy of the Korosko",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 733,
+    "title": "The Sea-Wolf",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 734,
+    "title": "The Autograph Man",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 735,
+    "title": "Best Served Cold",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 736,
+    "title": "The King of Torts",
+    "category": "جنایی و معمایی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 737,
+    "title": "A Farewell to Arms",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 738,
+    "title": "We Should All Be Feminists",
+    "category": "رمان معاصر",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 739,
+    "title": "The Hundred Thousand Kingdoms",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "desert",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 740,
+    "title": "The Stranger",
+    "category": "جنایی و معمایی",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 741,
+    "title": "This Side of Paradise",
+    "category": "رمان و ادبیات جهان",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 742,
+    "title": "November 9",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 743,
+    "title": "Queen of Shadows",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 744,
+    "title": "The Man in the Brown Suit",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 745,
+    "title": "Cannery Row",
+    "category": "رمان و ادبیات جهان",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 746,
+    "title": "The Last Song",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 747,
+    "title": "The Terminal Man",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 748,
+    "title": "The Last Juror",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 749,
+    "title": "Absalom, Absalom!",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 750,
+    "title": "The Crossing",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 751,
+    "title": "Prelude to Foundation",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 752,
+    "title": "Fool Me Once",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 753,
+    "title": "Breakfast of Champions",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 754,
+    "title": "Cosmopolis",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 755,
+    "title": "2010: Odyssey Two",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 756,
+    "title": "The Seven Dials Mystery",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 757,
+    "title": "The Joke",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 758,
+    "title": "Honour",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 759,
+    "title": "The Three Stigmata of Palmer Eldritch",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 760,
+    "title": "The Broker",
+    "category": "جنایی و معمایی",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 761,
+    "title": "The Metamorphosis",
+    "category": "رمان و ادبیات جهان",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 762,
+    "title": "Perfect Match",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 763,
+    "title": "The Farthest Shore",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 764,
+    "title": "Don’t Let Go",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 765,
+    "title": "Demian",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 766,
+    "title": "Silver Bay",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 767,
+    "title": "Dandelion Wine",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sports",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 768,
+    "title": "The Sittaford Mystery",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 769,
+    "title": "The Island of the Day Before",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 770,
+    "title": "The First Phone Call from Heaven",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 771,
+    "title": "Adulthood Rites",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 772,
+    "title": "The Innocent Man",
+    "category": "جنایی و معمایی",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 773,
+    "title": "The Baron in the Trees",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 774,
+    "title": "Notes on a Nervous Planet",
+    "category": "رمان معاصر",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 775,
+    "title": "The Door into Summer",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 776,
+    "title": "Run Away",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 777,
+    "title": "The Autumn of the Patriarch",
+    "category": "رمان و ادبیات جهان",
+    "motif": "autumn",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 778,
+    "title": "Dance Dance Dance",
+    "category": "رمان معاصر",
+    "motif": "music",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 779,
+    "title": "Chapterhouse: Dune",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "desert",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 780,
+    "title": "Cards on the Table",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 781,
+    "title": "Daughter of Fortune",
+    "category": "رمان و ادبیات جهان",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 782,
+    "title": "The Unconsoled",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 783,
+    "title": "The Fall of Gondolin",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "autumn",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 784,
+    "title": "Playing for Pizza",
+    "category": "جنایی و معمایی",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 785,
+    "title": "The Gospel According to Jesus Christ",
+    "category": "رمان و ادبیات جهان",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 786,
+    "title": "The Robber Bride",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 787,
+    "title": "The Graveyard Book",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 788,
+    "title": "The Boy from the Woods",
+    "category": "جنایی و معمایی",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 789,
+    "title": "The Museum of Innocence",
+    "category": "رمان و ادبیات جهان",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 790,
+    "title": "The Fraud",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 791,
+    "title": "Sourcery",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 792,
+    "title": "Appointment with Death",
+    "category": "جنایی و معمایی",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 793,
+    "title": "The Pilgrimage",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 794,
+    "title": "Dear Ijeawele",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 795,
+    "title": "The Hero of Ages",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 796,
+    "title": "The Appeal",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 797,
+    "title": "Song of Solomon",
+    "category": "رمان و ادبیات جهان",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 798,
+    "title": "Reminders of Him",
+    "category": "رمان معاصر",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 799,
+    "title": "The Fires of Heaven",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 800,
+    "title": "Win",
+    "category": "جنایی و معمایی",
+    "motif": "sports",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 801,
+    "title": "Persuasion",
+    "category": "رمان و ادبیات جهان",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 802,
+    "title": "The Lucky One",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 803,
+    "title": "The Mad Ship",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 804,
+    "title": "Sad Cypress",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 805,
+    "title": "Bleak House",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 806,
+    "title": "Cities of the Plain",
+    "category": "رمان معاصر",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 807,
+    "title": "The Heroes",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 808,
+    "title": "The Litigators",
+    "category": "جنایی و معمایی",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 809,
+    "title": "Adam Bede",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 810,
+    "title": "Falling Man",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 811,
+    "title": "The Broken Kingdoms",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 812,
+    "title": "I Will Find You",
+    "category": "جنایی و معمایی",
+    "motif": "clock",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 813,
+    "title": "Jude the Obscure",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 814,
+    "title": "Three Daughters of Eve",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 815,
+    "title": "Empire of Storms",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "rain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 816,
+    "title": "N or M?",
+    "category": "جنایی و معمایی",
+    "motif": "noir",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 817,
+    "title": "The Wings of the Dove",
+    "category": "رمان و ادبیات جهان",
+    "motif": "bird",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 818,
+    "title": "Second Glance",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 819,
+    "title": "Congo",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 820,
+    "title": "Sycamore Row",
+    "category": "جنایی و معمایی",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 821,
+    "title": "The Custom of the Country",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 822,
+    "title": "Foreign Fruit",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 823,
+    "title": "Forward the Foundation",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 824,
+    "title": "The Waves",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 825,
+    "title": "The Magic Strings of Frankie Presto",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 826,
+    "title": "2061: Odyssey Three",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 827,
+    "title": "Finnegans Wake",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 828,
+    "title": "The Life Impossible",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 829,
+    "title": "Flow My Tears, the Policeman Said",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "coffee",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 830,
+    "title": "De Profundis",
+    "category": "رمان و ادبیات جهان",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 831,
+    "title": "Sputnik Sweetheart",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 832,
+    "title": "Tehanu",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 833,
+    "title": "Down and Out in Paris and London",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 834,
+    "title": "When We Were Orphans",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 835,
+    "title": "The October Country",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 836,
+    "title": "Eyeless in Gaza",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 837,
+    "title": "Oryx and Crake",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 838,
+    "title": "Imago",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 839,
+    "title": "Martin Eden",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 840,
+    "title": "Feel Free",
+    "category": "رمان معاصر",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 841,
+    "title": "Double Star",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 842,
+    "title": "For Whom the Bell Tolls",
+    "category": "رمان و ادبیات جهان",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 843,
+    "title": "Notes on Grief",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 844,
+    "title": "The White Plague",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 845,
+    "title": "The Beautiful and Damned",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 846,
+    "title": "All Your Perfects",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 847,
+    "title": "The Fall of Númenor",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "autumn",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 848,
+    "title": "The Pearl",
+    "category": "رمان و ادبیات جهان",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 849,
+    "title": "The Choice",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 850,
+    "title": "The Ocean at the End of the Lane",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 851,
+    "title": "Light in August",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 852,
+    "title": "Suttree",
+    "category": "رمان معاصر",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 853,
+    "title": "Wyrd Sisters",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 854,
+    "title": "The Sirens of Titan",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 855,
+    "title": "Zero K",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 856,
+    "title": "The Alloy of Law",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 857,
+    "title": "Life Is Elsewhere",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 858,
+    "title": "Black Milk",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 859,
+    "title": "Lord of Chaos",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 860,
+    "title": "Amerika",
+    "category": "رمان و ادبیات جهان",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 861,
+    "title": "Vanishing Acts",
+    "category": "رمان معاصر",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 862,
+    "title": "Ship of Destiny",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 863,
+    "title": "The Glass Bead Game",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sports",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 864,
+    "title": "The Peacock Emporium",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 865,
+    "title": "Red Country",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 866,
+    "title": "Baudolino",
+    "category": "رمان و ادبیات جهان",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 867,
+    "title": "The Next Person You Meet in Heaven",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 868,
+    "title": "The Kingdom of Gods",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 869,
+    "title": "The Cloven Viscount",
+    "category": "رمان و ادبیات جهان",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 870,
+    "title": "The Boy Called Christmas",
+    "category": "رمان معاصر",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 871,
+    "title": "Tower of Dawn",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 872,
+    "title": "No One Writes to the Colonel",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 873,
+    "title": "After Dark",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 874,
+    "title": "Sphere",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 875,
+    "title": "Portrait in Sepia",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 876,
+    "title": "The Buried Giant",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 877,
+    "title": "The Caves of Steel",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 878,
+    "title": "All the Names",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 879,
+    "title": "The Year of the Flood",
+    "category": "رمان معاصر",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 880,
+    "title": "3001: The Final Odyssey",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 881,
+    "title": "The Black Book",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 882,
+    "title": "Maybe Someday",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 883,
+    "title": "VALIS",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 884,
+    "title": "Eleven Minutes",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 885,
+    "title": "The Best of Me",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 886,
+    "title": "Tales from Earthsea",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 887,
+    "title": "Tar Baby",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 888,
+    "title": "Child of God",
+    "category": "رمان معاصر",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 889,
+    "title": "The Golden Apples of the Sun",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 890,
+    "title": "Northanger Abbey",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 891,
+    "title": "The Names",
+    "category": "رمان معاصر",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 892,
+    "title": "Wild Seed",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 893,
+    "title": "A Tale of Two Cities",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 894,
+    "title": "The Gaze",
+    "category": "رمان معاصر",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 895,
+    "title": "Have Space Suit—Will Travel",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 896,
+    "title": "Daniel Deronda",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 897,
+    "title": "The Tenth Circle",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 898,
+    "title": "The Dosadi Experiment",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 899,
+    "title": "The Return of the Native",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 900,
+    "title": "Sheltering Rain",
+    "category": "رمان معاصر",
+    "motif": "rain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 901,
+    "title": "The Adventures of Tom Bombadil",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 902,
+    "title": "The Golden Bowl",
+    "category": "رمان و ادبیات جهان",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 903,
+    "title": "Finding Chika",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 904,
+    "title": "Good Omens",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 905,
+    "title": "The Reef",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 906,
+    "title": "A Girl Who Saved Christmas",
+    "category": "رمان معاصر",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 907,
+    "title": "Pyramids",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 908,
+    "title": "Jacob’s Room",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 909,
+    "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+    "category": "رمان معاصر",
+    "motif": "city",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 910,
+    "title": "Shadows of Self",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 911,
+    "title": "Exiles",
+    "category": "رمان و ادبیات جهان",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 912,
+    "title": "Nocturnes",
+    "category": "رمان معاصر",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 913,
+    "title": "A Crown of Swords",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 914,
+    "title": "The Canterville Ghost",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 915,
+    "title": "MaddAddam",
+    "category": "رمان معاصر",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 916,
+    "title": "Fool’s Errand",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 917,
+    "title": "The Road to Wigan Pier",
+    "category": "رمان و ادبیات جهان",
+    "motif": "train",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 918,
+    "title": "Maybe Now",
+    "category": "رمان معاصر",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 919,
+    "title": "A Little Hatred",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 920,
+    "title": "Crome Yellow",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 921,
+    "title": "Safe Haven",
+    "category": "رمان معاصر",
+    "motif": "portrait",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 922,
+    "title": "The Killing Moon",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 923,
+    "title": "The Iron Heel",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 924,
+    "title": "Outer Dark",
+    "category": "رمان معاصر",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 925,
+    "title": "Kingdom of Ash",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 926,
+    "title": "To Have and Have Not",
+    "category": "رمان و ادبیات جهان",
+    "motif": "train",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 927,
+    "title": "Disclosure",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 928,
+    "title": "The Last Tycoon",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 929,
+    "title": "The Naked Sun",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 930,
+    "title": "Tortilla Flat",
+    "category": "رمان و ادبیات جهان",
+    "motif": "library",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 931,
+    "title": "The City and the Stars",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 932,
+    "title": "Sanctuary",
+    "category": "رمان و ادبیات جهان",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 933,
+    "title": "The Divine Invasion",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 934,
+    "title": "Player Piano",
+    "category": "رمان و ادبیات جهان",
+    "motif": "music",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 935,
+    "title": "The Other Wind",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sports",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 936,
+    "title": "Immortality",
+    "category": "رمان و ادبیات جهان",
+    "motif": "coffee",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 937,
+    "title": "The Halloween Tree",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 938,
+    "title": "In the Penal Colony",
+    "category": "رمان و ادبیات جهان",
+    "motif": "rain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 939,
+    "title": "Mind of My Mind",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "brain",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 940,
+    "title": "Narcissus and Goldmund",
+    "category": "رمان و ادبیات جهان",
+    "motif": "house",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 941,
+    "title": "Tunnel in the Sky",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 942,
+    "title": "The Prague Cemetery",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 943,
+    "title": "The Dragon in the Sea",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 944,
+    "title": "The Nonexistent Knight",
+    "category": "رمان و ادبیات جهان",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 945,
+    "title": "Farmer Giles of Ham",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 946,
+    "title": "Of Love and Other Demons",
+    "category": "رمان و ادبیات جهان",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 947,
+    "title": "Norse Mythology",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 948,
+    "title": "The Japanese Lover",
+    "category": "رمان و ادبیات جهان",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 949,
+    "title": "Guards! Guards!",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 950,
+    "title": "The Cave",
+    "category": "رمان و ادبیات جهان",
+    "motif": "heart",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 951,
+    "title": "The Bands of Mourning",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 952,
+    "title": "The White Castle",
+    "category": "رمان و ادبیات جهان",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 953,
+    "title": "The Path of Daggers",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 954,
+    "title": "The Zahir",
+    "category": "رمان و ادبیات جهان",
+    "motif": "garden",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 955,
+    "title": "Golden Fool",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 956,
+    "title": "The Trouble with Peace",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 957,
+    "title": "The Shadowed Sun",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 958,
+    "title": "A Court of Thorns and Roses",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "garden",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 959,
+    "title": "Rising Sun",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 960,
+    "title": "The Robots of Dawn",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "tech",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 961,
+    "title": "Against the Fall of Night",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "autumn",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 962,
+    "title": "The Transmigration of Timothy Archer",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 963,
+    "title": "The Word for World Is Forest",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 964,
+    "title": "Death Is a Lonely Business",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "money",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 965,
+    "title": "Clay’s Ark",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 966,
+    "title": "Citizen of the Galaxy",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 967,
+    "title": "Hellstrom’s Hive",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 968,
+    "title": "Smith of Wootton Major",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 969,
+    "title": "Anansi Boys",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "child",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 970,
+    "title": "Eric",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 971,
+    "title": "The Lost Metal",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "mountain",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 972,
+    "title": "Winter’s Heart",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 973,
+    "title": "Fool’s Fate",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 974,
+    "title": "The Wisdom of Crowds",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "temple",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 975,
+    "title": "The City We Became",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "city",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 976,
+    "title": "A Court of Mist and Fury",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 977,
+    "title": "Airframe",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 978,
+    "title": "Robots and Empire",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "tech",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 979,
+    "title": "The Songs of Distant Earth",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "heart",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 980,
+    "title": "The Penultimate Truth",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 981,
+    "title": "The Lathe of Heaven",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 982,
+    "title": "Green Shadows, White Whale",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sea",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 983,
+    "title": "Patternmaster",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 984,
+    "title": "Space Cadet",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 985,
+    "title": "Destination: Void",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "forest",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 986,
+    "title": "Roverandom",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 987,
+    "title": "The Sandman: Preludes & Nocturnes",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "desert",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 988,
+    "title": "Moving Pictures",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 989,
+    "title": "The Way of Kings",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "sky",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 990,
+    "title": "Crossroads of Twilight",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "train",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 991,
+    "title": "Dragon Keeper",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 992,
+    "title": "Half a King",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 993,
+    "title": "The World We Make",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 994,
+    "title": "A Court of Wings and Ruin",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "bird",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 995,
+    "title": "Timeline",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 996,
+    "title": "The End of Eternity",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 997,
+    "title": "The Deep Range",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "castle",
+    "motif_source": "category",
+    "original_concept_cover": true
+  },
+  {
+    "id": 998,
+    "title": "Time Out of Joint",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "clock",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 999,
+    "title": "The Eye of the Heron",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "portrait",
+    "motif_source": "title",
+    "original_concept_cover": true
+  },
+  {
+    "id": 1000,
+    "title": "Farewell Summer",
+    "category": "فانتزی و علمی‌تخیلی",
+    "motif": "fire",
+    "motif_source": "category",
+    "original_concept_cover": true
+  }
+]

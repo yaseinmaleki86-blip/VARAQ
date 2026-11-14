@@ -1,0 +1,3531 @@
+[
+  {
+    "id": 1,
+    "slug": "book-001",
+    "title": "ملت عشق",
+    "image": "concept-art/book-001.webp",
+    "description": "روایتی درباره پیوند عشق، جست‌وجوی معنوی و دگرگونی فردی که دو خط داستانی در زمان‌های متفاوت را کنار هم می‌گذارد. رابطه شمس و مولانا، نگاه شخصیت‌ها به زندگی را به چالش می‌کشد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "روایت در دو دوره زمانی، جست‌وجوی معنوی و دگرگونی نگاه به عشق را کنار هم می‌نشاند؛ می‌توان رابطه دو خط داستانی را دنبال کرد.",
+    "topics": [
+      "عشق",
+      "معنا",
+      "زمان"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 2,
+    "slug": "book-002",
+    "title": "کیمیاگر",
+    "image": "concept-art/book-002.webp",
+    "description": "داستان چوپانی جوان به نام سانتیاگو که در جست‌وجوی گنج راهی سفر می‌شود. این سفر با نشانه‌ها، انتخاب‌ها و پرسش‌هایی درباره آرزوهای شخصی و معنای موفقیت همراه است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پرسش محوری برای خواندن این اثر، نسبت میان دنبال‌کردن رؤیا و شناخت خود در طول سفر است.",
+    "topics": [
+      "معنا",
+      "موفقیت",
+      "سفر"
+    ],
+    "visual_motif": "desert",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 3,
+    "slug": "book-003",
+    "title": "شازده کوچولو",
+    "image": "concept-art/book-003.webp",
+    "description": "راوی در دل کویر با کودکی مسافر از سیاره‌ای کوچک آشنا می‌شود. قصه‌ای شاعرانه درباره دوستی، مسئولیت، تنهایی و نگاه متفاوت کودکان و بزرگسالان به جهان.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به گفت‌وگوهای ساده اما چندلایه شازده کوچولو درباره دوستی و مسئولیت توجه کنید.",
+    "topics": [
+      "دوستی",
+      "مسئولیت",
+      "کودکی"
+    ],
+    "visual_motif": "city",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 4,
+    "slug": "book-004",
+    "title": "صد سال تنهایی",
+    "image": "concept-art/book-004.webp",
+    "description": "سرگذشت چند نسل از خانواده بوئندیا در شهر خیالی ماکوندو؛ جایی که واقعیت روزمره با رخدادهای شگفت درهم می‌آمیزد. محور روایت، حافظه، تکرار تاریخ و تنهایی آدم‌هاست.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "تکرار نام‌ها، خاطره‌ها و رخدادها در نسل‌های خانواده، کلید فهم جهان ماکوندو است.",
+    "topics": [
+      "خانواده",
+      "تاریخ",
+      "حافظه"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 5,
+    "slug": "book-005",
+    "title": "جزء از کل",
+    "image": "concept-art/book-005.webp",
+    "description": "رمانی پرحادثه و طنزآلود درباره رابطه دشوار پدر و پسری که جهان را به شکل‌های متفاوت می‌بینند. پرسش‌های فلسفی، خانواده و انتخاب‌های غیرمنتظره در مسیر روایت حضور دارند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "طنز تلخ و گفت‌وگوهای پدر و پسر، مجالی برای فکرکردن به آزادی و خانواده فراهم می‌کند.",
+    "topics": [
+      "خانواده",
+      "رابطه‌ها",
+      "جهان"
+    ],
+    "visual_motif": "sea",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 6,
+    "slug": "book-006",
+    "title": "جنایت و مکافات",
+    "image": "concept-art/book-006.webp",
+    "description": "راسکولنیکف، دانشجویی گرفتار فقر و اندیشه‌های تند، پس از ارتکاب جنایت با عذاب وجدان روبه‌رو می‌شود. رمان به مسئولیت اخلاقی، گناه و امکان رستگاری می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مسئله اخلاقی راسکولنیکف و پیامدهای روانی تصمیم او، نخ اصلی مطالعه رمان است.",
+    "topics": [
+      "اخلاق",
+      "فقر",
+      "مسئولیت"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 7,
+    "slug": "book-007",
+    "title": "برادران کارامازوف",
+    "image": "concept-art/book-007.webp",
+    "description": "داستان تنش‌های یک خانواده و رابطه سه برادر با پدری مسئله‌ساز است. ایمان، تردید، آزادی و مسئولیت اخلاقی در کنار یک ماجرای جنایی بررسی می‌شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام خواندن، رابطه میان تجربه فردی و فضای اجتماعی داستان را دنبال کنید.",
+    "topics": [
+      "خانواده",
+      "آزادی",
+      "اخلاق"
+    ],
+    "visual_motif": "mountain",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 8,
+    "slug": "book-008",
+    "title": "ابله",
+    "image": "concept-art/book-008.webp",
+    "description": "شاهزاده میشکین با صراحت و مهربانی خود وارد جامعه‌ای پیچیده می‌شود. برخورد صداقت او با حسادت، جاه‌طلبی و روابط عاطفی، پرسش‌هایی درباره پاکی و قضاوت ایجاد می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "دنبال کنید که زاویه دید روایت چگونه برداشت شما از شخصیت‌ها را تغییر می‌دهد.",
+    "topics": [
+      "جامعه",
+      "روایت",
+      "شخصیت‌ها"
+    ],
+    "visual_motif": "compass",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 9,
+    "slug": "book-009",
+    "title": "قمارباز",
+    "image": "concept-art/book-009.webp",
+    "description": "راوی در فضایی آکنده از هیجان قمار و روابط پرتنش گرفتار می‌شود. این رمان کوتاه به وابستگی، میل به پیروزی و نوسان امید و نومیدی می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به تصمیم‌های شخصیت‌ها و پیامدهای آن‌ها توجه کنید؛ همین انتخاب‌ها مسیر گفت‌وگو درباره اثر را شکل می‌دهند.",
+    "topics": [
+      "امید",
+      "روایت",
+      "شخصیت‌ها"
+    ],
+    "visual_motif": "sea",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 10,
+    "slug": "book-010",
+    "title": "شب‌های روشن",
+    "image": "concept-art/book-010.webp",
+    "description": "مردی تنها در خیابان‌های شبانه سن‌پترزبورگ با دختری جوان آشنا می‌شود. روایت لطیف و کوتاهی درباره رؤیاپردازی، امید و عشق یک‌طرفه.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام خواندن، رابطه میان تجربه فردی و فضای اجتماعی داستان را دنبال کنید.",
+    "topics": [
+      "عشق",
+      "امید"
+    ],
+    "visual_motif": "compass",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 11,
+    "slug": "book-011",
+    "title": "بینوایان",
+    "image": "concept-art/book-011.webp",
+    "description": "زندگی ژان والژان، مردی که می‌کوشد گذشته خود را پشت سر بگذارد، در جامعه‌ای پر از نابرابری روایت می‌شود. عدالت، بخشش، فقر و دگرگونی اجتماعی مضمون‌های اصلی‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مسیر ژان والژان فرصتی برای تأمل در عدالت، بخشش و امکان تغییر انسان است.",
+    "topics": [
+      "فقر",
+      "جامعه",
+      "عدالت"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 12,
+    "slug": "book-012",
+    "title": "گوژپشت نتردام",
+    "image": "concept-art/book-012.webp",
+    "description": "سرگذشت کازیمودو و اسمرالدا در پیرامون کلیسای نتردام پاریس شکل می‌گیرد. رمان درباره پیش‌داوری، قدرت، دلبستگی و سرنوشت انسان‌هاست.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به تصمیم‌های شخصیت‌ها و پیامدهای آن‌ها توجه کنید؛ همین انتخاب‌ها مسیر گفت‌وگو درباره اثر را شکل می‌دهند.",
+    "topics": [
+      "قدرت",
+      "انسان"
+    ],
+    "visual_motif": "mountain",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 13,
+    "slug": "book-013",
+    "title": "سه تفنگدار",
+    "image": "concept-art/book-013.webp",
+    "description": "دارتانیان جوان برای پیوستن به تفنگداران راهی پاریس می‌شود و با سه همراه ماجراجو آشنا می‌گردد. دوستی، وفاداری و دسیسه‌های سیاسی ماجرا را پیش می‌برند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام خواندن، رابطه میان تجربه فردی و فضای اجتماعی داستان را دنبال کنید.",
+    "topics": [
+      "دوستی",
+      "روایت",
+      "شخصیت‌ها"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 14,
+    "slug": "book-014",
+    "title": "کنت مونت کریستو",
+    "image": "concept-art/book-014.webp",
+    "description": "مرد جوانی قربانی توطئه می‌شود و سال‌ها بعد با هویتی تازه بازمی‌گردد. داستانی پرکشش درباره انتقام، عدالت، بخشش و پیامدهای تصمیم‌ها.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "دنبال کنید که زاویه دید روایت چگونه برداشت شما از شخصیت‌ها را تغییر می‌دهد.",
+    "topics": [
+      "هویت",
+      "عدالت",
+      "تصمیم‌گیری"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 15,
+    "slug": "book-015",
+    "title": "غرور و تعصب",
+    "image": "concept-art/book-015.webp",
+    "description": "الیزابت بنت و آقای دارسی در فضای روابط خانوادگی و مناسبات طبقاتی انگلیس با یکدیگر روبه‌رو می‌شوند. سوءبرداشت‌ها، غرور و انتخاب عاطفی در مرکز داستان‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به تصمیم‌های شخصیت‌ها و پیامدهای آن‌ها توجه کنید؛ همین انتخاب‌ها مسیر گفت‌وگو درباره اثر را شکل می‌دهند.",
+    "topics": [
+      "روایت",
+      "شخصیت‌ها"
+    ],
+    "visual_motif": "city",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 16,
+    "slug": "book-016",
+    "title": "بلندی‌های بادگیر",
+    "image": "concept-art/book-016.webp",
+    "description": "روابط پرشور و ویرانگر در دو خانواده ساکن دشت‌های یورکشایر دنبال می‌شود. عشق، کینه، انتقام و تأثیر گذشته بر نسل‌های بعدی درهم می‌آمیزند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام خواندن، رابطه میان تجربه فردی و فضای اجتماعی داستان را دنبال کنید.",
+    "topics": [
+      "عشق",
+      "خانواده"
+    ],
+    "visual_motif": "sea",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 17,
+    "slug": "book-017",
+    "title": "جین ایر",
+    "image": "concept-art/book-017.webp",
+    "description": "دختری یتیم با اراده‌ای مستقل می‌کوشد جای خود را در جهان پیدا کند. روایت رشد فردی او با عشق، رازهای خانوادگی و مسئله کرامت انسانی گره می‌خورد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "دنبال کنید که زاویه دید روایت چگونه برداشت شما از شخصیت‌ها را تغییر می‌دهد.",
+    "topics": [
+      "عشق",
+      "جهان",
+      "انسان"
+    ],
+    "visual_motif": "candle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 18,
+    "slug": "book-018",
+    "title": "آنا کارنینا",
+    "image": "concept-art/book-018.webp",
+    "description": "زندگی آنا و چند شخصیت دیگر در جامعه روسیه قرن نوزدهم پیگیری می‌شود. رمان به عشق، خانواده، قضاوت اجتماعی و جست‌وجوی معنای زندگی می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به تصمیم‌های شخصیت‌ها و پیامدهای آن‌ها توجه کنید؛ همین انتخاب‌ها مسیر گفت‌وگو درباره اثر را شکل می‌دهند.",
+    "topics": [
+      "عشق",
+      "خانواده",
+      "معنا"
+    ],
+    "visual_motif": "sea",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 19,
+    "slug": "book-019",
+    "title": "جنگ و صلح",
+    "image": "concept-art/book-019.webp",
+    "description": "روایتی گسترده از خانواده‌ها و شخصیت‌های روس در دوران جنگ‌های ناپلئونی. زندگی خصوصی، سیاست، تاریخ و پرسش درباره نقش فرد در رویدادهای بزرگ در کنار هم قرار می‌گیرند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام خواندن، رابطه میان تجربه فردی و فضای اجتماعی داستان را دنبال کنید.",
+    "topics": [
+      "خانواده",
+      "تاریخ",
+      "جنگ"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 20,
+    "slug": "book-020",
+    "title": "مادام بوواری",
+    "image": "concept-art/book-020.webp",
+    "description": "اما بوواری میان رؤیاهای عاشقانه و واقعیت زندگی روزمره فاصله‌ای عمیق احساس می‌کند. رمان به میل، مصرف‌گرایی، سرخوردگی و محدودیت‌های اجتماعی می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "دنبال کنید که زاویه دید روایت چگونه برداشت شما از شخصیت‌ها را تغییر می‌دهد.",
+    "topics": [
+      "زندگی",
+      "روایت",
+      "شخصیت‌ها"
+    ],
+    "visual_motif": "compass",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 21,
+    "slug": "book-021",
+    "title": "بادبادک‌باز",
+    "image": "concept-art/book-021.webp",
+    "description": "دوستی و شکاف طبقاتی میان دو پسر در افغانستان، سرنوشت آن‌ها را برای سال‌ها شکل می‌دهد. داستان درباره گناه، وفاداری، مهاجرت و تلاش برای جبران است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "رابطه دو دوست و زمینه اجتماعی آن، مرکز عاطفی داستان را می‌سازد.",
+    "topics": [
+      "دوستی",
+      "زندگی معاصر",
+      "رابطه‌ها"
+    ],
+    "visual_motif": "kite",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 22,
+    "slug": "book-022",
+    "title": "هزار خورشید تابان",
+    "image": "concept-art/book-022.webp",
+    "description": "زندگی دو زن افغان در دوره‌ای پرتلاطم با یکدیگر پیوند می‌خورد. روایت به رنج جنگ، تاب‌آوری، پیوندهای انسانی و امید به آینده می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به روابط آدم‌ها و فاصله میان خواسته‌های شخصی و انتظارهای بیرونی دقت کنید.",
+    "topics": [
+      "جنگ",
+      "امید",
+      "زندگی"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 23,
+    "slug": "book-023",
+    "title": "و کوهستان طنین انداخت",
+    "image": "concept-art/book-023.webp",
+    "description": "روایتی چندصدایی از خانواده، جدایی و پیوندهای انسانی که در زمان‌ها و مکان‌های گوناگون جریان دارد. پیامد تصمیم‌های گذشته در زندگی شخصیت‌ها بازتاب می‌یابد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان از زاویه زندگی روزمره و تصمیم‌های سخت شخصیت‌ها به سراغ داستان رفت.",
+    "topics": [
+      "خانواده",
+      "زمان",
+      "تصمیم‌گیری"
+    ],
+    "visual_motif": "mountain",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 24,
+    "slug": "book-024",
+    "title": "کتابخانه نیمه‌شب",
+    "image": "concept-art/book-024.webp",
+    "description": "زنی در نقطه‌ای بحرانی با امکان دیدن زندگی‌های متفاوتی که می‌توانست داشته باشد روبه‌رو می‌شود. رمان درباره حسرت، انتخاب، افسردگی و ارزش زیستن است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای گفت‌وگوی پس از مطالعه، تغییر شخصیت‌ها در طول روایت را یادداشت کنید.",
+    "topics": [
+      "زندگی",
+      "زندگی معاصر",
+      "رابطه‌ها"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 25,
+    "slug": "book-025",
+    "title": "مردی به نام اوه",
+    "image": "concept-art/book-025.webp",
+    "description": "مردی سخت‌گیر و تنها با ورود همسایه‌هایی تازه از انزوای خود فاصله می‌گیرد. داستان با طنز و احساس، درباره سوگ، دوستی و مهربانی پنهان است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به روابط آدم‌ها و فاصله میان خواسته‌های شخصی و انتظارهای بیرونی دقت کنید.",
+    "topics": [
+      "دوستی",
+      "زندگی معاصر",
+      "رابطه‌ها"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 26,
+    "slug": "book-026",
+    "title": "بریت‌ماری اینجا بود",
+    "image": "concept-art/book-026.webp",
+    "description": "زنی عادت‌دوست پس از تغییری بزرگ در زندگی، وارد محیطی ناآشنا می‌شود. رابطه با آدم‌های تازه و مسئولیت‌های غیرمنتظره، مسیر استقلال او را دگرگون می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان از زاویه زندگی روزمره و تصمیم‌های سخت شخصیت‌ها به سراغ داستان رفت.",
+    "topics": [
+      "دوستی",
+      "مسئولیت",
+      "تغییر"
+    ],
+    "visual_motif": "train",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 27,
+    "slug": "book-027",
+    "title": "مادربزرگ سلام رساند و گفت متأسف است",
+    "image": "concept-art/book-027.webp",
+    "description": "دختربچه‌ای پس از فقدان مادربزرگ محبوبش، با نامه‌ها و قصه‌های او به کشف دنیای اطراف می‌پردازد. داستان درباره سوگ، تفاوت آدم‌ها و قدرت تخیل است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای گفت‌وگوی پس از مطالعه، تغییر شخصیت‌ها در طول روایت را یادداشت کنید.",
+    "topics": [
+      "قدرت",
+      "زندگی معاصر",
+      "رابطه‌ها"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 28,
+    "slug": "book-028",
+    "title": "زندگی در پیش رو",
+    "image": "concept-art/book-028.webp",
+    "description": "پیوند یک پسر نوجوان با زنی سالخورده در حاشیه جامعه پاریس، بستری برای روایتی انسانی و تلخ‌وشیرین می‌شود. کتاب به محبت، فقر و کرامت انسان می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به روابط آدم‌ها و فاصله میان خواسته‌های شخصی و انتظارهای بیرونی دقت کنید.",
+    "topics": [
+      "فقر",
+      "جامعه",
+      "انسان"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 29,
+    "slug": "book-029",
+    "title": "من پیش از تو",
+    "image": "concept-art/book-029.webp",
+    "description": "لوئیزا کلارک در نقش مراقب با مردی روبه‌رو می‌شود که زندگی‌اش پس از حادثه‌ای بزرگ تغییر کرده است. انتخاب‌های دشوار، عشق و استقلال فردی در محور قصه‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان از زاویه زندگی روزمره و تصمیم‌های سخت شخصیت‌ها به سراغ داستان رفت.",
+    "topics": [
+      "عشق",
+      "تغییر",
+      "زندگی"
+    ],
+    "visual_motif": "home",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 30,
+    "slug": "book-030",
+    "title": "پس از تو",
+    "image": "concept-art/book-030.webp",
+    "description": "ادامه مسیر زندگی لوئیزا پس از رویدادهای اثر پیشین است. شخصیت اصلی می‌کوشد با فقدان کنار بیاید، زندگی تازه‌ای بسازد و برای آینده تصمیم بگیرد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای گفت‌وگوی پس از مطالعه، تغییر شخصیت‌ها در طول روایت را یادداشت کنید.",
+    "topics": [
+      "تصمیم‌گیری",
+      "زندگی"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 31,
+    "slug": "book-031",
+    "title": "باز هم من",
+    "image": "concept-art/book-031.webp",
+    "description": "لوئیزا برای تجربه‌ای تازه به محیطی متفاوت قدم می‌گذارد. رمان درباره هویت، روابط عاطفی و یافتن تعادل میان توقع دیگران و خواسته‌های شخصی است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به روابط آدم‌ها و فاصله میان خواسته‌های شخصی و انتظارهای بیرونی دقت کنید.",
+    "topics": [
+      "هویت",
+      "زندگی معاصر",
+      "رابطه‌ها"
+    ],
+    "visual_motif": "home",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 32,
+    "slug": "book-032",
+    "title": "دختری که رهایش کردی",
+    "image": "concept-art/book-032.webp",
+    "description": "دو روایت در زمان‌های جداگانه پیرامون یک اثر هنری و سرنوشت صاحبانش به هم می‌رسند. عشق، خاطره و پرسش مالکیت و میراث فرهنگی در داستان مطرح می‌شود.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان از زاویه زندگی روزمره و تصمیم‌های سخت شخصیت‌ها به سراغ داستان رفت.",
+    "topics": [
+      "عشق",
+      "زمان"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 33,
+    "slug": "book-033",
+    "title": "چراغ‌ها را من خاموش می‌کنم",
+    "image": "concept-art/book-033.webp",
+    "description": "روزمرگی زنی ارمنی در آبادان دهه چهل، با احساساتی ناگفته و تغییرات ظریف همراه می‌شود. رمان آرام و شخصیت‌محوری درباره خانواده، هویت و خواسته‌های پنهان است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای گفت‌وگوی پس از مطالعه، تغییر شخصیت‌ها در طول روایت را یادداشت کنید.",
+    "topics": [
+      "خانواده",
+      "هویت",
+      "تغییر"
+    ],
+    "visual_motif": "home",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 34,
+    "slug": "book-034",
+    "title": "پاییز فصل آخر سال است",
+    "image": "concept-art/book-034.webp",
+    "description": "روایت زندگی چند زن جوان در آستانه انتخاب‌های تعیین‌کننده است. دوستی، کار، مهاجرت و رابطه‌های عاطفی در فضای شهری معاصر پیگیری می‌شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به روابط آدم‌ها و فاصله میان خواسته‌های شخصی و انتظارهای بیرونی دقت کنید.",
+    "topics": [
+      "دوستی",
+      "رابطه‌ها",
+      "زندگی"
+    ],
+    "visual_motif": "train",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 35,
+    "slug": "book-035",
+    "title": "قهوه سرد آقای نویسنده",
+    "image": "concept-art/book-035.webp",
+    "description": "داستانی معمایی و عاشقانه که روایت شخصیت‌ها با نشانه‌ها و سرنخ‌های متوالی پیش می‌رود. کشف حقیقت و پیوند گذشته با حال از عناصر اصلی آن است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان از زاویه زندگی روزمره و تصمیم‌های سخت شخصیت‌ها به سراغ داستان رفت.",
+    "topics": [
+      "زندگی معاصر",
+      "رابطه‌ها"
+    ],
+    "visual_motif": "city",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 36,
+    "slug": "book-036",
+    "title": "چشم‌هایش",
+    "image": "concept-art/book-036.webp",
+    "description": "راوی با دیدن تابلوی زنی مرموز، به جست‌وجوی راز زندگی یک هنرمند می‌رود. عشق و سیاست در فضای ایران معاصرِ دوران گذشته به هم گره می‌خورند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای گفت‌وگوی پس از مطالعه، تغییر شخصیت‌ها در طول روایت را یادداشت کنید.",
+    "topics": [
+      "عشق",
+      "زندگی"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 37,
+    "slug": "book-037",
+    "title": "سووشون",
+    "image": "concept-art/book-037.webp",
+    "description": "داستان زندگی زری و یوسف در شیرازِ دوران جنگ جهانی دوم روایت می‌شود. فشارهای اجتماعی و سیاسی با دغدغه‌های خانوادگی و مسئله ایستادگی درهم می‌آمیزند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به روابط آدم‌ها و فاصله میان خواسته‌های شخصی و انتظارهای بیرونی دقت کنید.",
+    "topics": [
+      "جنگ",
+      "جهان",
+      "زندگی"
+    ],
+    "visual_motif": "train",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 38,
+    "slug": "book-038",
+    "title": "بامداد خمار",
+    "image": "concept-art/book-038.webp",
+    "description": "دختری از خانواده‌ای مرفه برخلاف انتظار اطرافیان دل به عشقی نامتعارف می‌بندد. روایت به تفاوت طبقاتی، انتخاب و پیامدهای آن می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان از زاویه زندگی روزمره و تصمیم‌های سخت شخصیت‌ها به سراغ داستان رفت.",
+    "topics": [
+      "عشق",
+      "خانواده"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 39,
+    "slug": "book-039",
+    "title": "دالان بهشت",
+    "image": "concept-art/book-039.webp",
+    "description": "رمانی عاشقانه درباره شکل‌گیری و تغییر یک رابطه و تأثیر برداشت‌های نادرست بر زندگی مشترک. داستان بر پختگی عاطفی و مسئولیت در ارتباط تأکید دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای گفت‌وگوی پس از مطالعه، تغییر شخصیت‌ها در طول روایت را یادداشت کنید.",
+    "topics": [
+      "مسئولیت",
+      "تغییر",
+      "رابطه‌ها"
+    ],
+    "visual_motif": "train",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 40,
+    "slug": "book-040",
+    "title": "سمفونی مردگان",
+    "image": "concept-art/book-040.webp",
+    "description": "سرنوشت یک خانواده در اردبیل با کشمکش میان سنت، آرزو و خشونت شکل می‌گیرد. روایت چندلایه کتاب به برادرکشی، سرکوب و تنهایی می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به روابط آدم‌ها و فاصله میان خواسته‌های شخصی و انتظارهای بیرونی دقت کنید.",
+    "topics": [
+      "خانواده",
+      "آرزو"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 41,
+    "slug": "book-041",
+    "title": "اثر مرکب",
+    "image": "concept-art/book-041.webp",
+    "description": "کتاب نشان می‌دهد انتخاب‌ها و رفتارهای کوچک، در گذر زمان می‌توانند به نتایجی بزرگ منتهی شوند. موضوع‌های اصلی آن عادت، استمرار و مدیریت تصمیم‌های روزانه است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام خواندن، تفاوت میان رفتارهای کوچک قابل‌تکرار و نتیجه‌های بلندمدت را بسنجید.",
+    "topics": [
+      "زمان",
+      "تصمیم‌گیری",
+      "عادت"
+    ],
+    "visual_motif": "sunrise",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 42,
+    "slug": "book-042",
+    "title": "عادت‌های اتمی",
+    "image": "concept-art/book-042.webp",
+    "description": "راهنمایی برای ساختن عادت‌های مفید و کم‌کردن عادت‌های نامطلوب با تغییرات کوچک در محیط و رفتار. کتاب بر سیستم‌های تکرارپذیر بیش از انگیزه لحظه‌ای تأکید دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "نکات کاربردی را با شرایط واقعی خودتان بسنجید؛ همه پیشنهادها برای همه افراد یکسان جواب نمی‌دهند.",
+    "topics": [
+      "تغییر",
+      "عادت"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 43,
+    "slug": "book-043",
+    "title": "قدرت عادت",
+    "image": "concept-art/book-043.webp",
+    "description": "با نمونه‌های فردی و سازمانی، سازوکار شکل‌گیری و تغییر عادت‌ها بررسی می‌شود. مفهوم چرخه نشانه، رفتار و پاداش یکی از محورهای اصلی کتاب است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم مطرح‌شده را از ادعاهای کلی جدا کنید و برای کاربردشان شاهد مستقل بجویید.",
+    "topics": [
+      "زمان",
+      "تغییر",
+      "عادت"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 44,
+    "slug": "book-044",
+    "title": "باشگاه پنج صبحی‌ها",
+    "image": "concept-art/book-044.webp",
+    "description": "روایتی آموزشی درباره تنظیم برنامه صبحگاهی و استفاده هدفمند از ساعات آغاز روز. مدیریت زمان، تمرکز و رشد فردی در قالب داستان مطرح می‌شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام مطالعه، تمرین‌ها و پیشنهادها را با هدف‌های شخصی و محدودیت‌های خود تطبیق دهید.",
+    "topics": [
+      "زمان",
+      "رفتار",
+      "رشد فردی"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 45,
+    "slug": "book-045",
+    "title": "قورباغه‌ات را قورت بده",
+    "image": "concept-art/book-045.webp",
+    "description": "مجموعه‌ای از پیشنهادهای مدیریت زمان و اولویت‌بندی برای انجام کارهای مهم است. ایده اصلی کتاب، آغاز روز با وظایف دشوار و ارزشمند است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "نکات کاربردی را با شرایط واقعی خودتان بسنجید؛ همه پیشنهادها برای همه افراد یکسان جواب نمی‌دهند.",
+    "topics": [
+      "زمان",
+      "رفتار",
+      "رشد فردی"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 46,
+    "slug": "book-046",
+    "title": "چهار اثر فلورانس اسکاول شین",
+    "image": "concept-art/book-046.webp",
+    "description": "مجموعه‌ای از نوشته‌ها درباره نگرش مثبت، باورهای فردی و نقش زبان در تجربه زندگی. مطالب آن بیشتر رویکرد معنوی و انگیزشی دارند تا پژوهش تجربی.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم مطرح‌شده را از ادعاهای کلی جدا کنید و برای کاربردشان شاهد مستقل بجویید.",
+    "topics": [
+      "معنا",
+      "زندگی"
+    ],
+    "visual_motif": "sunrise",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 47,
+    "slug": "book-047",
+    "title": "قدرت حال",
+    "image": "concept-art/book-047.webp",
+    "description": "کتابی درباره توجه به لحظه اکنون و فاصله‌گرفتن از افکار تکرارشونده است. نویسنده از زاویه‌ای معنوی به ذهن، رنج و حضور آگاهانه می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام مطالعه، تمرین‌ها و پیشنهادها را با هدف‌های شخصی و محدودیت‌های خود تطبیق دهید.",
+    "topics": [
+      "معنا",
+      "ذهن"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 48,
+    "slug": "book-048",
+    "title": "انسان در جستجوی معنا",
+    "image": "concept-art/book-048.webp",
+    "description": "ویکتور فرانکل تجربه زیستن در اردوگاه‌های کار اجباری را با نگاه روان‌درمانی معناگرا پیوند می‌دهد. کتاب درباره امید، مسئولیت و جست‌وجوی معنا در سختی است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "نکات کاربردی را با شرایط واقعی خودتان بسنجید؛ همه پیشنهادها برای همه افراد یکسان جواب نمی‌دهند.",
+    "topics": [
+      "معنا",
+      "مسئولیت",
+      "روان‌شناسی"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 49,
+    "slug": "book-049",
+    "title": "هنر ظریف بی‌خیالی",
+    "image": "concept-art/book-049.webp",
+    "description": "نویسنده نگاه رایج به مثبت‌اندیشی را نقد می‌کند و بر انتخاب ارزش‌ها و پذیرش محدودیت‌ها تأکید دارد. کتاب با لحنی صریح به اولویت‌بندی دغدغه‌ها می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم مطرح‌شده را از ادعاهای کلی جدا کنید و برای کاربردشان شاهد مستقل بجویید.",
+    "topics": [
+      "رفتار",
+      "رشد فردی"
+    ],
+    "visual_motif": "brain",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 50,
+    "slug": "book-050",
+    "title": "نمی‌توانی به من آسیب بزنی",
+    "image": "concept-art/book-050.webp",
+    "description": "روایت زندگی و تجربه‌های دشوار دیوید گاگینز با تأکید بر انضباط، تاب‌آوری و فشار ذهنی است. مثال‌ها شخصی و انگیزشی‌اند و جایگزین توصیه پزشکی نیستند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام مطالعه، تمرین‌ها و پیشنهادها را با هدف‌های شخصی و محدودیت‌های خود تطبیق دهید.",
+    "topics": [
+      "ذهن",
+      "زندگی"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 51,
+    "slug": "book-051",
+    "title": "خرده‌عادت‌ها",
+    "image": "concept-art/book-051.webp",
+    "description": "کتابی درباره آغاز تغییر با رفتارهای بسیار کوچک و انجام‌دادنی. نویسنده توضیح می‌دهد چگونه کاهش مقاومت اولیه می‌تواند به استمرار و انگیزه کمک کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "نکات کاربردی را با شرایط واقعی خودتان بسنجید؛ همه پیشنهادها برای همه افراد یکسان جواب نمی‌دهند.",
+    "topics": [
+      "تغییر",
+      "رفتار",
+      "رشد فردی"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 52,
+    "slug": "book-052",
+    "title": "هفت عادت مردمان مؤثر",
+    "image": "concept-art/book-052.webp",
+    "description": "چارچوبی برای رشد فردی و همکاری مؤثر بر اساس مسئولیت‌پذیری، هدف‌گذاری و اولویت‌بندی. کتاب از خودمدیریتی به ارتباط و هم‌افزایی می‌رسد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم مطرح‌شده را از ادعاهای کلی جدا کنید و برای کاربردشان شاهد مستقل بجویید.",
+    "topics": [
+      "مسئولیت",
+      "رفتار",
+      "رشد فردی"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 53,
+    "slug": "book-053",
+    "title": "چه کسی پنیر مرا جابه‌جا کرد؟",
+    "image": "concept-art/book-053.webp",
+    "description": "تمثیلی کوتاه درباره واکنش آدم‌ها به تغییر شرایط زندگی و کار. داستان با شخصیت‌های ساده، ترس از تغییر و اهمیت انعطاف را بررسی می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام مطالعه، تمرین‌ها و پیشنهادها را با هدف‌های شخصی و محدودیت‌های خود تطبیق دهید.",
+    "topics": [
+      "تغییر",
+      "زندگی"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 54,
+    "slug": "book-054",
+    "title": "قدرت فکر مثبت",
+    "image": "concept-art/book-054.webp",
+    "description": "نوشته‌ای انگیزشی درباره نگرش امیدوارانه و اعتماد به توانایی‌های فردی. نکته‌ها رنگی معنوی دارند و نباید معادل شواهد علمی درباره سلامت تلقی شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "نکات کاربردی را با شرایط واقعی خودتان بسنجید؛ همه پیشنهادها برای همه افراد یکسان جواب نمی‌دهند.",
+    "topics": [
+      "معنا",
+      "علم",
+      "امید"
+    ],
+    "visual_motif": "brain",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 55,
+    "slug": "book-055",
+    "title": "جادوی فکر بزرگ",
+    "image": "concept-art/book-055.webp",
+    "description": "کتاب با مثال‌ها و تمرین‌ها بر تأثیر هدف‌گذاری بلندپروازانه و اعتمادبه‌نفس تأکید می‌کند. موضوع آن تغییر نگرش نسبت به موفقیت و عمل‌کردن است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم مطرح‌شده را از ادعاهای کلی جدا کنید و برای کاربردشان شاهد مستقل بجویید.",
+    "topics": [
+      "موفقیت",
+      "تغییر"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 56,
+    "slug": "book-056",
+    "title": "چهار میثاق",
+    "image": "concept-art/book-056.webp",
+    "description": "چهار اصل پیشنهادی برای بازنگری در باورها، گفتگو و رابطه با خود و دیگران معرفی می‌شود. متن رویکردی فلسفی و معنوی به زندگی روزمره دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام مطالعه، تمرین‌ها و پیشنهادها را با هدف‌های شخصی و محدودیت‌های خود تطبیق دهید.",
+    "topics": [
+      "معنا",
+      "رابطه‌ها",
+      "زندگی"
+    ],
+    "visual_motif": "sunrise",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 57,
+    "slug": "book-057",
+    "title": "تئوری انتخاب",
+    "image": "concept-art/book-057.webp",
+    "description": "ویلیام گلسر رفتار انسان را در پیوند با نیازها، روابط و انتخاب‌های فردی بررسی می‌کند. کتاب به مسئولیت شخصی و شیوه مدیریت ارتباط‌ها می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "نکات کاربردی را با شرایط واقعی خودتان بسنجید؛ همه پیشنهادها برای همه افراد یکسان جواب نمی‌دهند.",
+    "topics": [
+      "مسئولیت",
+      "انسان"
+    ],
+    "visual_motif": "sunrise",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 58,
+    "slug": "book-058",
+    "title": "زندگی خود را دوباره بیافرینید",
+    "image": "concept-art/book-058.webp",
+    "description": "کتاب با معرفی الگوهای ذهنی تکرارشونده، به شناخت دام‌های زندگی و تغییر واکنش‌ها می‌پردازد. لحن آن خودیاری مبتنی بر مفاهیم روان‌شناختی است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم مطرح‌شده را از ادعاهای کلی جدا کنید و برای کاربردشان شاهد مستقل بجویید.",
+    "topics": [
+      "تغییر",
+      "ذهن",
+      "روان‌شناسی"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 59,
+    "slug": "book-059",
+    "title": "جرئت داشته باش",
+    "image": "concept-art/book-059.webp",
+    "description": "راهنمایی برای افزایش جسارت در تصمیم‌گیری و ارتباط‌های روزمره است. کتاب به مواجهه با ترس، مرزبندی و ابراز نیازها می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "هنگام مطالعه، تمرین‌ها و پیشنهادها را با هدف‌های شخصی و محدودیت‌های خود تطبیق دهید.",
+    "topics": [
+      "تصمیم‌گیری",
+      "رفتار",
+      "رشد فردی"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 60,
+    "slug": "book-060",
+    "title": "شفای زندگی",
+    "image": "concept-art/book-060.webp",
+    "description": "کتابی خودیاری درباره نگرش به خود، پذیرش و گفت‌وگوی درونی است. برخی ادعاهای آن درباره بیماری‌ها پشتوانه پزشکی معتبر ندارند و نباید جایگزین درمان شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "نکات کاربردی را با شرایط واقعی خودتان بسنجید؛ همه پیشنهادها برای همه افراد یکسان جواب نمی‌دهند.",
+    "topics": [
+      "رفتار",
+      "رشد فردی"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 61,
+    "slug": "book-061",
+    "title": "پدر پولدار پدر بی‌پول",
+    "image": "concept-art/book-061.webp",
+    "description": "نویسنده از دو الگوی متفاوت نگرش به پول برای توضیح مفاهیم دارایی، بدهی و آموزش مالی استفاده می‌کند. دیدگاه‌های کتاب نیازمند بررسی مستقل‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "نکته‌های مالی مطرح‌شده را از مثال‌های روایی جدا کنید و با منابع مستقل راستی‌آزمایی کنید.",
+    "topics": [
+      "پول",
+      "تصمیم‌گیری",
+      "اقتصاد"
+    ],
+    "visual_motif": "chart",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 62,
+    "slug": "book-062",
+    "title": "روان‌شناسی پول",
+    "image": "concept-art/book-062.webp",
+    "description": "مجموعه‌ای از روایت‌ها درباره رفتار انسان در تصمیم‌گیری مالی، ریسک و پس‌انداز است. کتاب نقش تجربه شخصی و احساسات را در انتخاب‌های اقتصادی نشان می‌دهد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای کاربرد نکات مالی، آمار و فرضیات کتاب را مستقل بررسی کنید.",
+    "topics": [
+      "تصمیم‌گیری",
+      "انسان"
+    ],
+    "visual_motif": "brain",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 63,
+    "slug": "book-063",
+    "title": "ثروتمندترین مرد بابل",
+    "image": "concept-art/book-063.webp",
+    "description": "چند داستان تمثیلی در بابل باستان برای آموزش پس‌انداز، بودجه‌بندی و مدیریت پول به کار رفته‌اند. کتاب بر عادت‌های مالی ساده تأکید دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مثال‌های کتاب را با شرایط بازار و زمان انتشار آن مقایسه کنید؛ هیچ روش مدیریتی تضمین موفقیت نیست.",
+    "topics": [
+      "عادت",
+      "پول"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 64,
+    "slug": "book-064",
+    "title": "بیندیشید و ثروتمند شوید",
+    "image": "concept-art/book-064.webp",
+    "description": "کتابی کلاسیک در حوزه انگیزش موفقیت و هدف‌گذاری است. ایده‌های آن درباره باور، پشتکار و برنامه‌ریزی بیش از آنکه نسخه علمی قطعی باشند، راهبردهای خودیاری‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید میان اصول نظری و شرایط واقعی کسب‌وکار خودتان تمایز بگذارید.",
+    "topics": [
+      "موفقیت",
+      "علم"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 65,
+    "slug": "book-065",
+    "title": "اسرار ذهن میلیونر",
+    "image": "concept-art/book-065.webp",
+    "description": "نویسنده الگوهای ذهنی و باورهای مرتبط با پول را مطرح می‌کند و تمرین‌هایی برای تغییر آن‌ها پیشنهاد می‌دهد. ادعاها را باید از توصیه‌های مالی مستند جدا دانست.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای کاربرد نکات مالی، آمار و فرضیات کتاب را مستقل بررسی کنید.",
+    "topics": [
+      "تغییر",
+      "ذهن",
+      "پول"
+    ],
+    "visual_motif": "brain",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 66,
+    "slug": "book-066",
+    "title": "از خوب به عالی",
+    "image": "concept-art/book-066.webp",
+    "description": "با مطالعه شرکت‌ها، ویژگی‌های مدیریتی و سازمانی حرکت از عملکرد خوب به بهتر بررسی می‌شود. یافته‌ها تاریخی‌اند و لزوماً برای همه کسب‌وکارها تکرارپذیر نیستند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مثال‌های کتاب را با شرایط بازار و زمان انتشار آن مقایسه کنید؛ هیچ روش مدیریتی تضمین موفقیت نیست.",
+    "topics": [
+      "تاریخ",
+      "زمان",
+      "کسب‌وکار"
+    ],
+    "visual_motif": "city",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 67,
+    "slug": "book-067",
+    "title": "صفر به یک",
+    "image": "concept-art/book-067.webp",
+    "description": "کتابی درباره ساخت کسب‌وکارهای نوآورانه و یافتن بازارهای متمایز است. نگاه نویسنده به رقابت، فناوری و ایده‌های بزرگ محور بحث‌هاست.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید میان اصول نظری و شرایط واقعی کسب‌وکار خودتان تمایز بگذارید.",
+    "topics": [
+      "بازار",
+      "فناوری",
+      "کسب‌وکار"
+    ],
+    "visual_motif": "chart",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 68,
+    "slug": "book-068",
+    "title": "استارتاپ ناب",
+    "image": "concept-art/book-068.webp",
+    "description": "روش توسعه کسب‌وکار با آزمایش فرضیه‌ها، ساخت محصول اولیه و یادگیری از بازخورد مشتری توضیح داده می‌شود. کتاب بر کاهش اتلاف منابع تأکید دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای کاربرد نکات مالی، آمار و فرضیات کتاب را مستقل بررسی کنید.",
+    "topics": [
+      "یادگیری",
+      "کسب‌وکار"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 69,
+    "slug": "book-069",
+    "title": "بازاریابی چریکی",
+    "image": "concept-art/book-069.webp",
+    "description": "مجموعه‌ای از تاکتیک‌های بازاریابی خلاق و کم‌هزینه برای کسب‌وکارها معرفی می‌شود. تمرکز بر شناخت مشتری و استفاده متفاوت از منابع محدود است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مثال‌های کتاب را با شرایط بازار و زمان انتشار آن مقایسه کنید؛ هیچ روش مدیریتی تضمین موفقیت نیست.",
+    "topics": [
+      "بازار",
+      "کسب‌وکار"
+    ],
+    "visual_motif": "chart",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 70,
+    "slug": "book-070",
+    "title": "گاو بنفش",
+    "image": "concept-art/book-070.webp",
+    "description": "ست گادین استدلال می‌کند محصول یا پیام باید به اندازه‌ای متمایز باشد که دیده شود. کتاب به نوآوری و ارزش متفاوت در بازاریابی می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید میان اصول نظری و شرایط واقعی کسب‌وکار خودتان تمایز بگذارید.",
+    "topics": [
+      "بازار",
+      "دین"
+    ],
+    "visual_motif": "chess",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 71,
+    "slug": "book-071",
+    "title": "بازاریابی اجازه‌ای",
+    "image": "concept-art/book-071.webp",
+    "description": "ایده جلب رضایت مخاطب به‌جای مزاحمت تبلیغاتی محور کتاب است. ایجاد ارتباط پایدار و ارائه محتوای مورد انتظار مشتری بررسی می‌شود.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای کاربرد نکات مالی، آمار و فرضیات کتاب را مستقل بررسی کنید.",
+    "topics": [
+      "تصمیم‌گیری",
+      "اقتصاد"
+    ],
+    "visual_motif": "chart",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 72,
+    "slug": "book-072",
+    "title": "این است بازاریابی",
+    "image": "concept-art/book-072.webp",
+    "description": "کتاب درباره شناخت مخاطب مشخص، ایجاد ارزش و ساخت اعتماد است. نویسنده بازاریابی را فراتر از تبلیغات گسترده و فروش لحظه‌ای می‌بیند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مثال‌های کتاب را با شرایط بازار و زمان انتشار آن مقایسه کنید؛ هیچ روش مدیریتی تضمین موفقیت نیست.",
+    "topics": [
+      "بازار",
+      "تصمیم‌گیری",
+      "اقتصاد"
+    ],
+    "visual_motif": "chart",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 73,
+    "slug": "book-073",
+    "title": "استراتژی اقیانوس آبی",
+    "image": "concept-art/book-073.webp",
+    "description": "چارچوبی برای یافتن فضای رقابتی جدید و ارائه ارزش متفاوت به مشتری معرفی می‌شود. کتاب با نمونه‌های کسب‌وکار مفهوم نوآوری در ارزش را توضیح می‌دهد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید میان اصول نظری و شرایط واقعی کسب‌وکار خودتان تمایز بگذارید.",
+    "topics": [
+      "کسب‌وکار",
+      "تصمیم‌گیری",
+      "اقتصاد"
+    ],
+    "visual_motif": "sea",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 74,
+    "slug": "book-074",
+    "title": "با چرا شروع کنید",
+    "image": "concept-art/book-074.webp",
+    "description": "نویسنده بر روشن‌کردن چرایی و هدف پشت تصمیم‌های سازمانی تأکید می‌کند. ارتباط انگیزه، رهبری و اعتماد مشتری محور مطالب است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای کاربرد نکات مالی، آمار و فرضیات کتاب را مستقل بررسی کنید.",
+    "topics": [
+      "زمان",
+      "تصمیم‌گیری"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 75,
+    "slug": "book-075",
+    "title": "رهبران آخر غذا می‌خورند",
+    "image": "concept-art/book-075.webp",
+    "description": "کتابی درباره نقش اعتماد، مسئولیت‌پذیری و امنیت روانی در تیم‌هاست. نمونه‌های سازمانی و انسانی برای توضیح شیوه رهبری استفاده می‌شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مثال‌های کتاب را با شرایط بازار و زمان انتشار آن مقایسه کنید؛ هیچ روش مدیریتی تضمین موفقیت نیست.",
+    "topics": [
+      "زمان",
+      "مسئولیت",
+      "روان‌شناسی"
+    ],
+    "visual_motif": "chart",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 76,
+    "slug": "book-076",
+    "title": "کفش‌باز",
+    "image": "concept-art/book-076.webp",
+    "description": "خاطرات بنیان‌گذار نایکی از سال‌های نخست ساخت شرکت و دشواری‌های رشد آن است. داستان، کارآفرینی را با شکست‌ها و تصمیم‌های پرریسک نشان می‌دهد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید میان اصول نظری و شرایط واقعی کسب‌وکار خودتان تمایز بگذارید.",
+    "topics": [
+      "تصمیم‌گیری",
+      "تصمیم‌گیری",
+      "اقتصاد"
+    ],
+    "visual_motif": "city",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 77,
+    "slug": "book-077",
+    "title": "سختی کارهای سخت",
+    "image": "concept-art/book-077.webp",
+    "description": "تجربه‌های بن هوروویتز در مدیریت شرکت‌های فناوری و تصمیم‌های دشوار رهبری بیان می‌شود. کتاب برای شرایط بحران و پیچیدگی سازمانی نوشته شده است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای کاربرد نکات مالی، آمار و فرضیات کتاب را مستقل بررسی کنید.",
+    "topics": [
+      "زمان",
+      "تصمیم‌گیری",
+      "فناوری"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 78,
+    "slug": "book-078",
+    "title": "کار عمیق",
+    "image": "concept-art/book-078.webp",
+    "description": "کال نیوپورت اهمیت کار متمرکز و بدون حواس‌پرتی را برای یادگیری و خلق ارزش توضیح می‌دهد. کتاب روش‌هایی برای مدیریت توجه و محیط کار پیشنهاد می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مثال‌های کتاب را با شرایط بازار و زمان انتشار آن مقایسه کنید؛ هیچ روش مدیریتی تضمین موفقیت نیست.",
+    "topics": [
+      "یادگیری",
+      "تصمیم‌گیری",
+      "اقتصاد"
+    ],
+    "visual_motif": "city",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 79,
+    "slug": "book-079",
+    "title": "هفته کاری چهار ساعته",
+    "image": "concept-art/book-079.webp",
+    "description": "کتاب شیوه‌های متفاوت طراحی سبک زندگی، تفویض کار و مدیریت زمان را مطرح می‌کند. بسیاری از مثال‌ها وابسته به شرایط شغلی و اقتصادی خاص‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید میان اصول نظری و شرایط واقعی کسب‌وکار خودتان تمایز بگذارید.",
+    "topics": [
+      "زمان",
+      "زندگی"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 80,
+    "slug": "book-080",
+    "title": "مدیر یک دقیقه‌ای",
+    "image": "concept-art/book-080.webp",
+    "description": "روایتی آموزشی و کوتاه درباره هدف‌گذاری روشن، بازخورد به‌موقع و ارتباط با کارکنان است. کتاب اصول ساده‌ای برای مدیریت روزمره پیشنهاد می‌دهد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای کاربرد نکات مالی، آمار و فرضیات کتاب را مستقل بررسی کنید.",
+    "topics": [
+      "تصمیم‌گیری",
+      "اقتصاد"
+    ],
+    "visual_motif": "maze",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 81,
+    "slug": "book-081",
+    "title": "دنیای سوفی",
+    "image": "concept-art/book-081.webp",
+    "description": "دختر نوجوانی نامه‌هایی رازآلود درباره پرسش‌های فلسفی دریافت می‌کند. داستان، تاریخ اندیشه غرب را در قالب ماجرایی آموزشی مرور می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پرسش‌های فلسفی در قالب داستان پیش می‌روند؛ می‌توانید پرسش هر بخش را برای گفت‌وگو یادداشت کنید.",
+    "topics": [
+      "تاریخ",
+      "اندیشه",
+      "تاریخ"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 82,
+    "slug": "book-082",
+    "title": "تسلی‌بخشی‌های فلسفه",
+    "image": "concept-art/book-082.webp",
+    "description": "نویسنده با مراجعه به زندگی و اندیشه چند فیلسوف، درباره مشکلات معمول انسانی گفتگو می‌کند. کتاب تلاشی برای پیوند فلسفه و تجربه روزمره است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به زمینه تاریخی دیدگاه‌ها و تفاوت میان روایت و سند توجه داشته باشید.",
+    "topics": [
+      "فلسفه",
+      "زندگی",
+      "انسان"
+    ],
+    "visual_motif": "maze",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 83,
+    "slug": "book-083",
+    "title": "چنین گفت زرتشت",
+    "image": "concept-art/book-083.webp",
+    "description": "اثری فلسفی و شاعرانه از نیچه که با سخنان شخصیت زرتشت مفاهیمی چون ارزش‌گذاری، دگرگونی و انسان برتر را طرح می‌کند. متن نمادین و چندپهلوست.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای قضاوت درباره ادعاهای تاریخی یا فلسفی، منابع تکمیلی را کنار متن بخوانید.",
+    "topics": [
+      "انسان",
+      "دین"
+    ],
+    "visual_motif": "maze",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 84,
+    "slug": "book-084",
+    "title": "فراسوی نیک و بد",
+    "image": "concept-art/book-084.webp",
+    "description": "نیچه پیش‌فرض‌های اخلاق، حقیقت و فلسفه رایج را به پرسش می‌کشد. کتاب مجموعه‌ای از تحلیل‌ها و گزاره‌های چالش‌برانگیز درباره ارزش‌هاست.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پرسش اصلی هر فصل و پاسخ احتمالی نویسنده را جداگانه یادداشت کنید.",
+    "topics": [
+      "اخلاق",
+      "فلسفه"
+    ],
+    "visual_motif": "sunrise",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 85,
+    "slug": "book-085",
+    "title": "جمهوری افلاطون",
+    "image": "concept-art/book-085.webp",
+    "description": "گفتگوهایی فلسفی درباره عدالت، تربیت، سیاست و ساختار جامعه آرمانی است. تمثیل غار و نقش شناخت در حکمرانی از بخش‌های شناخته‌شده آن‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به زمینه تاریخی دیدگاه‌ها و تفاوت میان روایت و سند توجه داشته باشید.",
+    "topics": [
+      "جامعه",
+      "عدالت"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 86,
+    "slug": "book-086",
+    "title": "تأملات",
+    "image": "concept-art/book-086.webp",
+    "description": "یادداشت‌های شخصی مارکوس اورلیوس درباره انضباط ذهن، مسئولیت و پذیرش دشواری‌های زندگی است. متنی شاخص از سنت فلسفه رواقی.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای قضاوت درباره ادعاهای تاریخی یا فلسفی، منابع تکمیلی را کنار متن بخوانید.",
+    "topics": [
+      "فلسفه",
+      "مسئولیت",
+      "ذهن"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 87,
+    "slug": "book-087",
+    "title": "انسان خردمند",
+    "image": "concept-art/book-087.webp",
+    "description": "مروری فراگیر بر تاریخ نوع بشر از دوران شکارگری تا جوامع پیچیده. نویسنده نقش روایت‌های مشترک، اقتصاد و قدرت را در تحول انسان بررسی می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پرسش اصلی هر فصل و پاسخ احتمالی نویسنده را جداگانه یادداشت کنید.",
+    "topics": [
+      "تاریخ",
+      "قدرت",
+      "انسان"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 88,
+    "slug": "book-088",
+    "title": "انسان خداگونه",
+    "image": "concept-art/book-088.webp",
+    "description": "نویسنده درباره مسیرهای احتمالی آینده انسان در پیوند با فناوری، هوش مصنوعی و زیست‌فناوری تأمل می‌کند. کتاب بیشتر طرح پرسش و سناریوست تا پیش‌بینی قطعی.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به زمینه تاریخی دیدگاه‌ها و تفاوت میان روایت و سند توجه داشته باشید.",
+    "topics": [
+      "فناوری",
+      "انسان"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 89,
+    "slug": "book-089",
+    "title": "۲۱ درس برای قرن ۲۱",
+    "image": "concept-art/book-089.webp",
+    "description": "مجموعه‌ای از بحث‌ها درباره سیاست، فناوری، آموزش و هویت در جهان معاصر است. کتاب از زاویه‌ای تحلیلی به عدم‌قطعیت‌های امروز می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای قضاوت درباره ادعاهای تاریخی یا فلسفی، منابع تکمیلی را کنار متن بخوانید.",
+    "topics": [
+      "هویت",
+      "جهان",
+      "فناوری"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 90,
+    "slug": "book-090",
+    "title": "اسلحه میکروب و فولاد",
+    "image": "concept-art/book-090.webp",
+    "description": "جرد دایموند به تأثیر محیط جغرافیایی، کشاورزی و بیماری‌ها بر تفاوت مسیر جوامع می‌پردازد. تبیین‌های کتاب محل بحث علمی هم بوده‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پرسش اصلی هر فصل و پاسخ احتمالی نویسنده را جداگانه یادداشت کنید.",
+    "topics": [
+      "علم",
+      "اندیشه",
+      "تاریخ"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 91,
+    "slug": "book-091",
+    "title": "تاریخ مختصر جهان",
+    "image": "concept-art/book-091.webp",
+    "description": "روایتی فشرده از رویدادها و دوره‌های مهم تاریخ بشر برای مخاطب عمومی. تمرکز آن بر فهم پیوستگی تغییرات تاریخی در مقیاس کلان است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به زمینه تاریخی دیدگاه‌ها و تفاوت میان روایت و سند توجه داشته باشید.",
+    "topics": [
+      "تاریخ",
+      "تغییر"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 92,
+    "slug": "book-092",
+    "title": "تاریخچه تقریباً همه چیز",
+    "image": "concept-art/book-092.webp",
+    "description": "بیل برایسون با زبانی روایت‌محور از کشفیات علمی و تلاش دانشمندان برای شناخت جهان می‌گوید. موضوعات از کیهان تا زمین و زندگی را دربرمی‌گیرند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای قضاوت درباره ادعاهای تاریخی یا فلسفی، منابع تکمیلی را کنار متن بخوانید.",
+    "topics": [
+      "علم",
+      "زمین",
+      "جهان"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 93,
+    "slug": "book-093",
+    "title": "تاریخ بیهقی",
+    "image": "concept-art/book-093.webp",
+    "description": "متنی تاریخی و ادبی از ابوالفضل بیهقی درباره بخشی از دوره غزنویان است. روایت دقیق رخدادها و شخصیت‌ها، ارزش تاریخی و نثر برجسته‌ای به آن داده است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پرسش اصلی هر فصل و پاسخ احتمالی نویسنده را جداگانه یادداشت کنید.",
+    "topics": [
+      "تاریخ",
+      "اندیشه",
+      "تاریخ"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 94,
+    "slug": "book-094",
+    "title": "دو قرن سکوت",
+    "image": "concept-art/book-094.webp",
+    "description": "پژوهشی تاریخی درباره دوره‌ای از تاریخ ایران پس از فتوحات عربی است. برخی برداشت‌ها و چارچوب‌های کتاب در میان پژوهشگران موضوع نقد و بحث‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به زمینه تاریخی دیدگاه‌ها و تفاوت میان روایت و سند توجه داشته باشید.",
+    "topics": [
+      "تاریخ",
+      "اندیشه",
+      "تاریخ"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 95,
+    "slug": "book-095",
+    "title": "ایران بین دو انقلاب",
+    "image": "concept-art/book-095.webp",
+    "description": "کتابی پژوهشی درباره تحولات اجتماعی و سیاسی ایران از انقلاب مشروطه تا انقلاب ۱۳۵۷. نقش طبقات، دولت و جریان‌های سیاسی بررسی می‌شود.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای قضاوت درباره ادعاهای تاریخی یا فلسفی، منابع تکمیلی را کنار متن بخوانید.",
+    "topics": [
+      "اندیشه",
+      "تاریخ"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 96,
+    "slug": "book-096",
+    "title": "جامعه‌شناسی نخبه‌کشی",
+    "image": "concept-art/book-096.webp",
+    "description": "کتاب با مرور نمونه‌هایی از تاریخ سیاسی ایران، مسئله برخورد جامعه و ساختار قدرت با نخبگان اصلاح‌گر را طرح می‌کند. تفسیرهای آن قابل بحث‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پرسش اصلی هر فصل و پاسخ احتمالی نویسنده را جداگانه یادداشت کنید.",
+    "topics": [
+      "تاریخ",
+      "قدرت",
+      "جامعه"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 97,
+    "slug": "book-097",
+    "title": "چرا ملت‌ها شکست می‌خورند",
+    "image": "concept-art/book-097.webp",
+    "description": "نویسندگان تفاوت رشد و توسعه کشورها را با نقش نهادهای سیاسی و اقتصادی توضیح می‌دهند. کتاب از مطالعه تاریخی برای مقایسه جوامع استفاده می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به زمینه تاریخی دیدگاه‌ها و تفاوت میان روایت و سند توجه داشته باشید.",
+    "topics": [
+      "تاریخ",
+      "اندیشه",
+      "تاریخ"
+    ],
+    "visual_motif": "maze",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 98,
+    "slug": "book-098",
+    "title": "راه باریک آزادی",
+    "image": "concept-art/book-098.webp",
+    "description": "کتاب رابطه قدرت دولت و توان جامعه در حفظ آزادی را بررسی می‌کند. مثال‌های تاریخی برای توضیح تعادل دشوار میان نظم و پاسخ‌گویی به کار می‌روند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای قضاوت درباره ادعاهای تاریخی یا فلسفی، منابع تکمیلی را کنار متن بخوانید.",
+    "topics": [
+      "آزادی",
+      "تاریخ",
+      "قدرت"
+    ],
+    "visual_motif": "compass",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 99,
+    "slug": "book-099",
+    "title": "شرق بهشت",
+    "image": "concept-art/book-099.webp",
+    "description": "رمان چندنسلی جان اشتاین‌بک درباره دو خانواده در کالیفرنیا با مضمون‌های انتخاب، حسادت و مسئولیت فردی. داستان از روایت‌های کهن الهام می‌گیرد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پرسش اصلی هر فصل و پاسخ احتمالی نویسنده را جداگانه یادداشت کنید.",
+    "topics": [
+      "خانواده",
+      "مسئولیت"
+    ],
+    "visual_motif": "maze",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 100,
+    "slug": "book-100",
+    "title": "افسانه سیزیف",
+    "image": "concept-art/book-100.webp",
+    "description": "آلبر کامو در جستاری فلسفی به تجربه پوچی و پرسش معنای زندگی می‌پردازد. داستان سیزیف، استعاره‌ای برای مواجهه انسان با وضعیت خود است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به زمینه تاریخی دیدگاه‌ها و تفاوت میان روایت و سند توجه داشته باشید.",
+    "topics": [
+      "معنا",
+      "زندگی",
+      "انسان"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 101,
+    "slug": "book-101",
+    "title": "قصه‌های مجید",
+    "image": "concept-art/book-101.webp",
+    "description": "مجموعه داستان‌هایی درباره زندگی مجید و بی‌بی در محیطی آشنا و پر از موقعیت‌های طنزآمیز است. رابطه نسل‌ها و دغدغه‌های نوجوانی در مرکز روایت قرار دارند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "زبان ساده، طنز موقعیت و رابطه مجید و بی‌بی از نقاط مناسب گفت‌وگو پس از مطالعه‌اند.",
+    "topics": [
+      "رابطه‌ها",
+      "زندگی"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 102,
+    "slug": "book-102",
+    "title": "قصه‌های خوب برای بچه‌های خوب",
+    "image": "concept-art/book-102.webp",
+    "description": "مجموعه‌ای از بازنویسی داستان‌های کهن برای مخاطبان کودک و نوجوان است. هر جلد بخشی از میراث ادبی و حکایت‌های آموزنده را به زبان ساده بازگو می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "گفت‌وگو درباره احساسات و انتخاب شخصیت‌ها می‌تواند تجربه خواندن را برای نوجوانان پربارتر کند.",
+    "topics": [
+      "کودکی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 103,
+    "slug": "book-103",
+    "title": "قصه‌های من و بابام",
+    "image": "concept-art/book-103.webp",
+    "description": "داستانک‌های تصویری و طنزآمیز درباره موقعیت‌های روزمره یک پدر و پسر است. سادگی روایت و تصویرسازی، آن را برای مطالعه مشترک جذاب می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "سن و علاقه خواننده در انتخاب کتاب مهم است؛ دسته‌بندی به‌تنهایی معیار قطعی مناسب‌بودن نیست.",
+    "topics": [
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 104,
+    "slug": "book-104",
+    "title": "ماهی سیاه کوچولو",
+    "image": "concept-art/book-104.webp",
+    "description": "ماهی کوچکی برخلاف عادت اطرافیان می‌خواهد جهان بیرون از جویبار را ببیند. قصه‌ای نمادین درباره کنجکاوی، شجاعت و خطرهای انتخاب مسیر تازه.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پس از مطالعه می‌توان از خواننده خواست صحنه یا شخصیت مورد علاقه‌اش را توضیح دهد.",
+    "topics": [
+      "جهان",
+      "عادت",
+      "دین"
+    ],
+    "visual_motif": "sea",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 105,
+    "slug": "book-105",
+    "title": "مهمان‌های ناخوانده",
+    "image": "concept-art/book-105.webp",
+    "description": "قصه‌ای کودکانه درباره ورود مهمان‌های پی‌درپی و شیوه مواجهه با آن‌ها. طنز و تکرار در روایت برای خواندن با صدای بلند مناسب‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "گفت‌وگو درباره احساسات و انتخاب شخصیت‌ها می‌تواند تجربه خواندن را برای نوجوانان پربارتر کند.",
+    "topics": [
+      "کودکی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 106,
+    "slug": "book-106",
+    "title": "حسنی نگو یه دسته گل",
+    "image": "concept-art/book-106.webp",
+    "description": "داستانی آهنگین و عامیانه با شخصیت حسنی که در ادبیات کودک فارسی شناخته شده است. زبان ریتمیک و موضوع‌های ساده برای خردسالان مناسب است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "سن و علاقه خواننده در انتخاب کتاب مهم است؛ دسته‌بندی به‌تنهایی معیار قطعی مناسب‌بودن نیست.",
+    "topics": [
+      "کودکی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 107,
+    "slug": "book-107",
+    "title": "کدو قلقله‌زن",
+    "image": "concept-art/book-107.webp",
+    "description": "قصه‌ای عامیانه درباره مادربزرگی که با زیرکی از موقعیتی خطرناک می‌گذرد. تکرار و ضرباهنگ گفتاری، داستان را برای کودکان به‌یادماندنی می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پس از مطالعه می‌توان از خواننده خواست صحنه یا شخصیت مورد علاقه‌اش را توضیح دهد.",
+    "topics": [
+      "کودکی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 108,
+    "slug": "book-108",
+    "title": "خرس قهوه‌ای خرس قهوه‌ای چی می‌بینی؟",
+    "image": "concept-art/book-108.webp",
+    "description": "کتابی تصویری با ساختار پرسش و پاسخ تکرارشونده درباره جانوران و رنگ‌ها. برای آشنایی کودکان کم‌سن با واژه‌ها و الگوهای زبانی مناسب است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "گفت‌وگو درباره احساسات و انتخاب شخصیت‌ها می‌تواند تجربه خواندن را برای نوجوانان پربارتر کند.",
+    "topics": [
+      "کودکی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "forest",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 109,
+    "slug": "book-109",
+    "title": "کرم ابریشم خیلی گرسنه",
+    "image": "concept-art/book-109.webp",
+    "description": "داستان مصور کرمی کوچک که از خوراکی‌های گوناگون می‌خورد و دگرگون می‌شود. کتاب مفاهیم شمارش، روزهای هفته و چرخه رشد را به زبان کودکانه طرح می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "سن و علاقه خواننده در انتخاب کتاب مهم است؛ دسته‌بندی به‌تنهایی معیار قطعی مناسب‌بودن نیست.",
+    "topics": [
+      "کودکی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "kite",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 110,
+    "slug": "book-110",
+    "title": "جایی که وحشی‌ها هستند",
+    "image": "concept-art/book-110.webp",
+    "description": "پسربچه‌ای در جهان خیال به سرزمین موجودات عجیب سفر می‌کند. روایت تصویری درباره خشم، تخیل، مهار احساس و بازگشت به امنیت خانه است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پس از مطالعه می‌توان از خواننده خواست صحنه یا شخصیت مورد علاقه‌اش را توضیح دهد.",
+    "topics": [
+      "سفر",
+      "زمین",
+      "جهان"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 111,
+    "slug": "book-111",
+    "title": "درخت بخشنده",
+    "image": "concept-art/book-111.webp",
+    "description": "پیوند پسری با درختی در گذر سال‌ها روایت می‌شود. داستانی کوتاه و نمادین درباره بخشش، نیاز، وابستگی و پرسش‌های اخلاقی مربوط به رابطه‌ها.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "گفت‌وگو درباره احساسات و انتخاب شخصیت‌ها می‌تواند تجربه خواندن را برای نوجوانان پربارتر کند.",
+    "topics": [
+      "اخلاق",
+      "رابطه‌ها",
+      "دین"
+    ],
+    "visual_motif": "tree",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 112,
+    "slug": "book-112",
+    "title": "گربه کلاه‌به‌سر",
+    "image": "concept-art/book-112.webp",
+    "description": "شخصیتی بازیگوش در روزی بارانی وارد خانه دو کودک می‌شود و نظم را بر هم می‌زند. متن ریتمیک و طنزآمیز برای خواندن و آشنایی با زبان مناسب است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "سن و علاقه خواننده در انتخاب کتاب مهم است؛ دسته‌بندی به‌تنهایی معیار قطعی مناسب‌بودن نیست.",
+    "topics": [
+      "کودکی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "birds",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 113,
+    "slug": "book-113",
+    "title": "ماتیلدا",
+    "image": "concept-art/book-113.webp",
+    "description": "دختری کتاب‌دوست و باهوش با خانواده‌ای بی‌اعتنا و مدرسه‌ای سخت‌گیر روبه‌رو می‌شود. شجاعت، مهربانی و توانایی فکرکردن مستقل در داستان برجسته‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پس از مطالعه می‌توان از خواننده خواست صحنه یا شخصیت مورد علاقه‌اش را توضیح دهد.",
+    "topics": [
+      "دوستی",
+      "خانواده"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 114,
+    "slug": "book-114",
+    "title": "چارلی و کارخانه شکلات‌سازی",
+    "image": "concept-art/book-114.webp",
+    "description": "چارلی همراه چند کودک دیگر از کارخانه‌ای شگفت‌انگیز دیدن می‌کند. داستان با تخیل و طنز درباره طمع، مهربانی و پیامد رفتارهای مختلف روایت می‌شود.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "گفت‌وگو درباره احساسات و انتخاب شخصیت‌ها می‌تواند تجربه خواندن را برای نوجوانان پربارتر کند.",
+    "topics": [
+      "کودکی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "home",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 115,
+    "slug": "book-115",
+    "title": "جیمز و هلوی غول‌پیکر",
+    "image": "concept-art/book-115.webp",
+    "description": "پسری تنها با موجوداتی عجیب درون هلویی بزرگ راهی سفری ماجراجویانه می‌شود. دوستی، شهامت و تخیل نیروی پیش‌برنده داستان‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "سن و علاقه خواننده در انتخاب کتاب مهم است؛ دسته‌بندی به‌تنهایی معیار قطعی مناسب‌بودن نیست.",
+    "topics": [
+      "دوستی",
+      "سفر"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 116,
+    "slug": "book-116",
+    "title": "جادوگرها",
+    "image": "concept-art/book-116.webp",
+    "description": "کودکی درگیر ماجرایی خطرناک با جادوگرهایی پنهان در جامعه می‌شود. داستانی فانتزی و پرتعلیق با لحن طنزآلود ویژه مخاطبان نوجوان.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پس از مطالعه می‌توان از خواننده خواست صحنه یا شخصیت مورد علاقه‌اش را توضیح دهد.",
+    "topics": [
+      "جامعه",
+      "کودکی"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 117,
+    "slug": "book-117",
+    "title": "غول بزرگ مهربان",
+    "image": "concept-art/book-117.webp",
+    "description": "دختری با غولی متفاوت از دیگر غول‌ها آشنا می‌شود. دوستی آن‌ها ماجرایی پر از تخیل، واژه‌سازی و تلاش برای مقابله با غول‌های ترسناک می‌آفریند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "گفت‌وگو درباره احساسات و انتخاب شخصیت‌ها می‌تواند تجربه خواندن را برای نوجوانان پربارتر کند.",
+    "topics": [
+      "دوستی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 118,
+    "slug": "book-118",
+    "title": "پاستیل‌های بنفش",
+    "image": "concept-art/book-118.webp",
+    "description": "رمانی نوجوانانه با محور روابط خانوادگی، تجربه‌های سخت و معنای امید. متن به احساسات شخصیت جوان و تلاش برای کنارآمدن با تغییرات زندگی توجه دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "سن و علاقه خواننده در انتخاب کتاب مهم است؛ دسته‌بندی به‌تنهایی معیار قطعی مناسب‌بودن نیست.",
+    "topics": [
+      "معنا",
+      "تغییر",
+      "امید"
+    ],
+    "visual_motif": "kite",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 119,
+    "slug": "book-119",
+    "title": "شگفتی",
+    "image": "concept-art/book-119.webp",
+    "description": "پسری با تفاوت ظاهری برای نخستین‌بار وارد مدرسه می‌شود و با نگاه همسالان روبه‌رو می‌گردد. داستان درباره همدلی، دوستی و مهربانی در موقعیت‌های روزمره است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پس از مطالعه می‌توان از خواننده خواست صحنه یا شخصیت مورد علاقه‌اش را توضیح دهد.",
+    "topics": [
+      "دوستی",
+      "داستان",
+      "تجربه خواندن"
+    ],
+    "visual_motif": "birds",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 120,
+    "slug": "book-120",
+    "title": "قصه‌های امیرعلی",
+    "image": "concept-art/book-120.webp",
+    "description": "مجموعه‌ای از ماجراهای طنزآمیز و روزمره برای مخاطب نوجوان. فضای مدرسه، خانواده و دوستی در شکل‌گیری موقعیت‌ها نقش دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "گفت‌وگو درباره احساسات و انتخاب شخصیت‌ها می‌تواند تجربه خواندن را برای نوجوانان پربارتر کند.",
+    "topics": [
+      "دوستی",
+      "خانواده"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 121,
+    "slug": "book-121",
+    "title": "هری پاتر و سنگ جادو",
+    "image": "concept-art/book-121.webp",
+    "description": "هری در یازده‌سالگی از پیشینه پنهان خود آگاه می‌شود و به مدرسه جادوگری می‌رود. آغاز ماجرایی درباره دوستی، رازها و رویارویی با نیروی تاریک.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "دوستی، انتخاب و رازهای دنیای جادوگری در آغاز مجموعه شکل می‌گیرند.",
+    "topics": [
+      "دوستی",
+      "رویا"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 122,
+    "slug": "book-122",
+    "title": "هری پاتر و تالار اسرار",
+    "image": "concept-art/book-122.webp",
+    "description": "در سال دوم مدرسه، اتفاق‌هایی نگران‌کننده دانش‌آموزان را تهدید می‌کند. هری و دوستانش برای کشف راز تالاری مرموز تلاش می‌کنند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به شیوه جهان‌سازی و جایگاه دوستی، قدرت یا مسئولیت در ماجرا توجه کنید.",
+    "topics": [
+      "دوستی",
+      "تخیل",
+      "جهان‌سازی"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 123,
+    "slug": "book-123",
+    "title": "هری پاتر و زندانی آزکابان",
+    "image": "concept-art/book-123.webp",
+    "description": "خبر فرار یک زندانی خطرناک، فضای مدرسه را دگرگون می‌کند. هری در جریان ماجرا شناخت تازه‌ای از گذشته خانواده و حقیقت به دست می‌آورد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به قانون‌های جهان داستان و پیامدهای انتخاب شخصیت‌ها دقت کنید.",
+    "topics": [
+      "خانواده",
+      "تخیل",
+      "جهان‌سازی"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 124,
+    "slug": "book-124",
+    "title": "هری پاتر و جام آتش",
+    "image": "concept-art/book-124.webp",
+    "description": "رقابتی بزرگ میان مدرسه‌های جادوگری برگزار می‌شود و هری ناخواسته در مرکز آن قرار می‌گیرد. دوستی و خطر در فضایی تیره‌تر از گذشته دنبال می‌شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید رابطه میان عناصر خیالی و دغدغه‌های واقعی انسان را در متن دنبال کنید.",
+    "topics": [
+      "دوستی",
+      "تخیل",
+      "جهان‌سازی"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 125,
+    "slug": "book-125",
+    "title": "هری پاتر و محفل ققنوس",
+    "image": "concept-art/book-125.webp",
+    "description": "هری در برابر بی‌اعتمادی و فشارهای تازه در مدرسه و جامعه جادوگری مقاومت می‌کند. گروهی از دوستان برای یادگیری و دفاع از خود کنار هم جمع می‌شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به شیوه جهان‌سازی و جایگاه دوستی، قدرت یا مسئولیت در ماجرا توجه کنید.",
+    "topics": [
+      "دوستی",
+      "جامعه",
+      "یادگیری"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 126,
+    "slug": "book-126",
+    "title": "هری پاتر و شاهزاده دورگه",
+    "image": "concept-art/book-126.webp",
+    "description": "با پررنگ‌شدن تهدیدهای بیرونی، هری بخش‌هایی از گذشته دشمنش را می‌شناسد. رازهای قدیمی و انتخاب‌های دشوار زمینه پایان مجموعه را می‌سازند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به قانون‌های جهان داستان و پیامدهای انتخاب شخصیت‌ها دقت کنید.",
+    "topics": [
+      "زمین",
+      "تخیل",
+      "جهان‌سازی"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 127,
+    "slug": "book-127",
+    "title": "هری پاتر و یادگاران مرگ",
+    "image": "concept-art/book-127.webp",
+    "description": "هری و همراهانش خارج از فضای معمول مدرسه برای انجام مأموریتی سرنوشت‌ساز تلاش می‌کنند. وفاداری، فداکاری و رویارویی نهایی مضمون‌های اصلی‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید رابطه میان عناصر خیالی و دغدغه‌های واقعی انسان را در متن دنبال کنید.",
+    "topics": [
+      "رویا",
+      "تخیل",
+      "جهان‌سازی"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 128,
+    "slug": "book-128",
+    "title": "هابیت",
+    "image": "concept-art/book-128.webp",
+    "description": "بیلبو بگینز با گروهی کوتوله راهی سفری دور از خانه می‌شود. ماجراهای او با موجودات شگفت‌انگیز و آزمون‌های شجاعت همراه است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به شیوه جهان‌سازی و جایگاه دوستی، قدرت یا مسئولیت در ماجرا توجه کنید.",
+    "topics": [
+      "سفر",
+      "تخیل",
+      "جهان‌سازی"
+    ],
+    "visual_motif": "space",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 129,
+    "slug": "book-129",
+    "title": "یاران حلقه",
+    "image": "concept-art/book-129.webp",
+    "description": "گروهی از شخصیت‌های گوناگون برای دورکردن حلقه‌ای خطرناک از دست نیروهای تاریک متحد می‌شوند. آغاز سفری حماسی درباره دوستی، امید و مسئولیت است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به قانون‌های جهان داستان و پیامدهای انتخاب شخصیت‌ها دقت کنید.",
+    "topics": [
+      "دوستی",
+      "سفر",
+      "مسئولیت"
+    ],
+    "visual_motif": "rings",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 130,
+    "slug": "book-130",
+    "title": "دو برج",
+    "image": "concept-art/book-130.webp",
+    "description": "پس از جداشدن همراهان، مسیرهای متفاوتی در میانه جنگ و تهدید پیش می‌آید. دوستی و پایداری شخصیت‌ها در برابر قدرت تاریکی آزموده می‌شود.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید رابطه میان عناصر خیالی و دغدغه‌های واقعی انسان را در متن دنبال کنید.",
+    "topics": [
+      "دوستی",
+      "قدرت",
+      "جنگ"
+    ],
+    "visual_motif": "space",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 131,
+    "slug": "book-131",
+    "title": "بازگشت پادشاه",
+    "image": "concept-art/book-131.webp",
+    "description": "بخش پایانی ماجرای حلقه و نبرد سرنوشت‌ساز سرزمین میانه است. امید، فداکاری و پیامدهای یک مأموریت طولانی در پایان روایت جمع می‌شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به شیوه جهان‌سازی و جایگاه دوستی، قدرت یا مسئولیت در ماجرا توجه کنید.",
+    "topics": [
+      "زمین",
+      "امید"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 132,
+    "slug": "book-132",
+    "title": "بازی تاج و تخت",
+    "image": "concept-art/book-132.webp",
+    "description": "چند خاندان قدرتمند برای نفوذ بر قلمرویی بزرگ رقابت می‌کنند. سیاست، وفاداری و خطرهای بیرونی در جهانی فانتزی و چندشخصیتی درهم می‌آمیزند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به قانون‌های جهان داستان و پیامدهای انتخاب شخصیت‌ها دقت کنید.",
+    "topics": [
+      "قدرت",
+      "جهان"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 133,
+    "slug": "book-133",
+    "title": "نبرد پادشاهان",
+    "image": "concept-art/book-133.webp",
+    "description": "در ادامه کشمکش خاندان‌ها، مدعیان گوناگون برای قدرت می‌جنگند. جنگ داخلی و انتخاب‌های شخصیت‌ها بر سرنوشت قلمرو اثر می‌گذارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید رابطه میان عناصر خیالی و دغدغه‌های واقعی انسان را در متن دنبال کنید.",
+    "topics": [
+      "قدرت",
+      "جنگ"
+    ],
+    "visual_motif": "castle",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 134,
+    "slug": "book-134",
+    "title": "طوفان شمشیرها",
+    "image": "concept-art/book-134.webp",
+    "description": "نبردهای بزرگ و تصمیم‌های پرهزینه، مسیر بسیاری از شخصیت‌های مجموعه را تغییر می‌دهند. رمان بر قدرت، وفاداری و پیامد غیرمنتظره جنگ تأکید دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به شیوه جهان‌سازی و جایگاه دوستی، قدرت یا مسئولیت در ماجرا توجه کنید.",
+    "topics": [
+      "قدرت",
+      "تغییر",
+      "جنگ"
+    ],
+    "visual_motif": "space",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 135,
+    "slug": "book-135",
+    "title": "تلماسه",
+    "image": "concept-art/book-135.webp",
+    "description": "پل آتریدیز به سیاره بیابانی آراکیس و کشمکش بر سر ماده‌ای ارزشمند کشیده می‌شود. سیاست، محیط‌زیست، دین و قدرت پیشگویی در این جهان علمی‌تخیلی گره خورده‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به قانون‌های جهان داستان و پیامدهای انتخاب شخصیت‌ها دقت کنید.",
+    "topics": [
+      "قدرت",
+      "علم",
+      "جهان"
+    ],
+    "visual_motif": "flame",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 136,
+    "slug": "book-136",
+    "title": "بنیاد",
+    "image": "concept-art/book-136.webp",
+    "description": "مجموعه داستان‌هایی درباره آینده دور بشر و تلاشی برای کاهش دوره آشوب پس از افول یک امپراتوری کهکشانی. علم، تاریخ و سیاست در کنار هم قرار می‌گیرند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید رابطه میان عناصر خیالی و دغدغه‌های واقعی انسان را در متن دنبال کنید.",
+    "topics": [
+      "تاریخ",
+      "علم"
+    ],
+    "visual_motif": "space",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 137,
+    "slug": "book-137",
+    "title": "من ربات",
+    "image": "concept-art/book-137.webp",
+    "description": "مجموعه‌ای از داستان‌های رباتیک آیزاک آسیموف که روابط انسان و ماشین را بررسی می‌کنند. قوانین رباتیک و معماهای اخلاقی در بسیاری از روایت‌ها نقش دارند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به شیوه جهان‌سازی و جایگاه دوستی، قدرت یا مسئولیت در ماجرا توجه کنید.",
+    "topics": [
+      "اخلاق",
+      "انسان"
+    ],
+    "visual_motif": "flame",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 138,
+    "slug": "book-138",
+    "title": "راهنمای مسافران مجانی کهکشان",
+    "image": "concept-art/book-138.webp",
+    "description": "ماجرایی طنزآلود و نامتعارف که شخصیت اصلی را به سفری میان‌ستاره‌ای می‌برد. کتاب با شوخی‌های فلسفی به جهان، فناوری و معنای زندگی نگاه می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به قانون‌های جهان داستان و پیامدهای انتخاب شخصیت‌ها دقت کنید.",
+    "topics": [
+      "معنا",
+      "سفر",
+      "جهان"
+    ],
+    "visual_motif": "space",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 139,
+    "slug": "book-139",
+    "title": "پرسی جکسون و دزد آذرخش",
+    "image": "concept-art/book-139.webp",
+    "description": "پسری نوجوان درمی‌یابد با جهان اساطیر یونان پیوند دارد و وارد مأموریتی خطرناک می‌شود. دوستی، هویت و ماجراجویی عناصر اصلی کتاب‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید رابطه میان عناصر خیالی و دغدغه‌های واقعی انسان را در متن دنبال کنید.",
+    "topics": [
+      "دوستی",
+      "هویت",
+      "جهان"
+    ],
+    "visual_motif": "forest",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 140,
+    "slug": "book-140",
+    "title": "بازی‌های گرسنگی",
+    "image": "concept-art/book-140.webp",
+    "description": "در جامعه‌ای اقتدارگرا، نوجوانان برای شرکت در رقابتی مرگبار انتخاب می‌شوند. رمان به بقا، نابرابری، رسانه و مقاومت می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "به شیوه جهان‌سازی و جایگاه دوستی، قدرت یا مسئولیت در ماجرا توجه کنید.",
+    "topics": [
+      "جامعه",
+      "تخیل",
+      "جهان‌سازی"
+    ],
+    "visual_motif": "flame",
+    "reading_time_label": "معرفی کوتاه · بدون افشای پایان",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 141,
+    "slug": "book-141",
+    "title": "شاهنامه فردوسی",
+    "image": "concept-art/book-141.webp",
+    "description": "حماسه بزرگ فارسی با داستان‌های اساطیری، پهلوانی و تاریخی ایران است. سرگذشت پادشاهان و پهلوانان، مسائل دادگری، میهن و سرنوشت را پیش می‌کشد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "برای دنبال‌کردن شاهنامه، تقسیم روایت‌ها به دوره اساطیری، پهلوانی و تاریخی کمک‌کننده است.",
+    "topics": [
+      "تاریخ",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "mountain",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 142,
+    "slug": "book-142",
+    "title": "دیوان حافظ",
+    "image": "concept-art/book-142.webp",
+    "description": "مجموعه غزل‌های حافظ با مضامین عشق، رندی، عرفان و نقد ریاکاری است. زبان چندلایه و تصویرهای شاعرانه آن خوانش‌های گوناگون پدید می‌آورد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "در کنار معنا، به آهنگ زبان و شیوه تصویرسازی نویسنده نیز توجه کنید.",
+    "topics": [
+      "عشق",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 143,
+    "slug": "book-143",
+    "title": "بوستان سعدی",
+    "image": "concept-art/book-143.webp",
+    "description": "منظومه‌ای اخلاقی و حکمی در قالب حکایت‌های شاعرانه است. موضوع‌هایی چون عدالت، احسان، عشق و فروتنی در آن مطرح می‌شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "خواندن همراه با شرح معتبر می‌تواند به فهم اشاره‌های فرهنگی و تاریخی کمک کند.",
+    "topics": [
+      "عشق",
+      "اخلاق",
+      "عدالت"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 144,
+    "slug": "book-144",
+    "title": "گلستان سعدی",
+    "image": "concept-art/book-144.webp",
+    "description": "حکایت‌ها و تأملاتی به نثر آهنگین و شعر درباره رفتار فردی و اجتماعی است. طنز، پند و نکته‌سنجی از ویژگی‌های برجسته اثرند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "واژه‌ها و تصویرهای ادبی را در بافت بیت‌ها یا روایت بخوانید؛ برداشت‌های متفاوت ممکن‌اند.",
+    "topics": [
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 145,
+    "slug": "book-145",
+    "title": "مثنوی معنوی",
+    "image": "concept-art/book-145.webp",
+    "description": "منظومه بلند مولانا با داستان‌ها و تمثیل‌های عرفانی و اخلاقی است. حکایت‌ها زمینه‌ای برای اندیشیدن درباره عشق، نفس و شناخت فراهم می‌کنند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "در کنار معنا، به آهنگ زبان و شیوه تصویرسازی نویسنده نیز توجه کنید.",
+    "topics": [
+      "عشق",
+      "اخلاق",
+      "زمین"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 146,
+    "slug": "book-146",
+    "title": "دیوان شمس",
+    "image": "concept-art/book-146.webp",
+    "description": "مجموعه غزل‌ها و شعرهای پرشور مولانا با تأکید بر عشق و تجربه عرفانی است. موسیقی زبان و تصاویر سیال ویژگی اصلی آن‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "خواندن همراه با شرح معتبر می‌تواند به فهم اشاره‌های فرهنگی و تاریخی کمک کند.",
+    "topics": [
+      "عشق",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 147,
+    "slug": "book-147",
+    "title": "رباعیات خیام",
+    "image": "concept-art/book-147.webp",
+    "description": "مجموعه رباعی‌های منسوب به خیام درباره گذر زمان، ناپایداری و پرسش از هستی است. نسبت‌دادن همه رباعی‌ها به او در پژوهش‌ها قطعی نیست.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "واژه‌ها و تصویرهای ادبی را در بافت بیت‌ها یا روایت بخوانید؛ برداشت‌های متفاوت ممکن‌اند.",
+    "topics": [
+      "زمان",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 148,
+    "slug": "book-148",
+    "title": "منطق‌الطیر",
+    "image": "concept-art/book-148.webp",
+    "description": "عطار در داستان سفر مرغان به جست‌وجوی سیمرغ، مراحل سلوک عرفانی را به زبان تمثیل بیان می‌کند. رنج راه و خودشناسی مضمون اصلی‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "در کنار معنا، به آهنگ زبان و شیوه تصویرسازی نویسنده نیز توجه کنید.",
+    "topics": [
+      "سفر",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 149,
+    "slug": "book-149",
+    "title": "هفت پیکر",
+    "image": "concept-art/book-149.webp",
+    "description": "منظومه‌ای از نظامی درباره بهرام گور و روایت‌های هفت گنبد است. داستان‌های تو در تو با عشق، پادشاهی و تربیت اخلاقی پیوند دارند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "خواندن همراه با شرح معتبر می‌تواند به فهم اشاره‌های فرهنگی و تاریخی کمک کند.",
+    "topics": [
+      "عشق",
+      "اخلاق"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 150,
+    "slug": "book-150",
+    "title": "خسرو و شیرین",
+    "image": "concept-art/book-150.webp",
+    "description": "منظومه عاشقانه نظامی درباره دلبستگی خسرو و شیرین و آزمون‌های رابطه آن‌هاست. تصویرپردازی شاعرانه و کشمکش‌های انسانی در مرکز اثر قرار دارند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "واژه‌ها و تصویرهای ادبی را در بافت بیت‌ها یا روایت بخوانید؛ برداشت‌های متفاوت ممکن‌اند.",
+    "topics": [
+      "رابطه‌ها",
+      "انسان"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 151,
+    "slug": "book-151",
+    "title": "لیلی و مجنون",
+    "image": "concept-art/book-151.webp",
+    "description": "بازآفرینی شاعرانه سرگذشت دو دلداده که موانع اجتماعی از هم جدایشان می‌کند. نظامی با زبان غنایی به عشق، رنج و وفاداری می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "در کنار معنا، به آهنگ زبان و شیوه تصویرسازی نویسنده نیز توجه کنید.",
+    "topics": [
+      "عشق",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "mountain",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 152,
+    "slug": "book-152",
+    "title": "دیوان پروین اعتصامی",
+    "image": "concept-art/book-152.webp",
+    "description": "مجموعه شعرهایی با مضامین اجتماعی، اخلاقی و عدالت‌خواهانه است. مناظره میان اشیا و شخصیت‌ها یکی از شیوه‌های شناخته‌شده بیان شاعر است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "خواندن همراه با شرح معتبر می‌تواند به فهم اشاره‌های فرهنگی و تاریخی کمک کند.",
+    "topics": [
+      "اخلاق",
+      "عدالت"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 153,
+    "slug": "book-153",
+    "title": "هشت کتاب",
+    "image": "concept-art/book-153.webp",
+    "description": "مجموعه آثار شعری سهراب سپهری که طبیعت، سکوت و تجربه درونی در آن جایگاه مهمی دارند. زبان شاعر از تصویرهای ساده به تأمل‌های فلسفی می‌رسد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "واژه‌ها و تصویرهای ادبی را در بافت بیت‌ها یا روایت بخوانید؛ برداشت‌های متفاوت ممکن‌اند.",
+    "topics": [
+      "طبیعت",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 154,
+    "slug": "book-154",
+    "title": "تولدی دیگر",
+    "image": "concept-art/book-154.webp",
+    "description": "مجموعه‌ای مهم از شعرهای فروغ فرخزاد که تجربه فردی، عشق، تنهایی و دگرگونی را با زبانی تازه بیان می‌کند. از آثار شاخص شعر معاصر فارسی است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "در کنار معنا، به آهنگ زبان و شیوه تصویرسازی نویسنده نیز توجه کنید.",
+    "topics": [
+      "عشق",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "mountain",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 155,
+    "slug": "book-155",
+    "title": "هوای تازه",
+    "image": "concept-art/book-155.webp",
+    "description": "مجموعه شعرهای احمد شاملو با زبان و بیان معاصر و توجه به تجربه انسانی و اجتماعی است. تصاویر شاعرانه و لحن ویژه شاعر در آن برجسته‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "خواندن همراه با شرح معتبر می‌تواند به فهم اشاره‌های فرهنگی و تاریخی کمک کند.",
+    "topics": [
+      "انسان",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 156,
+    "slug": "book-156",
+    "title": "زمستان",
+    "image": "concept-art/book-156.webp",
+    "description": "مجموعه‌ای از شعرهای مهدی اخوان ثالث با فضایی نمادین و اجتماعی است. زبان حماسی و تلخِ برخی شعرها شناخته‌شده است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "واژه‌ها و تصویرهای ادبی را در بافت بیت‌ها یا روایت بخوانید؛ برداشت‌های متفاوت ممکن‌اند.",
+    "topics": [
+      "دین",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "candle",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 157,
+    "slug": "book-157",
+    "title": "گزینه اشعار قیصر امین‌پور",
+    "image": "concept-art/book-157.webp",
+    "description": "گزیده‌ای از شعرهای قیصر امین‌پور با زبان صمیمی و توجه به عشق، انسان و تجربه‌های اجتماعی. انتخاب دقیق شعرها بسته به چاپ متفاوت است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "در کنار معنا، به آهنگ زبان و شیوه تصویرسازی نویسنده نیز توجه کنید.",
+    "topics": [
+      "عشق",
+      "انسان"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 158,
+    "slug": "book-158",
+    "title": "یکی بود یکی نبود",
+    "image": "concept-art/book-158.webp",
+    "description": "مجموعه داستان‌های کوتاه محمدعلی جمال‌زاده که از آثار اثرگذار نثر داستانی معاصر فارسی است. طنز و مشاهده زندگی اجتماعی در آن نقش پررنگ دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "خواندن همراه با شرح معتبر می‌تواند به فهم اشاره‌های فرهنگی و تاریخی کمک کند.",
+    "topics": [
+      "زندگی",
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 159,
+    "slug": "book-159",
+    "title": "مدیر مدرسه",
+    "image": "concept-art/book-159.webp",
+    "description": "رمانی کوتاه از جلال آل‌احمد که تجربه مدیرشدن را دستمایه نقد مناسبات آموزشی و اداری می‌کند. لحن طنزآمیز و انتقادی در روایت دیده می‌شود.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "واژه‌ها و تصویرهای ادبی را در بافت بیت‌ها یا روایت بخوانید؛ برداشت‌های متفاوت ممکن‌اند.",
+    "topics": [
+      "زبان",
+      "ادبیات"
+    ],
+    "visual_motif": "candle",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 160,
+    "slug": "book-160",
+    "title": "کلیدر",
+    "image": "concept-art/book-160.webp",
+    "description": "رمانی بلند از محمود دولت‌آبادی با محور زندگی خانواده‌ای روستایی در خراسان. سرنوشت شخصیت‌ها با روابط اجتماعی و تحولات تاریخی منطقه گره می‌خورد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "در کنار معنا، به آهنگ زبان و شیوه تصویرسازی نویسنده نیز توجه کنید.",
+    "topics": [
+      "خانواده",
+      "تاریخ",
+      "زندگی"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 161,
+    "slug": "book-161",
+    "title": "تاریخچه زمان",
+    "image": "concept-art/book-161.webp",
+    "description": "استیون هاوکینگ مفاهیم کیهان‌شناسی مانند فضا، زمان، سیاه‌چاله و آغاز جهان را برای مخاطب عمومی توضیح می‌دهد. کتاب به پرسش‌های بنیادین فیزیک می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "تعریف‌های پایه مانند فضا، زمان و سیاه‌چاله را با دقت بخوانید و تغییرهای دانش امروز را در نظر بگیرید.",
+    "topics": [
+      "زمان",
+      "جهان",
+      "دین"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 162,
+    "slug": "book-162",
+    "title": "طرح بزرگ",
+    "image": "concept-art/book-162.webp",
+    "description": "کتابی درباره قوانین طبیعت، نظریه‌های فیزیک و پرسش پیدایش جهان است. نویسندگان از زاویه علم به موضوع‌هایی با سابقه فلسفی نگاه می‌کنند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "ادعاهای علمی را با تاریخ انتشار و یافته‌های جدیدتر بسنجید.",
+    "topics": [
+      "علم",
+      "جهان",
+      "طبیعت"
+    ],
+    "visual_motif": "atom",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 163,
+    "slug": "book-163",
+    "title": "جهان در پوست گردو",
+    "image": "concept-art/book-163.webp",
+    "description": "مجموعه‌ای از توضیح‌های عمومی هاوکینگ درباره فیزیک نوین، فضا و زمان و نظریه‌های کیهان‌شناختی. برخی مباحث با تصویر و مثال طرح می‌شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم کلیدی را قدم‌به‌قدم دنبال کنید و برای جزئیات فنی از منبع به‌روز استفاده کنید.",
+    "topics": [
+      "زمان",
+      "دانش",
+      "پژوهش"
+    ],
+    "visual_motif": "atom",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 164,
+    "slug": "book-164",
+    "title": "پاسخ‌های کوتاه به پرسش‌های بزرگ",
+    "image": "concept-art/book-164.webp",
+    "description": "استیون هاوکینگ درباره پرسش‌هایی از آینده بشر تا فناوری و کیهان تأمل می‌کند. کتاب دیدگاه‌های یک دانشمند را برای مخاطب عمومی گرد آورده است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پس از هر بخش، تعریف‌ها و مثال‌های اصلی را با زبان خودتان بازنویسی کنید.",
+    "topics": [
+      "فناوری",
+      "دانش",
+      "پژوهش"
+    ],
+    "visual_motif": "planet",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 165,
+    "slug": "book-165",
+    "title": "کیهان",
+    "image": "concept-art/book-165.webp",
+    "description": "کارل سیگن در سفری علمی و تاریخی، جهان هستی و مسیر شناخت انسان از آن را معرفی می‌کند. کنجکاوی، روش علمی و جایگاه ما در کیهان مضمون‌های اصلی‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "ادعاهای علمی را با تاریخ انتشار و یافته‌های جدیدتر بسنجید.",
+    "topics": [
+      "تاریخ",
+      "علم",
+      "سفر"
+    ],
+    "visual_motif": "circuit",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 166,
+    "slug": "book-166",
+    "title": "جهان‌های موازی",
+    "image": "concept-art/book-166.webp",
+    "description": "میشیو کاکو نظریه‌های کیهان‌شناسی و سناریوهای چندجهانی را برای مخاطب عمومی توضیح می‌دهد. بخشی از مباحث در سطح فرضیه و مدل علمی قرار دارند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم کلیدی را قدم‌به‌قدم دنبال کنید و برای جزئیات فنی از منبع به‌روز استفاده کنید.",
+    "topics": [
+      "علم",
+      "جهان"
+    ],
+    "visual_motif": "circuit",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 167,
+    "slug": "book-167",
+    "title": "فیزیک ناممکن‌ها",
+    "image": "concept-art/book-167.webp",
+    "description": "ایده‌های مشهور داستان‌های علمی‌تخیلی با قوانین شناخته‌شده فیزیک سنجیده می‌شوند. کتاب مرز فناوری ممکن، دشوار و فرضی را بررسی می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پس از هر بخش، تعریف‌ها و مثال‌های اصلی را با زبان خودتان بازنویسی کنید.",
+    "topics": [
+      "علم",
+      "فناوری"
+    ],
+    "visual_motif": "atom",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 168,
+    "slug": "book-168",
+    "title": "آینده ذهن",
+    "image": "concept-art/book-168.webp",
+    "description": "میشیو کاکو پژوهش‌های مغز و فناوری‌های مرتبط با ذهن را همراه با پیش‌بینی‌هایی درباره آینده مرور می‌کند. سناریوهای آینده باید از یافته‌های تثبیت‌شده جدا شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "ادعاهای علمی را با تاریخ انتشار و یافته‌های جدیدتر بسنجید.",
+    "topics": [
+      "مغز",
+      "ذهن",
+      "فناوری"
+    ],
+    "visual_motif": "brain",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 169,
+    "slug": "book-169",
+    "title": "ژن خودخواه",
+    "image": "concept-art/book-169.webp",
+    "description": "ریچارد داوکینز تکامل را با تمرکز بر نقش ژن‌ها در انتخاب طبیعی توضیح می‌دهد. کتاب با مثال‌های زیست‌شناسی به رفتار و همکاری جانداران می‌پردازد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم کلیدی را قدم‌به‌قدم دنبال کنید و برای جزئیات فنی از منبع به‌روز استفاده کنید.",
+    "topics": [
+      "دانش",
+      "پژوهش"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 170,
+    "slug": "book-170",
+    "title": "منشأ انواع",
+    "image": "concept-art/book-170.webp",
+    "description": "چارلز داروین استدلال‌های تاریخی خود درباره تغییر گونه‌ها و انتخاب طبیعی را ارائه می‌کند. اثری بنیادین در تاریخ زیست‌شناسی تکاملی است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پس از هر بخش، تعریف‌ها و مثال‌های اصلی را با زبان خودتان بازنویسی کنید.",
+    "topics": [
+      "تاریخ",
+      "تغییر",
+      "دین"
+    ],
+    "visual_motif": "leaf",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 171,
+    "slug": "book-171",
+    "title": "حیات چیست؟",
+    "image": "concept-art/book-171.webp",
+    "description": "کتابی در مرز فیزیک و زیست‌شناسی درباره ماهیت موجود زنده و امکان توضیح نظم زیستی. اثر از دیدگاه تاریخ اندیشه علمی اهمیت دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "ادعاهای علمی را با تاریخ انتشار و یافته‌های جدیدتر بسنجید.",
+    "topics": [
+      "تاریخ",
+      "علم"
+    ],
+    "visual_motif": "leaf",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 172,
+    "slug": "book-172",
+    "title": "شش قطعه آسان",
+    "image": "concept-art/book-172.webp",
+    "description": "مجموعه‌ای از درس‌گفتارهای ریچارد فاینمن برای معرفی مفاهیم اصلی فیزیک است. کتاب با بیان روشن، نگاه علمی و پرسشگری را تقویت می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم کلیدی را قدم‌به‌قدم دنبال کنید و برای جزئیات فنی از منبع به‌روز استفاده کنید.",
+    "topics": [
+      "علم",
+      "دانش",
+      "پژوهش"
+    ],
+    "visual_motif": "atom",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 173,
+    "slug": "book-173",
+    "title": "ساختار انقلاب‌های علمی",
+    "image": "concept-art/book-173.webp",
+    "description": "توماس کوهن تغییر نظریه‌های علمی را با مفهوم پارادایم و انقلاب علمی بررسی می‌کند. اثری اثرگذار در فلسفه و تاریخ علم است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پس از هر بخش، تعریف‌ها و مثال‌های اصلی را با زبان خودتان بازنویسی کنید.",
+    "topics": [
+      "تاریخ",
+      "علم",
+      "فلسفه"
+    ],
+    "visual_motif": "columns",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 174,
+    "slug": "book-174",
+    "title": "تفکر سریع و کند",
+    "image": "concept-art/book-174.webp",
+    "description": "دنیل کانمن دو شیوه کلی تفکر سریع و کند را برای توضیح قضاوت و تصمیم‌گیری معرفی می‌کند. سوگیری‌ها و خطاهای شناختی محور مباحث‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "ادعاهای علمی را با تاریخ انتشار و یافته‌های جدیدتر بسنجید.",
+    "topics": [
+      "تصمیم‌گیری",
+      "دانش",
+      "پژوهش"
+    ],
+    "visual_motif": "brain",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 175,
+    "slug": "book-175",
+    "title": "نویز",
+    "image": "concept-art/book-175.webp",
+    "description": "نویسندگان به تفاوت‌های ناموجه در قضاوت‌های انسانی حتی در شرایط مشابه می‌پردازند. کتاب راه‌هایی برای کاهش پراکندگی تصمیم‌ها در سازمان‌ها معرفی می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم کلیدی را قدم‌به‌قدم دنبال کنید و برای جزئیات فنی از منبع به‌روز استفاده کنید.",
+    "topics": [
+      "زمان",
+      "تصمیم‌گیری",
+      "انسان"
+    ],
+    "visual_motif": "atom",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 176,
+    "slug": "book-176",
+    "title": "واقعیت",
+    "image": "concept-art/book-176.webp",
+    "description": "هانس روسلینگ با داده‌ها و نمودارها برخی برداشت‌های نادرست از وضعیت جهان را نقد می‌کند. کتاب بر ضرورت نگاه آماری و سنجش شواهد تأکید دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پس از هر بخش، تعریف‌ها و مثال‌های اصلی را با زبان خودتان بازنویسی کنید.",
+    "topics": [
+      "جهان",
+      "دانش",
+      "پژوهش"
+    ],
+    "visual_motif": "circuit",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 177,
+    "slug": "book-177",
+    "title": "مغز داستان شما",
+    "image": "concept-art/book-177.webp",
+    "description": "دیوید ایگلمن درباره شیوه کار مغز، ادراک، تصمیم و تجربه آگاهانه توضیح می‌دهد. مثال‌ها و پژوهش‌های علوم اعصاب به زبان ساده بیان شده‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "ادعاهای علمی را با تاریخ انتشار و یافته‌های جدیدتر بسنجید.",
+    "topics": [
+      "مغز",
+      "تصمیم‌گیری"
+    ],
+    "visual_motif": "circuit",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 178,
+    "slug": "book-178",
+    "title": "زندگی پنهان درختان",
+    "image": "concept-art/book-178.webp",
+    "description": "نویسنده از ارتباط‌ها و سازوکارهای زیستی درختان و جنگل‌ها می‌گوید. برخی تعبیرهای انسان‌وار کتاب نیازمند خواندن انتقادی‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "مفاهیم کلیدی را قدم‌به‌قدم دنبال کنید و برای جزئیات فنی از منبع به‌روز استفاده کنید.",
+    "topics": [
+      "جنگ",
+      "انسان"
+    ],
+    "visual_motif": "tree",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 179,
+    "slug": "book-179",
+    "title": "بدن راهنمای ساکنان",
+    "image": "concept-art/book-179.webp",
+    "description": "مروری عمومی بر اندام‌ها و کارکردهای بدن انسان، همراه با داستان‌های علمی و تاریخی است. کتاب برای شناخت بدن نوشته شده، نه راهنمای تشخیص یا درمان.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توانید پس از هر بخش، تعریف‌ها و مثال‌های اصلی را با زبان خودتان بازنویسی کنید.",
+    "topics": [
+      "تاریخ",
+      "علم",
+      "انسان"
+    ],
+    "visual_motif": "compass",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 180,
+    "slug": "book-180",
+    "title": "هفت درس کوتاه درباره فیزیک",
+    "image": "concept-art/book-180.webp",
+    "description": "هفت جستار کوتاه درباره ایده‌های فیزیک جدید، از نسبیت تا ساختار جهان. متن شاعرانه و فشرده برای آشنایی اولیه با مفاهیم تنظیم شده است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "ادعاهای علمی را با تاریخ انتشار و یافته‌های جدیدتر بسنجید.",
+    "topics": [
+      "جهان",
+      "دانش",
+      "پژوهش"
+    ],
+    "visual_motif": "atom",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 181,
+    "slug": "book-181",
+    "title": "آیین دوست‌یابی",
+    "image": "concept-art/book-181.webp",
+    "description": "دیل کارنگی با مثال‌هایی از زندگی و کار، پیشنهادهایی برای ارتباط مؤثر و رفتار محترمانه با دیگران ارائه می‌کند. گوش‌دادن و توجه به مخاطب از محورهای کتاب‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان نکته‌های کاربردی را به چند اقدام کوچک و قابل‌سنجش تبدیل کرد.",
+    "topics": [
+      "زندگی",
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 182,
+    "slug": "book-182",
+    "title": "آیین سخنرانی",
+    "image": "concept-art/book-182.webp",
+    "description": "کتابی آموزشی درباره آماده‌شدن برای سخنرانی، ساختار پیام و کاهش اضطراب اجراست. راهکارها بر تمرین و ارتباط با شنونده تأکید دارند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "قبل از اجرای هر توصیه، به محدودیت‌ها و تفاوت شرایط افراد توجه کنید.",
+    "topics": [
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "clock",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 183,
+    "slug": "book-183",
+    "title": "هرگز سازش نکنید",
+    "image": "concept-art/book-183.webp",
+    "description": "کریس واس در قالب تجربه‌های مذاکره، روش‌هایی برای پرسیدن، شنیدن و مدیریت موقعیت‌های پرتنش توضیح می‌دهد. کاربرد روش‌ها به زمینه و اخلاق حرفه‌ای وابسته است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پیشنهادها را متناسب با شرایط خود ارزیابی کنید؛ این معرفی جایگزین نظر متخصص نیست.",
+    "topics": [
+      "اخلاق",
+      "زمین"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 184,
+    "slug": "book-184",
+    "title": "چگونه با هر کسی صحبت کنیم",
+    "image": "concept-art/book-184.webp",
+    "description": "مجموعه‌ای از تکنیک‌های ارتباطی برای آغاز گفتگو، زبان بدن و حضور در جمع است. کتاب بر مهارت‌های قابل تمرین در رابطه‌های روزمره تمرکز دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان نکته‌های کاربردی را به چند اقدام کوچک و قابل‌سنجش تبدیل کرد.",
+    "topics": [
+      "رابطه‌ها",
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "home",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 185,
+    "slug": "book-185",
+    "title": "زبان بدن",
+    "image": "concept-art/book-185.webp",
+    "description": "کتابی درباره نشانه‌های غیرکلامی در ارتباط‌ها و برداشت‌های ممکن از ژست‌هاست. تعبیر حرکات بدن همیشه قطعی و مستقل از فرهنگ و موقعیت نیست.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "قبل از اجرای هر توصیه، به محدودیت‌ها و تفاوت شرایط افراد توجه کنید.",
+    "topics": [
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 186,
+    "slug": "book-186",
+    "title": "پنج زبان عشق",
+    "image": "concept-art/book-186.webp",
+    "description": "نویسنده پنج شیوه رایج ابراز محبت را برای گفتگو درباره نیازهای عاطفی پیشنهاد می‌کند. مدل، چارچوبی عامه‌پسند است و قانون علمی قطعی محسوب نمی‌شود.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پیشنهادها را متناسب با شرایط خود ارزیابی کنید؛ این معرفی جایگزین نظر متخصص نیست.",
+    "topics": [
+      "علم",
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 187,
+    "slug": "book-187",
+    "title": "مردان مریخی زنان ونوسی",
+    "image": "concept-art/book-187.webp",
+    "description": "کتابی عامه‌پسند درباره تفاوت‌های احتمالی سبک ارتباطی در روابط عاطفی است. تعمیم‌های جنسیتی آن را باید با نگاه انتقادی خواند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان نکته‌های کاربردی را به چند اقدام کوچک و قابل‌سنجش تبدیل کرد.",
+    "topics": [
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 188,
+    "slug": "book-188",
+    "title": "محکم در آغوشم بگیر",
+    "image": "concept-art/book-188.webp",
+    "description": "سو جانسون با رویکرد درمان هیجان‌مدار درباره پیوند عاطفی و گفت‌وگوهای زوج‌ها می‌نویسد. کتاب برای شناخت الگوهای ارتباطی طراحی شده است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "قبل از اجرای هر توصیه، به محدودیت‌ها و تفاوت شرایط افراد توجه کنید.",
+    "topics": [
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 189,
+    "slug": "book-189",
+    "title": "هوش هیجانی",
+    "image": "concept-art/book-189.webp",
+    "description": "دنیل گلمن با روایت‌هایی درباره نقش شناخت احساسات و تنظیم هیجان در زندگی صحبت می‌کند. مفاهیم مطرح‌شده به حوزه روان‌شناسی کاربردی مربوط‌اند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پیشنهادها را متناسب با شرایط خود ارزیابی کنید؛ این معرفی جایگزین نظر متخصص نیست.",
+    "topics": [
+      "روان‌شناسی",
+      "زندگی"
+    ],
+    "visual_motif": "circuit",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 190,
+    "slug": "book-190",
+    "title": "هوش اجتماعی",
+    "image": "concept-art/book-190.webp",
+    "description": "کتاب روابط انسانی، همدلی و اثر تعامل‌های روزمره بر رفتار را بررسی می‌کند. نویسنده از پژوهش‌های روان‌شناسی و علوم اعصاب مثال می‌آورد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان نکته‌های کاربردی را به چند اقدام کوچک و قابل‌سنجش تبدیل کرد.",
+    "topics": [
+      "روان‌شناسی",
+      "انسان"
+    ],
+    "visual_motif": "circuit",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 191,
+    "slug": "book-191",
+    "title": "فرزندپروری باکفایت",
+    "image": "concept-art/book-191.webp",
+    "description": "راهنمایی در حوزه تربیت کودک با تأکید بر رابطه والد و فرزند، مرزبندی و توجه به نیازهای رشدی. روش‌ها باید متناسب با شرایط هر خانواده ارزیابی شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "قبل از اجرای هر توصیه، به محدودیت‌ها و تفاوت شرایط افراد توجه کنید.",
+    "topics": [
+      "خانواده",
+      "کودکی",
+      "رابطه‌ها"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 192,
+    "slug": "book-192",
+    "title": "کودک خانواده انسان",
+    "image": "concept-art/book-192.webp",
+    "description": "کتابی درباره نگاه انسانی و ارتباطی به کودک و محیط خانواده است. عنوان نیازمند تطبیق دقیق با چاپ و نویسنده برای معرفی تخصصی‌تر است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پیشنهادها را متناسب با شرایط خود ارزیابی کنید؛ این معرفی جایگزین نظر متخصص نیست.",
+    "topics": [
+      "خانواده",
+      "کودکی",
+      "انسان"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 193,
+    "slug": "book-193",
+    "title": "مغز کودک من",
+    "image": "concept-art/book-193.webp",
+    "description": "متنی عمومی درباره رشد مغز کودک و اهمیت تجربه‌های اولیه و ارتباط با والدین. جزئیات چاپ و نویسنده باید پیش از ثبت معرفی تخصصی تطبیق داده شوند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان نکته‌های کاربردی را به چند اقدام کوچک و قابل‌سنجش تبدیل کرد.",
+    "topics": [
+      "کودکی",
+      "مغز",
+      "دین"
+    ],
+    "visual_motif": "kite",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 194,
+    "slug": "book-194",
+    "title": "تربیت بدون فریاد",
+    "image": "concept-art/book-194.webp",
+    "description": "کتابی درباره کنترل واکنش والدین و برخورد آرام‌تر در موقعیت‌های دشوار تربیتی. بر مسئولیت بزرگسال در تنظیم هیجان تأکید می‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "قبل از اجرای هر توصیه، به محدودیت‌ها و تفاوت شرایط افراد توجه کنید.",
+    "topics": [
+      "مسئولیت",
+      "دین"
+    ],
+    "visual_motif": "tree",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 195,
+    "slug": "book-195",
+    "title": "هنر شفاف اندیشیدن",
+    "image": "concept-art/book-195.webp",
+    "description": "مجموعه‌ای از خطاهای رایج شناختی و تصمیم‌گیری با مثال‌های کوتاه. کتاب به خواننده کمک می‌کند درباره قضاوت‌های سریع خود پرسش کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پیشنهادها را متناسب با شرایط خود ارزیابی کنید؛ این معرفی جایگزین نظر متخصص نیست.",
+    "topics": [
+      "تصمیم‌گیری",
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "tree",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 196,
+    "slug": "book-196",
+    "title": "هنر خوب زندگی کردن",
+    "image": "concept-art/book-196.webp",
+    "description": "یادداشت‌هایی کوتاه درباره انتخاب، آرامش و بهبود زندگی با رجوع به روان‌شناسی و فلسفه. کتاب نسخه قطعی واحدی برای خوشبختی ارائه نمی‌کند.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان نکته‌های کاربردی را به چند اقدام کوچک و قابل‌سنجش تبدیل کرد.",
+    "topics": [
+      "فلسفه",
+      "روان‌شناسی",
+      "زندگی"
+    ],
+    "visual_motif": "person",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 197,
+    "slug": "book-197",
+    "title": "اصل‌گرایی",
+    "image": "concept-art/book-197.webp",
+    "description": "گرگ مک‌کیون بر انتخاب تعداد کمی از کارهای مهم و نه‌گفتن به فعالیت‌های کم‌ارزش تأکید می‌کند. هدف، تمرکز بهتر بر اولویت‌هاست.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "قبل از اجرای هر توصیه، به محدودیت‌ها و تفاوت شرایط افراد توجه کنید.",
+    "topics": [
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "book",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 198,
+    "slug": "book-198",
+    "title": "چهار هزار هفته",
+    "image": "concept-art/book-198.webp",
+    "description": "اولیور برکمن با یادآوری محدودبودن عمر، نگاه رایج به بهره‌وری را نقد می‌کند. کتاب درباره پذیرش محدودیت زمان و تصمیم‌گیری آگاهانه است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "پیشنهادها را متناسب با شرایط خود ارزیابی کنید؛ این معرفی جایگزین نظر متخصص نیست.",
+    "topics": [
+      "زمان",
+      "تصمیم‌گیری"
+    ],
+    "visual_motif": "sunrise",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 199,
+    "slug": "book-199",
+    "title": "مینیمالیسم دیجیتال",
+    "image": "concept-art/book-199.webp",
+    "description": "کال نیوپورت راهی برای استفاده سنجیده‌تر از فناوری و شبکه‌های اجتماعی پیشنهاد می‌کند. کتاب بر هماهنگی ابزارهای دیجیتال با ارزش‌های شخصی تأکید دارد.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "می‌توان نکته‌های کاربردی را به چند اقدام کوچک و قابل‌سنجش تبدیل کرد.",
+    "topics": [
+      "فناوری",
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "quill",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  },
+  {
+    "id": 200,
+    "slug": "book-200",
+    "title": "یک چیز",
+    "image": "concept-art/book-200.webp",
+    "description": "کتاب پیشنهاد می‌کند در هر مقطع روی مهم‌ترین اقدام اثرگذار تمرکز شود. هدف آن کاهش پراکندگی توجه و روشن‌کردن اولویت کاری و فردی است.",
+    "status": "generated_concept_not_publisher_cover",
+    "text_status": "draft_editorial_intro_not_source_verified",
+    "reader_note": "قبل از اجرای هر توصیه، به محدودیت‌ها و تفاوت شرایط افراد توجه کنید.",
+    "topics": [
+      "مهارت",
+      "زندگی روزمره"
+    ],
+    "visual_motif": "flower",
+    "reading_time_label": "معرفی کوتاه · نگاه اولیه",
+    "editorial_status": "draft_requires_human_review"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "id": 175,
+  "title": "نویز",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"نویز\" by \"\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "e4def36bbc8d3a2201a05091faf3c910d6b54b06830a59e4917183b7575cc646",
+  "thumbnail_sha256": "ae58b01ca8c7c90b6827ada0791982510278e84bcbefcc5e88d9358783944e2e",
+  "image": "public/concept-art/book-175.webp",
+  "thumbnail": "public/concept-thumb/book-175.webp"
+}

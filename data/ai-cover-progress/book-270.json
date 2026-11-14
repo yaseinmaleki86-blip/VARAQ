@@ -1,0 +1,11 @@
+{
+  "id": 270,
+  "title": "The Girl on the Train",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Girl on the Train\" by Paula Hawkins. Scene: train window looking onto suburban English gardens and houses, blurred rain, cinematic mystery. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "bc5c9e831b1a3d5317eb9e4ebb114c8d0edf3631b9a82e1d459d6a866c2b7875",
+  "thumbnail_sha256": "e0d4395d0f9ff16407566825353716654bf24e3ed5c5c367e72e045e4813a312",
+  "image": "public/concept-art/book-270.webp",
+  "thumbnail": "public/concept-thumb/book-270.webp"
+}

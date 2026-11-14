@@ -1,0 +1,11 @@
+{
+  "id": 35,
+  "title": "قهوه سرد آقای نویسنده",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"قهوه سرد آقای نویسنده\", author \"\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "38e5a5d5040f3c9721e8999fa716dd0766708ecc8638785ca17b68263b245b80",
+  "thumbnail_sha256": "b98edbb7df246e9a748d2011591f43330349195a2396081a94d7ed0d28330935",
+  "image": "public/concept-art/book-035.webp",
+  "thumbnail": "public/concept-thumb/book-035.webp"
+}

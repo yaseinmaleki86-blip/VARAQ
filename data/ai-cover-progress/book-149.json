@@ -1,0 +1,11 @@
+{
+  "id": 149,
+  "title": "هفت پیکر",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هفت پیکر\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "84eda50884b779835fdecf84e75d2a66afe681f2e606d011aa5e022e53fa3909",
+  "thumbnail_sha256": "dca5db2ef17d35027997f15e7e20f3572dafaf208e35b8c76984796cc33d5edd",
+  "image": "public/concept-art/book-149.webp",
+  "thumbnail": "public/concept-thumb/book-149.webp"
+}

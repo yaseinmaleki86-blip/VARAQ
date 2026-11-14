@@ -1,0 +1,11 @@
+{
+  "id": 296,
+  "title": "The Art of Seduction",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Art of Seduction\" by Robert Greene. Scene: a Venetian carnival mask on deep red velvet beside a rose and antique mirror, elegant psychological symbolism. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "b3a0bc20788cad2a716e5929e2a2c7a2ede183c5a342e41333bbeb36f8440dca",
+  "thumbnail_sha256": "040245bfe1b74064f85ec048cef5fb89affb84f965ca868c1859cc93a708b65f",
+  "image": "public/concept-art/book-296.webp",
+  "thumbnail": "public/concept-thumb/book-296.webp"
+}

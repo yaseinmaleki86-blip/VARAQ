@@ -1,0 +1,11 @@
+{
+  "id": 76,
+  "title": "کفش‌باز",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"کفش‌باز\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7a9ab9a4a1a474af96e10fc5b9fe45cad46219ed0e40ad8f7102152ed9c08dac",
+  "thumbnail_sha256": "7b74ab73945eeddfc77f8ca308e957911d4862995c93e0eb666f24ff3f6ca3dd",
+  "image": "public/concept-art/book-076.webp",
+  "thumbnail": "public/concept-thumb/book-076.webp"
+}

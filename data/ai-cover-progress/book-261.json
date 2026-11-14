@@ -1,0 +1,11 @@
+{
+  "id": 261,
+  "title": "Astrophysics for People in a Hurry",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Astrophysics for People in a Hurry\" by Neil deGrasse Tyson. Scene: sweeping cosmic landscape, distant spiral galaxies and planetary nebulae, clear vibrant scientific wonder. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "e0955dadcfb2b5b8e79e3f1b07d7b418271c2b2282fbaa671a128ceeb3b63e46",
+  "thumbnail_sha256": "32e2b44cb722d3bfb50042a7c534bb56f2646be8a41e75ae2533d16fa2d8e842",
+  "image": "public/concept-art/book-261.webp",
+  "thumbnail": "public/concept-thumb/book-261.webp"
+}

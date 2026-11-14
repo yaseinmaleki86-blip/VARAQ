@@ -1,0 +1,11 @@
+{
+  "id": 224,
+  "title": "Beartown",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Beartown\" by \"Fredrik Backman\" (رمان معاصر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "66656a38ca0f435f2c2949879e5af9de1e7d6d6b2b17d8827bab70c170cc0fae",
+  "thumbnail_sha256": "4d95229ed017e33be4708e5c2ea045d56e79897b28867d26389f2553acec23d3",
+  "image": "public/concept-art/book-224.webp",
+  "thumbnail": "public/concept-thumb/book-224.webp"
+}

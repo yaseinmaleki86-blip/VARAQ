@@ -1,0 +1,11 @@
+{
+  "id": 279,
+  "title": "The Handmaid’s Tale",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Handmaid’s Tale\" by Margaret Atwood. Scene: an empty red cloak hanging beside a white bonnet in a walled garden, cool dystopian atmosphere. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "69c0b02c2ba5ca49a423973cb39eb1f2079fab901440b54162c4e4e280dfbea8",
+  "thumbnail_sha256": "15c14a65460b347b327dfd811b299a18d7bf78c9b11269296feb908eba8364c6",
+  "image": "public/concept-art/book-279.webp",
+  "thumbnail": "public/concept-thumb/book-279.webp"
+}

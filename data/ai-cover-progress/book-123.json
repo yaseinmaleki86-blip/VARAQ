@@ -1,0 +1,11 @@
+{
+  "id": 123,
+  "title": "هری پاتر و زندانی آزکابان",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هری پاتر و زندانی آزکابان\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "652006f17170864d0142b74d8a5496c146f1d1f44490ac4c480f50ae436e78dc",
+  "thumbnail_sha256": "c3112cd0771257bf48eda76569547cf012bc769002238e997c9e15c9913333ec",
+  "image": "public/concept-art/book-123.webp",
+  "thumbnail": "public/concept-thumb/book-123.webp"
+}

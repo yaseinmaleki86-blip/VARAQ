@@ -1,0 +1,15 @@
+{
+  "release": "VARAQ 9.8.1 Private Tailscale Serve Addon",
+  "base_archive_sha256": "0e01d77674ee3dd5c860491f58600fc63f28c0f87aa8cb4f39f9be11f4bc482c",
+  "base_files": 2448,
+  "files": {
+    "varaq/tools/tailscale-serve.ps1": "1d40971be673f4134f9f3d0f8f2a7232ae8a2b497d9cabeb42d30c365ce9c2a8",
+    "varaq/TAILSCALE_CONNECT_WINDOWS.bat": "14bbe351f6ffae2d4e79ed63ba82e8205c15e8299f8378f24a96cc95c6b70ac0",
+    "varaq/TAILSCALE_DISCONNECT_WINDOWS.bat": "f0a3484082eca72dbb3c3b0d93d1f08a59176cab683be7ee52b2be64ae0051ab",
+    "varaq/TAILSCALE_STATUS_WINDOWS.bat": "073cf7854340ac2e25d83dee08aeba66dca08938a451a67c92acbee6cb7de845",
+    "varaq/TAILSCALE_INSTALL_WINDOWS.bat": "46e04631f3c90194fce816b73ca3ac064ed766d9f3b4a189bf28f35d041b5ba7",
+    "varaq/START_WITH_TAILSCALE_WINDOWS.bat": "960218121a645ffd41fddd50019360f5b2c025cbc44eb99d4590b9a6787379d3",
+    "varaq/STOP_WITH_TAILSCALE_WINDOWS.bat": "f3a42a98dcd96039099268fb37e2232730374e2abe64c7f04e2dab331a14e3f4",
+    "varaq/docs/TAILSCALE_GUIDE_FA.md": "e40c03954897260b2418cf776d62651bc5521cea42452ac2687a583dc6cd1cc6"
+  }
+}

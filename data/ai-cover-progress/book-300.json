@@ -1,0 +1,11 @@
+{
+  "id": 300,
+  "title": "Half of a Yellow Sun",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Half of a Yellow Sun\" by Chimamanda Ngozi Adichie. Scene: 1960s Nigerian courtyard, folded bright fabric and a warm half-yellow rising sun, family and memory without battle. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "af068b2857379eb75eaec2edc64683f5f2ba590a9a1c2a52f4c73862ed43e297",
+  "thumbnail_sha256": "7ccabd8c11492efa874651f868cee084f735415f442b82c25478dd1acb5366ca",
+  "image": "public/concept-art/book-300.webp",
+  "thumbnail": "public/concept-thumb/book-300.webp"
+}

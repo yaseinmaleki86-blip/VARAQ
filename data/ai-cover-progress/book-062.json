@@ -1,0 +1,11 @@
+{
+  "id": 62,
+  "title": "روان‌شناسی پول",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"روان‌شناسی پول\", author \"مورگان هاوزل\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "654843d9ede7fe1a48acd08a074a86b7d357fb6c0fa8ea684b8d574de673ca8c",
+  "thumbnail_sha256": "e18b3632203845eec535407da138d50ec2ff154005f308aa04abb7f08cd8c7b8",
+  "image": "public/concept-art/book-062.webp",
+  "thumbnail": "public/concept-thumb/book-062.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 110,
+  "title": "جایی که وحشی‌ها هستند",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"جایی که وحشی‌ها هستند\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "8f9b1374ee8d0d62a2f302502e85eaa39976b1c2b670ff5677fa9b42bb39eabe",
+  "thumbnail_sha256": "7a8d66207041d66bcaf5a76b1fe699dcff7245a632dfa997ea6848f2716a35a8",
+  "image": "public/concept-art/book-110.webp",
+  "thumbnail": "public/concept-thumb/book-110.webp"
+}

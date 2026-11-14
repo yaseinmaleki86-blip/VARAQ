@@ -1,0 +1,11 @@
+{
+  "id": 256,
+  "title": "The Portrait of a Lady",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Portrait of a Lady\" by Henry James. Scene: Victorian drawing room with a travel trunk and half-open doorway toward a bright Italian terrace. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "2f71cf936e20a003137c769a899fae6f1e954d9e06b95e2d94e3b19c4632d7ef",
+  "thumbnail_sha256": "6d4745c2e469ecb7c72cfc446459172f72f5c190afbc0ef74234584868dcbfd8",
+  "image": "public/concept-art/book-256.webp",
+  "thumbnail": "public/concept-thumb/book-256.webp"
+}

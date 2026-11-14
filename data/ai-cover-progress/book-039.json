@@ -1,0 +1,11 @@
+{
+  "id": 39,
+  "title": "دالان بهشت",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"دالان بهشت\", author \"\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "4dbc47a137f6afe827e8285bd6819e8f722db64d3b7eea4c47832f9db8683b11",
+  "thumbnail_sha256": "63dc7ecc45e76f5f7804336355818964255899385eb77f6cc36537de3fa4d2ad",
+  "image": "public/concept-art/book-039.webp",
+  "thumbnail": "public/concept-thumb/book-039.webp"
+}

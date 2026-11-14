@@ -1,0 +1,11 @@
+{
+  "id": 106,
+  "title": "حسنی نگو یه دسته گل",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"حسنی نگو یه دسته گل\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "0c04e6a204b7ae58cb375c5b3ca1957a19aa5ccce8d8f5c83743e56dac6c2fcf",
+  "thumbnail_sha256": "94be04073f0ec69f888885180687b234eea42f8d5f46e8fa7fd02a265a8fb66d",
+  "image": "public/concept-art/book-106.webp",
+  "thumbnail": "public/concept-thumb/book-106.webp"
+}

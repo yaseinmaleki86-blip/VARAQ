@@ -1,0 +1,11 @@
+{
+  "id": 255,
+  "title": "The Fall",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Fall\" by Albert Camus. Scene: rainy Amsterdam canal at night, empty cafe chair, reflected lantern and curved stone bridge. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "71c91265cae2cdba9010998c752c0d0828b6d0c07318b623facae63c01a7b82f",
+  "thumbnail_sha256": "5b5abc55de7ee656dbfbf8ec2a7b9fd6eb1a612fb448ad97a0e395870abde4ca",
+  "image": "public/concept-art/book-255.webp",
+  "thumbnail": "public/concept-thumb/book-255.webp"
+}

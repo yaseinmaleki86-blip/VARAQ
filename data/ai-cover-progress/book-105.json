@@ -1,0 +1,11 @@
+{
+  "id": 105,
+  "title": "مهمان‌های ناخوانده",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"مهمان‌های ناخوانده\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "c1d4993af786293d06cc2a32239135cb4155dcc76b4028ed8dcf4892c2ba9b0b",
+  "thumbnail_sha256": "d668fa1afe3d1a53dba8303bb6d342d3a44916c32f0a30a2d55e5fb10475464e",
+  "image": "public/concept-art/book-105.webp",
+  "thumbnail": "public/concept-thumb/book-105.webp"
+}

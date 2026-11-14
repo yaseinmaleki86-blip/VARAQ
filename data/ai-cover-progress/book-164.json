@@ -1,0 +1,11 @@
+{
+  "id": 164,
+  "title": "پاسخ‌های کوتاه به پرسش‌های بزرگ",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"پاسخ‌های کوتاه به پرسش‌های بزرگ\" by \"\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "23f7f7d3f3fbc557b7b586d551c798c809b72ef54528fb9277f1f82fcc84ce81",
+  "thumbnail_sha256": "33d0160b52818cc3aa77b9a85100a7fe25b2fa43e172e59815e0af81712726a3",
+  "image": "public/concept-art/book-164.webp",
+  "thumbnail": "public/concept-thumb/book-164.webp"
+}

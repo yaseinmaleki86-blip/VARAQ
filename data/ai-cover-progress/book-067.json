@@ -1,0 +1,11 @@
+{
+  "id": 67,
+  "title": "صفر به یک",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"صفر به یک\", author \"پیتر تیل\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "301317ebed81f25748d922bad1c79240ebcd45e9e7fe78a4cb16ddc3e2d72864",
+  "thumbnail_sha256": "9c7292b1e740a02a17a555e298e2223c6a6cd1254e4a75c37b65205a6a073e6f",
+  "image": "public/concept-art/book-067.webp",
+  "thumbnail": "public/concept-thumb/book-067.webp"
+}

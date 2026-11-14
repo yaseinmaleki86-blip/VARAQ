@@ -1,0 +1,11 @@
+{
+  "id": 80,
+  "title": "مدیر یک دقیقه‌ای",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"مدیر یک دقیقه‌ای\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "3cf16f042a87c9dcdf233ce4743823e37a1a6eb10adab2d01a22b6882591a5cf",
+  "thumbnail_sha256": "6716369b4e9b330ec974b837d9e8780e4be7e32a6496bbf74f7131c57906535a",
+  "image": "public/concept-art/book-080.webp",
+  "thumbnail": "public/concept-thumb/book-080.webp"
+}

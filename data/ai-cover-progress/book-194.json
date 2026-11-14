@@ -1,0 +1,11 @@
+{
+  "id": 194,
+  "title": "تربیت بدون فریاد",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"تربیت بدون فریاد\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "eec3bd5fb5fcc7a42e86c35548d63d1b63ade71170d50cbf1056c1337c3ab178",
+  "thumbnail_sha256": "9aeba7ba4f5d4160f99d2c3af3f420dff0ce76a4b3c606b3c95f4f51f379240c",
+  "image": "public/concept-art/book-194.webp",
+  "thumbnail": "public/concept-thumb/book-194.webp"
+}

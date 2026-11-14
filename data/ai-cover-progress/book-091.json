@@ -1,0 +1,11 @@
+{
+  "id": 91,
+  "title": "تاریخ مختصر جهان",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"تاریخ مختصر جهان\". Author: \"\". Category: \"فلسفه و تاریخ\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7c14857806119df9de2cc43bb09a497db76c19562cded08df8a9e042e430032b",
+  "thumbnail_sha256": "ac12e55a51aa2956d81e18aa532c96fc6249debc2cd5f2b73d856f65aa474802",
+  "image": "public/concept-art/book-091.webp",
+  "thumbnail": "public/concept-thumb/book-091.webp"
+}

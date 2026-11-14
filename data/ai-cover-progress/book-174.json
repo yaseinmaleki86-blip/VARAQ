@@ -1,0 +1,11 @@
+{
+  "id": 174,
+  "title": "تفکر سریع و کند",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"تفکر سریع و کند\" by \"\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "2e9cb0697b4e3848d38f11cd65193655ca224604f824711fa274fb989316910a",
+  "thumbnail_sha256": "2b46791579ac236318e795b4d97c1c28ff9b797edbb0ef63d59b7f5d46b50e1c",
+  "image": "public/concept-art/book-174.webp",
+  "thumbnail": "public/concept-thumb/book-174.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 83,
+  "title": "چنین گفت زرتشت",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"چنین گفت زرتشت\", author \"\", category \"فلسفه و تاریخ\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5ed54aa09df7eb4a6a5513b354e61c090e5e2c812ee1140020b84e0aafd7f30a",
+  "thumbnail_sha256": "928419e6124ce2e63cf9de13b9be5045fc0f03d83c18fbf81deafc6074f279d0",
+  "image": "public/concept-art/book-083.webp",
+  "thumbnail": "public/concept-thumb/book-083.webp"
+}

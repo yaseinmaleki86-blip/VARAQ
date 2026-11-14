@@ -1,0 +1,11 @@
+{
+  "id": 63,
+  "title": "ثروتمندترین مرد بابل",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"ثروتمندترین مرد بابل\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "2896ad6574a300430b3577a17400f7b34971af7f4c75a77af882ac763bc00c03",
+  "thumbnail_sha256": "d120d4e38fc0aced4eb6f6c76c332df30ccb10c6af8f651fc51b568af6ffe825",
+  "image": "public/concept-art/book-063.webp",
+  "thumbnail": "public/concept-thumb/book-063.webp"
+}

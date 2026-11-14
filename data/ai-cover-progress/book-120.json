@@ -1,0 +1,11 @@
+{
+  "id": 120,
+  "title": "قصه‌های امیرعلی",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"قصه‌های امیرعلی\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "dec6a46b0abe980e346c2a4010275fcba4887345e75ef4c16e36313f0f804092",
+  "thumbnail_sha256": "7b3ab9d332dd423256cae5561df1d28b2212d3b36955dac01069c0a2c8221411",
+  "image": "public/concept-art/book-120.webp",
+  "thumbnail": "public/concept-thumb/book-120.webp"
+}

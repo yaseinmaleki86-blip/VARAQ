@@ -1,0 +1,11 @@
+{
+  "id": 138,
+  "title": "راهنمای مسافران مجانی کهکشان",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"راهنمای مسافران مجانی کهکشان\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "fd9f9a128bb7b5525398f40d0f236eb73f10ec4004561883be3577f11186db88",
+  "thumbnail_sha256": "d42d81e7571bc1dc0574af0bdaebd80795603b8cb593d0f3d1602e795cad5f4f",
+  "image": "public/concept-art/book-138.webp",
+  "thumbnail": "public/concept-thumb/book-138.webp"
+}

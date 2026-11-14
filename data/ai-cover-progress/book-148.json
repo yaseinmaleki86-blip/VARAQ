@@ -1,0 +1,11 @@
+{
+  "id": 148,
+  "title": "منطق‌الطیر",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"منطق‌الطیر\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7d372cc5c5bbb9ba51703e63d8f5fc5774fcba662da293dd8e501409ecb164c4",
+  "thumbnail_sha256": "4b272dbc2338382349ae64ff42b6c611980cd3d672b3f768aead1c48741be3ec",
+  "image": "public/concept-art/book-148.webp",
+  "thumbnail": "public/concept-thumb/book-148.webp"
+}

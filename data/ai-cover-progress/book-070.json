@@ -1,0 +1,11 @@
+{
+  "id": 70,
+  "title": "گاو بنفش",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"گاو بنفش\", author \"ست گادین\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "a69d303740da80e94846624180f9c5548a9de88a977203686d09a55a2ff8b25a",
+  "thumbnail_sha256": "6b8048e66c602e55be76f819ce21a0bb802cc7e9b963ba4ecfa3843c92cea372",
+  "image": "public/concept-art/book-070.webp",
+  "thumbnail": "public/concept-thumb/book-070.webp"
+}

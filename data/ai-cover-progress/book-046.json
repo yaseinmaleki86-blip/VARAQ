@@ -1,0 +1,11 @@
+{
+  "id": 46,
+  "title": "چهار اثر فلورانس اسکاول شین",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"چهار اثر فلورانس اسکاول شین\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5afad05be27eebba2d74d7a6e59309ecc81e2ddcd4078217d4a7fdf0659f8ecd",
+  "thumbnail_sha256": "4eeb3f5c8744cc18fe425d97c77d933bae56cd5b906cc95df3e77d57abb91766",
+  "image": "public/concept-art/book-046.webp",
+  "thumbnail": "public/concept-thumb/book-046.webp"
+}

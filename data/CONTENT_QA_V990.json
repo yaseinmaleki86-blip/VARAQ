@@ -1,0 +1,17 @@
+{
+  "target": 300,
+  "introductions": 300,
+  "summaries": 300,
+  "exact_duplicate_count": 0,
+  "different_intro_and_summary": true,
+  "scope_notes": [
+    91,
+    185,
+    193,
+    244
+  ],
+  "minimum_introduction_characters": 65,
+  "minimum_summary_characters": 111,
+  "content_sha256": "137559d05aa391fe77f31d7b8a53b652551268f2a4c3ad71a4266ce3ad3df35b",
+  "editorial_note": "Original introductory summaries, not full-book text; not a claim that all bibliographic details or editions have been verified."
+}

@@ -1,0 +1,11 @@
+{
+  "id": 157,
+  "title": "گزینه اشعار قیصر امین‌پور",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"گزینه اشعار قیصر امین‌پور\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "ffc82e094cf74fa3edb565e327277b403ca06ee169fd1dca5c168ec2224fdc56",
+  "thumbnail_sha256": "c06d767372e2febfed5aa8e130b04868e8c924d542679fa43f7d72c368c7a745",
+  "image": "public/concept-art/book-157.webp",
+  "thumbnail": "public/concept-thumb/book-157.webp"
+}

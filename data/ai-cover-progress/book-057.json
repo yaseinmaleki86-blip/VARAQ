@@ -1,0 +1,11 @@
+{
+  "id": 57,
+  "title": "تئوری انتخاب",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"تئوری انتخاب\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "33a4e744c1615ece8a789501a05ed79921eeac3df41b59480633e4cf9ec3a644",
+  "thumbnail_sha256": "9dc4a0fb4c53e3305ae36747c9fbcbff200552e9d0162d1ce5f5eac98f59d464",
+  "image": "public/concept-art/book-057.webp",
+  "thumbnail": "public/concept-thumb/book-057.webp"
+}

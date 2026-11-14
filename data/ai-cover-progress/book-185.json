@@ -1,0 +1,11 @@
+{
+  "id": 185,
+  "title": "زبان بدن",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"زبان بدن\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "c9c83aaf4e77b25f1b5fb4032143cc9e318551458d84608d61a23f359e55847d",
+  "thumbnail_sha256": "b71c41a3ed898fe9f0a4e5dee0904b6d0d3ec3368727acc393a285b2d2bce564",
+  "image": "public/concept-art/book-185.webp",
+  "thumbnail": "public/concept-thumb/book-185.webp"
+}

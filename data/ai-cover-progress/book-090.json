@@ -1,0 +1,11 @@
+{
+  "id": 90,
+  "title": "اسلحه میکروب و فولاد",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"اسلحه میکروب و فولاد\". Author: \"\". Category: \"فلسفه و تاریخ\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "980d53b027ed27b83407beb0f86f7551c343e248e520a76ce8702b45a2ac3248",
+  "thumbnail_sha256": "8a0dd6d01fe649cdfddcf9339de772203bef109acd62b5a8fe0d4b7c8e37b1ba",
+  "image": "public/concept-art/book-090.webp",
+  "thumbnail": "public/concept-thumb/book-090.webp"
+}

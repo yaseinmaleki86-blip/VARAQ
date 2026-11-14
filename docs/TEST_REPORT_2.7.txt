@@ -1,0 +1,32 @@
+VARAQ v2.7 | VERIFIED TEST REPORT
+26 files / 88 tests PASS / 0 FAIL
+
+phase10.test.js: 4 passed
+phase11.test.js: 5 passed
+phase12.test.js: 4 passed
+phase13.test.js: 5 passed
+phase14.test.js: 3 passed
+phase15.test.js: 2 passed
+phase16.test.js: 5 passed
+phase17.test.js: 3 passed
+phase18.test.js: 4 passed
+phase19.test.js: 3 passed
+phase20.test.js: 2 passed
+phase21.test.js: 4 passed
+phase22.test.js: 3 passed
+phase23.test.js: 4 passed
+phase24.test.js: 3 passed
+phase25.test.js: 3 passed
+phase26.test.js: 4 passed
+phase27.test.js: 5 passed
+phase3.test.js: 2 passed
+phase4.test.js: 3 passed
+phase5.test.js: 2 passed
+phase6.test.js: 3 passed
+phase7.test.js: 2 passed
+phase8.test.js: 3 passed
+phase9.test.js: 4 passed
+platform.test.js: 3 passed
+
+Upgrade 2.6 -> 2.7 PASS: existing 200 works, 71->84 edition sources, 44->51 works with sourced editions; custom store and custom description retained.
+Real payments remain disabled. Browser UI automation and commercial image licensing are NOT certified.

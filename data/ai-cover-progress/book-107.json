@@ -1,0 +1,11 @@
+{
+  "id": 107,
+  "title": "کدو قلقله‌زن",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"کدو قلقله‌زن\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "85cdf5207724fcd9e01b448dffef5711996181510a6a7ec16f4497126b93578a",
+  "thumbnail_sha256": "076e0c91827e05071523c13c9386d5943f02f19b3f971d2d3b45c76709626b9d",
+  "image": "public/concept-art/book-107.webp",
+  "thumbnail": "public/concept-thumb/book-107.webp"
+}

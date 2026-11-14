@@ -1,0 +1,11 @@
+{
+  "id": 275,
+  "title": "Cujo",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Cujo\" by Stephen King. Scene: a Saint Bernard resting by an isolated Maine farmhouse garage at dusk, tense but non-violent. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "4c53d904fb7555bfda503eda2cbf7b849ec7078d7024178ea4e9de63c2fe5c1b",
+  "thumbnail_sha256": "f6666c66b249edad77617dfc41b4f2d38a94f0d6e646aaa9be657b2873e34794",
+  "image": "public/concept-art/book-275.webp",
+  "thumbnail": "public/concept-thumb/book-275.webp"
+}

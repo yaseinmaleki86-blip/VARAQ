@@ -1,0 +1,11 @@
+{
+  "id": 21,
+  "title": "بادبادک‌باز",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"بادبادک‌باز\", author \"خالد حسینی\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "4933a83a0898b358ac70c20f142613ee9c4e9aab762c2f9e370df2a9eff204ad",
+  "thumbnail_sha256": "8117ed5c54ba3ae91c5e6872bfe1835b680c58c434e74b1a83c88e5719c87281",
+  "image": "public/concept-art/book-021.webp",
+  "thumbnail": "public/concept-thumb/book-021.webp"
+}

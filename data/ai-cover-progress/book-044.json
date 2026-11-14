@@ -1,0 +1,11 @@
+{
+  "id": 44,
+  "title": "باشگاه پنج صبحی‌ها",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"باشگاه پنج صبحی‌ها\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "518a24793feb75729ae6e8fc70ca80c11cb1d4e4c436236fe812b1ec9a105944",
+  "thumbnail_sha256": "993caef6074b7635e0b7fc1bf73ad6644911b6baa7b2d209fd30e7d71be164ba",
+  "image": "public/concept-art/book-044.webp",
+  "thumbnail": "public/concept-thumb/book-044.webp"
+}

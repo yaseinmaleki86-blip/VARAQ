@@ -1,0 +1,11 @@
+{
+  "id": 55,
+  "title": "جادوی فکر بزرگ",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"جادوی فکر بزرگ\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "61b0c3a270ed1708403307a3de33c0f6db0ab80013c313656b4ff03a0bc87726",
+  "thumbnail_sha256": "ad78ea654ed64318d913c784b0c602ef9382f1cd339e52eaf5e57cd5466b761d",
+  "image": "public/concept-art/book-055.webp",
+  "thumbnail": "public/concept-thumb/book-055.webp"
+}

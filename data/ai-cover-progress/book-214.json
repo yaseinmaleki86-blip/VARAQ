@@ -1,0 +1,11 @@
+{
+  "id": 214,
+  "title": "Childhood’s End",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Childhood’s End\" by \"Arthur C. Clarke\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "a5c4c8c17c718711082b8f579cb09fdda5e4296b3c4bec639fe7582b913c1506",
+  "thumbnail_sha256": "c3442bd8a0933c139c7966197d5b7d1b4c398171e20e76335c58daef509e646f",
+  "image": "public/concept-art/book-214.webp",
+  "thumbnail": "public/concept-thumb/book-214.webp"
+}

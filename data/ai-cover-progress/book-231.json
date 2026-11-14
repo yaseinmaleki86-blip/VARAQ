@@ -1,0 +1,11 @@
+{
+  "id": 231,
+  "title": "The Shining",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The Shining\" by \"Stephen King\" (ترسناک و تعلیق). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "9c13e9323021e8c32c1f8f6f640c146be03ba898c7163e8d8f8ff8c3bfc92d4d",
+  "thumbnail_sha256": "bc33e56c74924392e62ff9664f529ccbca6b0d4c5009ca8a3177b6568e841da8",
+  "image": "public/concept-art/book-231.webp",
+  "thumbnail": "public/concept-thumb/book-231.webp"
+}

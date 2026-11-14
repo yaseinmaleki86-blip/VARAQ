@@ -1,0 +1,11 @@
+{
+  "id": 84,
+  "title": "فراسوی نیک و بد",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"فراسوی نیک و بد\", author \"\", category \"فلسفه و تاریخ\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "90d090c618f478ef3c64d4d38b52c29ff226305fb4f4822deaf07bfa92642bb5",
+  "thumbnail_sha256": "d24e7507d11ea8376eb693064af6bfa11ae90c401fb978e57ed6f487aea2a24c",
+  "image": "public/concept-art/book-084.webp",
+  "thumbnail": "public/concept-thumb/book-084.webp"
+}

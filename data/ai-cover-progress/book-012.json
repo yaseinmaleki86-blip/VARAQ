@@ -1,0 +1,11 @@
+{
+  "id": 12,
+  "title": "گوژپشت نتردام",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"گوژپشت نتردام\", author \"ویکتور هوگو\", category \"رمان و ادبیات جهان\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7989d59b3e6f068ed1e0a854c1169b99bea8a9185a550816130ccce11be1d850",
+  "thumbnail_sha256": "0c455b741653089e5eeeaae309afbfc0b33d13acd1e38a20d0336b75d3707c6b",
+  "image": "public/concept-art/book-012.webp",
+  "thumbnail": "public/concept-thumb/book-012.webp"
+}

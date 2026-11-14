@@ -1,0 +1,11 @@
+{
+  "id": 211,
+  "title": "The Stranger",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The Stranger\" by \"Albert Camus\" (فلسفه و تاریخ). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "6e2a2de31e8ee5ffb7514b95dc4ef33c65cf78b828cf7268a3337e08331a3194",
+  "thumbnail_sha256": "5bf1e5a63b3b47596b2c21c5349c8721a240549598bfb471593724e853474c87",
+  "image": "public/concept-art/book-211.webp",
+  "thumbnail": "public/concept-thumb/book-211.webp"
+}

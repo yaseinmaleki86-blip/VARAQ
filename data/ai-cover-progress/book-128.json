@@ -1,0 +1,11 @@
+{
+  "id": 128,
+  "title": "هابیت",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هابیت\" by \"جی. آر. آر. تالکین\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "e7f5b5eba05675210f509b3e7a0fa8f2295d966b37a39b951b8e5ca29b1de8da",
+  "thumbnail_sha256": "c8fe81b789c967f5a50b12690747d03e7057da13e6ee71b2f4cd064c39fd9bd2",
+  "image": "public/concept-art/book-128.webp",
+  "thumbnail": "public/concept-thumb/book-128.webp"
+}

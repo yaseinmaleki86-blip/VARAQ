@@ -1,0 +1,101 @@
+{
+  "project": "VARAQ",
+  "build": "9.8.2",
+  "total_books": 1000,
+  "new_visual_replacements_this_release": 10,
+  "existing_editorial_covers_kept": 10,
+  "not_yet_redesigned": 980,
+  "all_images_are_concept_art_not_verified_publisher_covers": true,
+  "replaced": [
+    {
+      "id": 11,
+      "title": "بینوایان",
+      "author": "ویکتور هوگو",
+      "image": "/concept-art/book-011.webp",
+      "thumbnail": "/concept-thumb/book-011.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "82c61877d15857de1205f6f00b3e2ea48a954cedefc76732b4c2ceefe08f7b5d"
+    },
+    {
+      "id": 12,
+      "title": "گوژپشت نتردام",
+      "author": "ویکتور هوگو",
+      "image": "/concept-art/book-012.webp",
+      "thumbnail": "/concept-thumb/book-012.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "a2899635f579ad8b1f4e5931aae674655759740c31abad204eef02eefce3ea79"
+    },
+    {
+      "id": 13,
+      "title": "سه تفنگدار",
+      "author": "",
+      "image": "/concept-art/book-013.webp",
+      "thumbnail": "/concept-thumb/book-013.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "9dbe49298205552166b35b8991730c78ff7ced0707f978354ec8796e8bfa9157"
+    },
+    {
+      "id": 14,
+      "title": "کنت مونت کریستو",
+      "author": "",
+      "image": "/concept-art/book-014.webp",
+      "thumbnail": "/concept-thumb/book-014.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "1eea2dad6fb72fc8c0fe48cd1e07b03d369d4098db21a7be42559cc4fe1936c5"
+    },
+    {
+      "id": 15,
+      "title": "غرور و تعصب",
+      "author": "جین آستن",
+      "image": "/concept-art/book-015.webp",
+      "thumbnail": "/concept-thumb/book-015.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "ff05aac03171d1a7eba69c4f30a65fdc058083b1232af51233e9524971d17adb"
+    },
+    {
+      "id": 16,
+      "title": "بلندی‌های بادگیر",
+      "author": "",
+      "image": "/concept-art/book-016.webp",
+      "thumbnail": "/concept-thumb/book-016.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "ad527024a5696a166349040ef1d2ef34540f4707d6745f29f400653d08ba837d"
+    },
+    {
+      "id": 17,
+      "title": "جین ایر",
+      "author": "شارلوت برونته",
+      "image": "/concept-art/book-017.webp",
+      "thumbnail": "/concept-thumb/book-017.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "259aaf1cc45e8ebffd277b34a9329c8c8df8ff518ea6a44555804d788f46aaca"
+    },
+    {
+      "id": 18,
+      "title": "آنا کارنینا",
+      "author": "لئو تولستوی",
+      "image": "/concept-art/book-018.webp",
+      "thumbnail": "/concept-thumb/book-018.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "935f35553bd9299921bfd192a26d9bb3df69cb5d3625ec3bcbf705f82006e317"
+    },
+    {
+      "id": 19,
+      "title": "جنگ و صلح",
+      "author": "لئو تولستوی",
+      "image": "/concept-art/book-019.webp",
+      "thumbnail": "/concept-thumb/book-019.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "dfbf22cf892fa07c8a4768d9e7690be9703625eeb61f31a9b6ad27b075b2dfca"
+    },
+    {
+      "id": 20,
+      "title": "مادام بوواری",
+      "author": "",
+      "image": "/concept-art/book-020.webp",
+      "thumbnail": "/concept-thumb/book-020.webp",
+      "status": "new_book_related_illustration_not_official_publisher_cover",
+      "sha256": "5ca46a910817cc7cc39e46807ebe628d0d90510943ca5a8f0b7e913ea913e772"
+    }
+  ]
+}

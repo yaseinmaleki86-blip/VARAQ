@@ -1,0 +1,11 @@
+{
+  "id": 258,
+  "title": "Kindred",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Kindred\" by Octavia E. Butler. Scene: an open modern doorway looking into an old Maryland plantation landscape, two eras joined through a river reflection. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5f2cc73fce83da084f7798560849c1c53ab09a83981b9fd8568e12844875f997",
+  "thumbnail_sha256": "6be6ff1038fc29722e97d128a5c7133fb093c291e3927957f122db073de0a565",
+  "image": "public/concept-art/book-258.webp",
+  "thumbnail": "public/concept-thumb/book-258.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 65,
+  "title": "اسرار ذهن میلیونر",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"اسرار ذهن میلیونر\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "c1520f3f970dab3b1861273234bb0ba6f523ba98bc8dbd68589709f49ce0c43b",
+  "thumbnail_sha256": "9c61b9b6327d6011143087e74eb2111dcbcf95411d8ec0c0e76507059e374d23",
+  "image": "public/concept-art/book-065.webp",
+  "thumbnail": "public/concept-thumb/book-065.webp"
+}

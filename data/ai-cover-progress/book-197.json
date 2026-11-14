@@ -1,0 +1,11 @@
+{
+  "id": 197,
+  "title": "اصل‌گرایی",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"اصل‌گرایی\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "594a6cd8ee11c04f64d84f92bc08f9dc20bd6378354003aa7656b05361ded333",
+  "thumbnail_sha256": "eccd6c1591d6fcdc5b125a1a100058780b907d804e8e409f768ff73c10f7ccbf",
+  "image": "public/concept-art/book-197.webp",
+  "thumbnail": "public/concept-thumb/book-197.webp"
+}

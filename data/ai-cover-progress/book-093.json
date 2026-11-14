@@ -1,0 +1,11 @@
+{
+  "id": 93,
+  "title": "تاریخ بیهقی",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"تاریخ بیهقی\". Author: \"\". Category: \"فلسفه و تاریخ\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "db3193e3c657b5aee3da4f017a43a25b003d861c0bb8c3a52d453a15fa54d78b",
+  "thumbnail_sha256": "095a8c0af25e79ffd335299e7789e8ec793e13d0fe07c1d8114c39966f09b36b",
+  "image": "public/concept-art/book-093.webp",
+  "thumbnail": "public/concept-thumb/book-093.webp"
+}

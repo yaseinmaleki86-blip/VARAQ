@@ -1,0 +1,11 @@
+{
+  "id": 59,
+  "title": "جرئت داشته باش",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"جرئت داشته باش\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "1c75df9f858fec904bd83552c81f2b85cf558415eb0219d6e2fee647f438848f",
+  "thumbnail_sha256": "ebf3384755d0d205cfbc85dbe7c4278f0f957e5e22de7f0708950b45b5327be6",
+  "image": "public/concept-art/book-059.webp",
+  "thumbnail": "public/concept-thumb/book-059.webp"
+}

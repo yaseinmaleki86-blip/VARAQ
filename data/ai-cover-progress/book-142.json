@@ -1,0 +1,11 @@
+{
+  "id": 142,
+  "title": "دیوان حافظ",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"دیوان حافظ\" by \"حافظ\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5e85fdd594dca72123c21234798dd2a66b121ca40fe95587327b6a7e987b12c9",
+  "thumbnail_sha256": "5677fce1a32ef87bea8adf0bb1bb87277409abdc7bc47a8c884f5db55f93da52",
+  "image": "public/concept-art/book-142.webp",
+  "thumbnail": "public/concept-thumb/book-142.webp"
+}

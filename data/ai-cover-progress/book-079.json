@@ -1,0 +1,11 @@
+{
+  "id": 79,
+  "title": "هفته کاری چهار ساعته",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"هفته کاری چهار ساعته\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "801757ef16115ac42ab41a904fb91e11e7bd551b6ae396d13becd94422f86d8b",
+  "thumbnail_sha256": "717c65329477070d3a20288c4152306a1fb09fda90d687637fed8bce896d1b7d",
+  "image": "public/concept-art/book-079.webp",
+  "thumbnail": "public/concept-thumb/book-079.webp"
+}

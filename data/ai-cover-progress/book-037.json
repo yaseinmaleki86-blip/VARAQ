@@ -1,0 +1,11 @@
+{
+  "id": 37,
+  "title": "سووشون",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"سووشون\", author \"سیمین دانشور\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "d2d7a410c7051ab78869943618356ba2a9da93ff941ddc44895d93074ca42ed4",
+  "thumbnail_sha256": "59bdd686c6291b624d2f0d9890a836e0ded4f1a5a9dab1f5e0b5ad5f74d0d121",
+  "image": "public/concept-art/book-037.webp",
+  "thumbnail": "public/concept-thumb/book-037.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 56,
+  "title": "چهار میثاق",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"چهار میثاق\", author \"\", category \"روانشناسی و رشد فردی\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "f65e44359cde0365ebb133bb8f8d7d679815ab364d94ecf42bac565e09f1f7d9",
+  "thumbnail_sha256": "52ab779f4375aaf46cef0eb3e939a69f264c1d46f3a63a52914800a676d3021c",
+  "image": "public/concept-art/book-056.webp",
+  "thumbnail": "public/concept-thumb/book-056.webp"
+}

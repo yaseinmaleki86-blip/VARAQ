@@ -1,0 +1,11 @@
+{
+  "id": 68,
+  "title": "استارتاپ ناب",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"استارتاپ ناب\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "1e005d211cd40710d8329cd66e1507f1c48a7702de20605bf68210c1a04b1c61",
+  "thumbnail_sha256": "3cd94a6f214344065644022082f3ce5f5bcd69c48e3857ba235bab78efe4e964",
+  "image": "public/concept-art/book-068.webp",
+  "thumbnail": "public/concept-thumb/book-068.webp"
+}

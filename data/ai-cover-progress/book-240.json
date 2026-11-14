@@ -1,0 +1,11 @@
+{
+  "id": 240,
+  "title": "Fooled by Randomness",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Fooled by Randomness\" by \"Nassim Nicholas Taleb\" (کسب و کار و اقتصاد). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "30a3e47512fc79ee65fad419c5f67ae4126112dbff6630a6908c0428331ec487",
+  "thumbnail_sha256": "b3075795d2136924a6b285ce4893b8556c61715e4bd49a00170eba94995b53ac",
+  "image": "public/concept-art/book-240.webp",
+  "thumbnail": "public/concept-thumb/book-240.webp"
+}

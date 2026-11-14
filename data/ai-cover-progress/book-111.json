@@ -1,0 +1,11 @@
+{
+  "id": 111,
+  "title": "درخت بخشنده",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"درخت بخشنده\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "331d5b4d661dd2dec51a308346a36afca1cb20acd388eb6b9bf71faa5921094b",
+  "thumbnail_sha256": "91cff7a1cae11dd38b7f20b9c941c1a2023a304c76a1611d9adececacf853180",
+  "image": "public/concept-art/book-111.webp",
+  "thumbnail": "public/concept-thumb/book-111.webp"
+}

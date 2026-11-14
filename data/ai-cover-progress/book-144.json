@@ -1,0 +1,11 @@
+{
+  "id": 144,
+  "title": "گلستان سعدی",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"گلستان سعدی\" by \"سعدی\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "2b57bfa491af76ba1a47b68126b0ff69ee854acdd81e829717a18295b57870de",
+  "thumbnail_sha256": "21bb89e1ecea4a2b182fcd790fa1bd364bb40675f04a61b9bbe84f888997616a",
+  "image": "public/concept-art/book-144.webp",
+  "thumbnail": "public/concept-thumb/book-144.webp"
+}

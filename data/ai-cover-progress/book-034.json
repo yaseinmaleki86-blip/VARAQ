@@ -1,0 +1,11 @@
+{
+  "id": 34,
+  "title": "پاییز فصل آخر سال است",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"پاییز فصل آخر سال است\", author \"\", category \"رمان معاصر\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "11622537d994a7c05b4b6340fcda3ce9cc6d26df96da4ebf51a1224bd185b88a",
+  "thumbnail_sha256": "3e58dfb8015a87956d71e29c2daf67a03e29798ebfea83534273fae46dbfadf5",
+  "image": "public/concept-art/book-034.webp",
+  "thumbnail": "public/concept-thumb/book-034.webp"
+}

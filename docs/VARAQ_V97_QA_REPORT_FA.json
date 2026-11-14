@@ -1,0 +1,13 @@
+{
+  "release": "9.7-local-single-checkout",
+  "tested": {
+    "unified_http_and_sso": {"passed": 30, "failed": 0},
+    "node_selected_regressions": {"passed": 12, "failed": 0},
+    "read_only_audit_units": "passed"
+  },
+  "complete_node_test_suite": "incomplete due to timeout; not considered a pass",
+  "not_verified": ["live payment gateway", "production SSL and deployment", "real mobile devices", "automatic migration of legacy stock", "shared physical database"],
+  "payments_live": false,
+  "media_authority": "1000 concept illustrations, not official publisher covers",
+  "data_policy": "Do not overwrite production storage and market/data when upgrading"
+}

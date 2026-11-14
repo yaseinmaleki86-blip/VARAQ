@@ -1,0 +1,11 @@
+{
+  "id": 189,
+  "title": "هوش هیجانی",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هوش هیجانی\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "7e655122f32730b8897effb086a943f05b167a880000ed16b9daff42f2af32ee",
+  "thumbnail_sha256": "2726e7fd301512f16a3ad68dd4094aaf42b422dc9fd380ed37111d5eb94362c9",
+  "image": "public/concept-art/book-189.webp",
+  "thumbnail": "public/concept-thumb/book-189.webp"
+}

@@ -1,0 +1,66 @@
+'use strict';
+const {test}=require('node:test');
+const assert=require('node:assert/strict');
+const fs=require('node:fs');
+const path=require('node:path');
+const {DatabaseSync}=require('node:sqlite');
+const pdfStore=require('../lib/pdf-store');
+const discover=require('../lib/pdf-discovery');
+const ui=require('../lib/pdf-ui');
+function fixture(){
+ const db=new DatabaseSync(':memory:');
+ db.exec(`PRAGMA foreign_keys=ON;
+ CREATE TABLE books(id INTEGER PRIMARY KEY,slug TEXT,title TEXT,author TEXT,category TEXT);
+ CREATE TABLE stores(id INTEGER PRIMARY KEY,name TEXT,active INTEGER);
+ CREATE TABLE users(id INTEGER PRIMARY KEY);
+ CREATE TABLE editions(id INTEGER PRIMARY KEY, book_id INTEGER, verified INTEGER);
+ CREATE TABLE edition_cover_assets(edition_id INTEGER,filename TEXT);
+ CREATE TABLE book_covers(book_id INTEGER,filename TEXT);
+ INSERT INTO users VALUES(1);
+ INSERT INTO books VALUES(1,'book-001','کتاب نیم‌فاصله‌دار','پژوهشگر یک','علمی'),(2,'book-002','داستان تازه','نویسنده دوم','رمان');
+ INSERT INTO stores VALUES(1,'فروشگاه اول',1),(2,'فروشگاه متوقف',0);`);
+ pdfStore.migrate(db);
+ const add=db.prepare(`INSERT INTO digital_books(store_id,book_id,title,description,price,filename,original_name,file_sha256,file_bytes,rights_holder,rights_basis,rights_evidence,status,rights_expires_on,distribution_hold) VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)`);
+ const push=(id,store,book,title,state='approved',hold=0,expires='2099-01-01')=>add.run(store,book,title,'معرفی نسخه PDF',20000,id.toString(16).padStart(32,'0')+'.pdf','a.pdf','b'.repeat(64),20000,'مالک','قرارداد','مدرک',state,expires,hold);
+ push(1,1,1,'آموزش PDF ۱۴۰۶');push(2,1,2,'یادداشت دوم');
+ push(3,1,1,'نسخه متوقف','approved',1);push(4,1,1,'منقضی شده','approved',0,'2020-01-01');push(5,2,1,'فروشگاه غیرفعال');push(6,1,2,'تأییدنشده','pending');
+ return db;
+}
+const esc=s=>String(s??'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
+const helpers={esc,attr:esc,money:n=>`${n} تومان`,digits:n=>String(n),linkedPrintCover:()=>'<span>نمای مرتبط</span>'};
+test('8.1 Persian/Arabic character forms, digits, case, ZWNJ, and multi-token PDF search',t=>{
+ const db=fixture();t.after(()=>db.close());
+ assert.equal(discover.browse(db,{q:'اموزش pdf 1406'}).total,1);
+ assert.equal(discover.browse(db,{q:'آموزش PDF ۱۴۰۶'}).total,1);
+ assert.equal(discover.browse(db,{q:'پژوهشگر يك'}).total,1);
+ assert.equal(discover.browse(db,{q:'نیم فاصله دار'}).total,1);
+ assert.equal(discover.browse(db,{q:'نویسنده دوم'}).total,1);
+ assert.equal(discover.browse(db,{q:'% OR 1=1 --'}).total,0);
+ assert.equal(discover.browse(db,{q:'%'}).total,0);
+});
+test('8.1 PDF reading shelf controls are typed, accessible and never expose vault data',t=>{
+ const db=fixture();t.after(()=>db.close());
+ const html=ui.publicPage(db,new URL('https://varaq.example/pdf-books'),helpers);
+ assert.equal((html.match(/class="save-pdf v81-pdf-save"/g)||[]).length,2);
+ assert.match(html,/data-pdf-id="1"/);
+ assert.match(html,/aria-pressed="false"/);
+ assert.doesNotMatch(html,/file_sha256|rights_evidence|digital-pdfs|pdf-delivery/);
+ const detail=ui.publicDetail(db,1,helpers);
+ assert.ok(detail);
+ assert.match(detail.content,/class="save-pdf v81-pdf-save"/);
+ assert.match(detail.content,/خرید و دانلود — غیرفعال/);
+ assert.equal(ui.publicDetail(db,3,helpers),null);
+ assert.equal(ui.publicDetail(db,4,helpers),null);
+ assert.equal(ui.publicDetail(db,5,helpers),null);
+ assert.equal(ui.publicDetail(db,6,helpers),null);
+});
+test('8.1 browser shelf implementation is independent of print-book storage and never stores access secrets',()=>{
+ const app=fs.readFileSync(path.join(__dirname,'..','public','app.js'),'utf8');
+ const page=fs.readFileSync(path.join(__dirname,'..','server.js'),'utf8');
+ assert.match(app,/varaq_pdf_saved_v81/);
+ assert.match(app,/const pdfShelf=document.getElementById\('saved-pdf-root'\)/);
+ assert.match(app,/textContent/);
+ assert.match(page,/id="saved-pdf-root"/);
+ assert.match(page,/id="clear-pdf-saved"/);
+ assert.doesNotMatch(app,/\/pdf-delivery\//);
+});

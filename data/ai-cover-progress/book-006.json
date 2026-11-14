@@ -1,0 +1,11 @@
+{
+  "id": 6,
+  "title": "جنایت و مکافات",
+  "prompt": "Use case: illustration-story. Asset: ONE portrait 5:7 full-bleed original literary artwork for a bookstore. Book title: جنایت و مکافات; author: فئودور داستایفسکی; category: رمان و ادبیات جهان. Create a beautiful specific narrative scene inspired by this book's recognizable setting and themes, with naturalistic characters where appropriate, rich spatial depth, carefully painted textures, cinematic lighting, refined editorial illustration. Strong scene composition recognizable at thumbnail size. No text, no lettering, no watermark, no grid, no mockup. Original independent interpretation, do not reproduce an existing cover.",
+  "sha256": "1041e2fa504710256f1095c3e52e64983e9cc43b1b70d31ef8cc1879863a3032",
+  "thumbnail_sha256": "4f6350a1e4650b9f085f1b85fc47586e6f4a4828b8ce11c4474c2b182e1abfbd",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "image": "public/concept-art/book-006.webp",
+  "thumbnail": "public/concept-thumb/book-006.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 75,
+  "title": "رهبران آخر غذا می‌خورند",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"رهبران آخر غذا می‌خورند\", author \"\", category \"کسب و کار و اقتصاد\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "a744019688b64367a0fbcf05129c4f40b29210754436cda30ee8e2f4ab58af59",
+  "thumbnail_sha256": "b9c7ccdd81847dab64abf87e85fd6392e35ec808eecb84fceb01f0bccbaded21",
+  "image": "public/concept-art/book-075.webp",
+  "thumbnail": "public/concept-thumb/book-075.webp"
+}

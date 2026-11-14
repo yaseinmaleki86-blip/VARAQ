@@ -1,0 +1,11 @@
+{
+  "id": 278,
+  "title": "Mrs Dalloway",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Mrs Dalloway\" by Virginia Woolf. Scene: London in June, flowers near a city window, clock tower reflection, layered memories. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5143b0c38c8c7377eec38ee0aa92a4c58cb5b4d87e82dfe80a46a32e144e31fe",
+  "thumbnail_sha256": "b658a39af9cc640123c80e83d207a2c86a026a5b39571d904995ee14ef911744",
+  "image": "public/concept-art/book-278.webp",
+  "thumbnail": "public/concept-thumb/book-278.webp"
+}

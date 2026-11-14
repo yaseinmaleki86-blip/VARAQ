@@ -1,0 +1,11 @@
+{
+  "id": 254,
+  "title": "Show Your Work!",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Show Your Work!\" by Austin Kleon. Scene: artist's open sketchbook, paint-stained desk and small framed works arranged ready to share. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "86b96f3c76445b8f6e256f44262249fd78207a244fbf1b5bcaec35371b7436be",
+  "thumbnail_sha256": "fcc9fcad1509e6f08ffff31ae1cbe0ea3af2aba9d5f6557d6f86d3ec023e2525",
+  "image": "public/concept-art/book-254.webp",
+  "thumbnail": "public/concept-thumb/book-254.webp"
+}

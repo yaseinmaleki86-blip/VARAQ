@@ -1,0 +1,11 @@
+{
+  "id": 297,
+  "title": "Pet Sematary",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Pet Sematary\" by Stephen King. Scene: a quiet rural Maine path toward a small pet cemetery, a watchful ordinary cat and mist, no gore or undead. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "754599ce419c5e4f785dd848e57f7314097f21133edac45c54e8f4cdd4ce1f6f",
+  "thumbnail_sha256": "4712619909fce7afb5be4f7b3d090058c5d7da97af693e7b992f63bb9091f5d5",
+  "image": "public/concept-art/book-297.webp",
+  "thumbnail": "public/concept-thumb/book-297.webp"
+}

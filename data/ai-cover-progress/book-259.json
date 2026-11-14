@@ -1,0 +1,11 @@
+{
+  "id": 259,
+  "title": "Sharp Objects",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Sharp Objects\" by Gillian Flynn. Scene: small Missouri town at twilight, vintage notebook, ribbon, cracked porcelain doll in a quiet room, restrained mystery. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "bce1506700b938502d26ed6d2c94acf3f6b1a4d227c54c5d9888e9933001d161",
+  "thumbnail_sha256": "f80485ee8558502f9a337a56f4f9e28895235d511dec4aff75e2b5fd05a27c90",
+  "image": "public/concept-art/book-259.webp",
+  "thumbnail": "public/concept-thumb/book-259.webp"
+}

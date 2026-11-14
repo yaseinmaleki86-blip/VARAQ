@@ -1,0 +1,11 @@
+{
+  "id": 11,
+  "title": "بینوایان",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"بینوایان\", author \"ویکتور هوگو\", category \"رمان و ادبیات جهان\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "cb55aad076c73612a12ab4c0e960f1a5a55a4e42dbe111fe1ecb3d5b83118299",
+  "thumbnail_sha256": "910d44df5ae14cbedf7374563e1da4647645fec8806b9f5eb8c461514bab2096",
+  "image": "public/concept-art/book-011.webp",
+  "thumbnail": "public/concept-thumb/book-011.webp"
+}

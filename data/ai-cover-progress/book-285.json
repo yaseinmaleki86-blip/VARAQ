@@ -1,0 +1,11 @@
+{
+  "id": 285,
+  "title": "Focus",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Focus\" by Daniel Goleman. Scene: a clear glass lens bringing one leaf into focus while a busy city blurs behind. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "3f88563419ad6ce32eff1def2221334519c2ff0d86a1fd11a5e31f91b3d0ea98",
+  "thumbnail_sha256": "c4295ea67777bba16b49ab5537f67c75fb0703e8beebb9642bb72f8533992f52",
+  "image": "public/concept-art/book-285.webp",
+  "thumbnail": "public/concept-thumb/book-285.webp"
+}

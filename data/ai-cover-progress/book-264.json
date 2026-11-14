@@ -1,0 +1,11 @@
+{
+  "id": 264,
+  "title": "Firestarter",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Firestarter\" by Stephen King. Scene: a single controlled candle flame hovering above an empty research-room table, atmospheric supernatural mystery. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "4ff27a3b922c01af785d147756780d99460db822c186c9259590fba0ef112215",
+  "thumbnail_sha256": "19bd9a24396f4f62577696828dfdb4aa111590644c2149ececd00abe2459c2fc",
+  "image": "public/concept-art/book-264.webp",
+  "thumbnail": "public/concept-thumb/book-264.webp"
+}

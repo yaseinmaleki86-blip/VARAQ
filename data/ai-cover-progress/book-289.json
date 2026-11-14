@@ -1,0 +1,11 @@
+{
+  "id": 289,
+  "title": "Dubliners",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Dubliners\" by James Joyce. Scene: early twentieth-century Dublin street after rain, gas lamp, pub doorway and river reflection. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "48eb7d583d8b1c5d2c8f08a9054cc7de7c589bc9c46a94f6e44f22ad9bf2b8f5",
+  "thumbnail_sha256": "0dfd15e1d92f38c05654b472113b931f4f90ffcb0125452020aa1a3ef454d259",
+  "image": "public/concept-art/book-289.webp",
+  "thumbnail": "public/concept-thumb/book-289.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 251,
+  "title": "Moneyball",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Moneyball\" by Michael Lewis. Scene: baseball stadium seen from above, worn baseball and bat beside unlabeled statistical charts, strategic scouting. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "31e941613caf3c7d7cb5a3fcaafa1d5688d039e6df9dce248a4d5686eb3165ec",
+  "thumbnail_sha256": "dfc8b9ec1c86920f5ef849d7c432b3b7065b8c4a73926931f0e2d4331210adb9",
+  "image": "public/concept-art/book-251.webp",
+  "thumbnail": "public/concept-thumb/book-251.webp"
+}

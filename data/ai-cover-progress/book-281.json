@@ -1,0 +1,11 @@
+{
+  "id": 281,
+  "title": "The Murder of Roger Ackroyd",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"The Murder of Roger Ackroyd\" by Agatha Christie. Scene: 1920s English village manor study, fountain pen, closed diary and gramophone, elegant detective mystery. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "77c606d20df010f209950b3cbd3a89276d95b22334e28b2232f49d5a34bbc9cd",
+  "thumbnail_sha256": "37809d9f2675727a8a96d89dd2ff0a0739503328038324cd0a18d2ba697dcd96",
+  "image": "public/concept-art/book-281.webp",
+  "thumbnail": "public/concept-thumb/book-281.webp"
+}

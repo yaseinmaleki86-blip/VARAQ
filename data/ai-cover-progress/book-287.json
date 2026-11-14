@@ -1,0 +1,11 @@
+{
+  "id": 287,
+  "title": "Keep Going",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Keep Going\" by Austin Kleon. Scene: a working artist's desk with brushes, everyday flowers and an unfinished drawing in morning light. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "ca4cc2f01130b78bbc80936ca49a879ed4a2f485a724b5aabb9d906996ca931c",
+  "thumbnail_sha256": "02c56bf3654c6f457df0e9c31ab7637b17a8473e126d145aca9556622616d563",
+  "image": "public/concept-art/book-287.webp",
+  "thumbnail": "public/concept-thumb/book-287.webp"
+}

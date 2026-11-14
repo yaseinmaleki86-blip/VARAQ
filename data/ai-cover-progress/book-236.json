@@ -1,0 +1,11 @@
+{
+  "id": 236,
+  "title": "The Left Hand of Darkness",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"The Left Hand of Darkness\" by \"Ursula K. Le Guin\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "d790f058fa4ab6cd45ffc38e8de7e3f39c495667f56421c2dc93d44ccfae54ce",
+  "thumbnail_sha256": "76ae350bd4b8ed56f2a4005c16aa4c24a79c277d1374189d8e73a0516d86ce57",
+  "image": "public/concept-art/book-236.webp",
+  "thumbnail": "public/concept-thumb/book-236.webp"
+}

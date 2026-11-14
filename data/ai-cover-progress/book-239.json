@@ -1,0 +1,11 @@
+{
+  "id": 239,
+  "title": "Black Holes and Baby Universes",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Black Holes and Baby Universes\" by \"Stephen Hawking\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "2a912412383ad0fe2807941b88e992418862ac24e8119552bd15834d3b6ad2f2",
+  "thumbnail_sha256": "3a0c4cf65a13a6064231e603deb6b15a0e0ba63114f101792775489c1212864b",
+  "image": "public/concept-art/book-239.webp",
+  "thumbnail": "public/concept-thumb/book-239.webp"
+}

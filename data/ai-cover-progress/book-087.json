@@ -1,0 +1,11 @@
+{
+  "id": 87,
+  "title": "انسان خردمند",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"انسان خردمند\", author \"یووال نوح هراری\", category \"فلسفه و تاریخ\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "bbbc869b2572f8c464a656770ffd0115597d3ed283416203eeba7a52864b2060",
+  "thumbnail_sha256": "e26ebca529bfb97e92cb0475729d15daaf8fb022cca45b23522926378c4915a4",
+  "image": "public/concept-art/book-087.webp",
+  "thumbnail": "public/concept-thumb/book-087.webp"
+}

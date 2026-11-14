@@ -1,0 +1,11 @@
+'use strict';
+const path=require('node:path');
+const recovery=require('./lib/recovery-rehearsal');
+const args=process.argv.slice(2);
+const i=args.indexOf('--backup');
+const backupDir=i===-1?undefined:args[i+1];
+const dataDir=path.resolve(process.env.DATA_DIR||path.join(__dirname,'storage'));
+const result=recovery.rehearse({dataDir,backupDir});
+console.log(JSON.stringify(result,null,2));
+console.log('No live database, media, or backup was modified; only a temporary copy was created and removed.');
+if(!result.passed)process.exitCode=1;

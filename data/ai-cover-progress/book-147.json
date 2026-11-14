@@ -1,0 +1,11 @@
+{
+  "id": 147,
+  "title": "رباعیات خیام",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"رباعیات خیام\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "1b7c61374b9a0e78dc0a212f67802a54916dab0cc91ab3495f2237301d62591f",
+  "thumbnail_sha256": "5c4c15eeefcf498e2c71a713455cc285fe15426537bfc64906d1975a8eaf2c2e",
+  "image": "public/concept-art/book-147.webp",
+  "thumbnail": "public/concept-thumb/book-147.webp"
+}

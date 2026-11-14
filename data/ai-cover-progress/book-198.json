@@ -1,0 +1,11 @@
+{
+  "id": 198,
+  "title": "چهار هزار هفته",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"چهار هزار هفته\" by \"\" (مهارت و سبک زندگی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "085d77c998153a287cb0cd62e3db982864808924d6773015d2725c07b34425ef",
+  "thumbnail_sha256": "c7088d6b3930e4cf20b68ad5fafbfab0deb10e27b3895edab72fa3f9bf26df98",
+  "image": "public/concept-art/book-198.webp",
+  "thumbnail": "public/concept-thumb/book-198.webp"
+}

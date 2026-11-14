@@ -1,0 +1,15 @@
+node_modules/
+storage/
+market/storage/
+.env
+.env.*
+!*.env.example
+*.sqlite
+*.sqlite-*
+*.db
+*.log
+__pycache__/
+.venv/
+backups/
+*.zip
+.DS_Store

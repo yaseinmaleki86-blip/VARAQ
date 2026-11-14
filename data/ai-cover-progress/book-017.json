@@ -1,0 +1,11 @@
+{
+  "id": 17,
+  "title": "جین ایر",
+  "prompt": "Use case: illustration-story. Generate ONE beautiful portrait 5:7 full bleed literary illustration for book \"جین ایر\", author \"شارلوت برونته\", category \"رمان و ادبیات جهان\". Visually interpret its specific story, era, setting and themes with a distinct scenic composition, evocative lighting, rich detail and sophisticated painted realism. Vary composition, viewpoint, atmosphere and color to suit THIS book. Standalone artwork with no title, text, lettering, watermark, panels, borders or 3D book mockup; never copy publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "6a2916dc7f984fc4070fdd11ac63042abc539c4acc35c490f46991614b935b09",
+  "thumbnail_sha256": "5c403aa0fca61d9beeb1cd51b7e242111047a490ac92f926916c6b7a8893c0d1",
+  "image": "public/concept-art/book-017.webp",
+  "thumbnail": "public/concept-thumb/book-017.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 257,
+  "title": "Norwegian Wood",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Norwegian Wood\" by Haruki Murakami. Scene: Tokyo woodland path in autumn, vinyl record and headphones near a dormitory window, bittersweet nostalgia. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "e3da9a489b3308ba260f73dd0d3c89183d02b146717e7770329e7b5ef5e51beb",
+  "thumbnail_sha256": "f594e7782844f13f4a28f5a40fa4a7ddd35851ee65b00314abf9a0d5175829ac",
+  "image": "public/concept-art/book-257.webp",
+  "thumbnail": "public/concept-thumb/book-257.webp"
+}

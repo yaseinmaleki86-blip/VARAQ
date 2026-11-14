@@ -1,0 +1,11 @@
+{
+  "id": 263,
+  "title": "Grit",
+  "prompt": "Use case: illustration-story. ONE original premium portrait 5:7 full-bleed literary illustration for \"Grit\" by Angela Duckworth. Scene: long mountain trail and scuffed boots, persistent practice in changing weather. Detailed evocative painterly editorial art, strong composition legible on a book catalogue card, beautiful coherent lighting. No lettering, text, title, watermark, borders, grid, mockup, nudity or graphic violence. Independent artwork rather than reproduction of a publisher cover.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "5af4efd7ca2456146f8265204d067878f4da1bc53517a65711bd2fffb393aa38",
+  "thumbnail_sha256": "02d7f7c7102efb832aa9c416b29241174ee134126e0e8197d36f69040ebf94fe",
+  "image": "public/concept-art/book-263.webp",
+  "thumbnail": "public/concept-thumb/book-263.webp"
+}

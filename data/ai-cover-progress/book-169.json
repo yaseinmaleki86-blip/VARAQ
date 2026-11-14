@@ -1,0 +1,11 @@
+{
+  "id": 169,
+  "title": "ژن خودخواه",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"ژن خودخواه\" by \"ریچارد داوکینز\" (علم و فناوری). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "9d69de52971170eda6a797bb0211854b3d8af7b1220563d39c0c3c63d3f39d27",
+  "thumbnail_sha256": "e379f0aecf30a679ec1a1404f3bbb80ade0f6409891e1aad155e48f363f523eb",
+  "image": "public/concept-art/book-169.webp",
+  "thumbnail": "public/concept-thumb/book-169.webp"
+}

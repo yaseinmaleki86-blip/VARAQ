@@ -1,0 +1,11 @@
+{
+  "id": 117,
+  "title": "غول بزرگ مهربان",
+  "prompt": "Use case: illustration-story. Asset: ONE original full-bleed portrait 5:7 artwork for a literary bookstore. Title: \"غول بزرگ مهربان\". Author: \"\". Category: \"کودک و نوجوان\". Imagine a visually specific scene capturing this particular work's setting, subjects and themes. Sophisticated painted editorial illustration, naturalistic detail, thoughtful spatial composition and rich evocative lighting. Choose a distinct viewpoint and palette suited to the book. For nonfiction use a compelling conceptual scene about its subject. No text, letters, titles, logos, watermarks, frames, grids or book mockups. Do not reproduce publisher artwork.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "4370423f9d0a37b030e9c6eaba75c07718781c5cc83c68bda40382def0edaad2",
+  "thumbnail_sha256": "0d6179d3e9f0db2c0691c14e2844a81a20a84864235e095e837a02f9a95b35be",
+  "image": "public/concept-art/book-117.webp",
+  "thumbnail": "public/concept-thumb/book-117.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 249,
+  "title": "Eleanor & Park",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"Eleanor & Park\" by \"Rainbow Rowell\" (کودک و نوجوان). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "da3b0ceeeec56dd9898d72a437d7feeb6c5617ef75fb672c789787464b0b5f1b",
+  "thumbnail_sha256": "9865803a683f5fb1ef84f03e26e44f764202eee34b5cd26650fff972764265df",
+  "image": "public/concept-art/book-249.webp",
+  "thumbnail": "public/concept-thumb/book-249.webp"
+}

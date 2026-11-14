@@ -1,0 +1,11 @@
+{
+  "id": 127,
+  "title": "هری پاتر و یادگاران مرگ",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"هری پاتر و یادگاران مرگ\" by \"\" (فانتزی و علمی‌تخیلی). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "01140ef416bbf00816a95794400c2965fcb3de992023dbeedba23c8c040bfaa0",
+  "thumbnail_sha256": "125360432ef51d0e46a281b3d53aaf5ce95385657283989ab0307e8bb69826a5",
+  "image": "public/concept-art/book-127.webp",
+  "thumbnail": "public/concept-thumb/book-127.webp"
+}

@@ -1,0 +1,11 @@
+{
+  "id": 151,
+  "title": "لیلی و مجنون",
+  "prompt": "Use case: illustration-story. ONE original portrait 5:7 bookstore illustration inspired by \"لیلی و مجنون\" by \"\" (ادبیات فارسی و شعر). A distinctive atmospheric environment or still-life that evokes this book's subject, setting and central ideas, beautifully painted, rich visual depth, editorial quality, legible at thumbnail size. Choose an original composition and color palette specific to this book. General-audience artwork: no nudity, no graphic injury, no violence, no human figures needed. No text, titles, letters, logos, watermark, border, collage or book mockup. Independent interpretation rather than existing cover art.",
+  "generator": "built-in image_gen",
+  "status": "generated_installed_awaiting_visual_review",
+  "sha256": "75136985ee7063b1d3846206cf6154fcdff55ecf7320e0e45d31692a6db8465b",
+  "thumbnail_sha256": "9ff5d7ffbd2a13ec9e32b96991e602877602ca1d49edbae112431020490e9f74",
+  "image": "public/concept-art/book-151.webp",
+  "thumbnail": "public/concept-thumb/book-151.webp"
+}
