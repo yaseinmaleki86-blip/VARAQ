@@ -1,2 +1,3 @@
 # VARAQ
-VARAQ 9.9.0 — full book platform with 300 original ilustrations, introductions and summaries
+
+Full release import is running. The complete source will replace this temporary README after integrity verification.
